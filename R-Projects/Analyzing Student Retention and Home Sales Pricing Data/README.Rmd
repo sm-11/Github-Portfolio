@@ -1,0 +1,2 @@
+# Descriptive Analytics
+Investigating Roanoke College's student retention rates and exploring the dynamics of home sales pricing in Salem, Virginia.
