@@ -1,0 +1,233 @@
+---
+title: "STAT 304: Final Project"
+subtitle: "Analyzing Student Retention at Roanoke College and Home Sales in Salem, VA"
+author: "Selam Mekonnen"
+date: "April 28, 2023"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(tidyverse)
+library(kableExtra)
+require(GGally)
+
+#Set your working directory!
+setwd("C:/Users/selam/Desktop")
+
+rc<-read.csv('RC_data.csv', header = T)
+rc<-na.omit(rc)
+rc$ret<-ifelse(rc$Retained.to.Fall.2.=="Yes",1,0)
+rc$org<-ifelse(rc$X..of.campus.orgs..December.!="0",1,0)
+names(rc)
+newnames<-c('ID','Start.Term','First.Gen.No.Bach','First.Gen.No.Col','Pell.Grant','Midterm.GPA','Athlete','Cum.GPA.Dec','Housing.Fall','Ret.Fall.2','Ret.Fall.3','Fall.Campus.Job','Num.Orgs','Mid.DorF','Mid.DorF.Percent', 'Num.NonLab.STEM','Num.STEM.Courses','Percent.STEM.Courses','Num.Class.Passed','Percent.Class.Passed','ret','org' )
+names(rc)<-newnames
+
+#all real estate data
+real<-read.csv('RealEstate.csv')
+#427 N Market St
+sold<-read.csv('sold home.csv')
+```
+
+### Part 1: Student Retention at Roanoke College
+
+The goal in the investigation of student retention at Roanoke College is to determine what impacts a student from being retained from the second to third year. Note that we only consider data from 2017 and 2018 since the data from 2019 is not available yet. We use the data frame rc.ret for the analysis.
+
+```{r echo=FALSE}
+rc.ret<-rc%>%filter(ret==1&(Start.Term == "2017FA"|Start.Term == "2018FA"))
+rc.ret$ret3<-ifelse(rc.ret$Ret.Fall.3=='Yes',1,0)
+knitr::kable(head(rc.ret[, 1:5])) 
+```
+
+Creating a fitted model that explains third year retention by fall cumulative GPA and plotting the model. 
+
+```{r echo=FALSE}
+fit.ret3 <- glm(ret3~Cum.GPA.Dec, family=binomial, rc.ret) 
+knitr::kable((summary(fit.ret3)$coefficients), caption = 'Logistic Model Explaining 3rd Year Retention by Fall GPA')
+```
+
+* Fall semester GPA has a significant positive effect on student retention to third year. Meaning, for every increase in Fall GPA, the odds of students returning for junior year increase by a factor of `r round(exp(0.926), 2)` at Roanoke College.
+
+* Fitted Model:
+$\Large \pi= {\Large {\frac{e^{-0.31 + 0.92(Cum.GPA.Dec)}}{1 + {e^{-0.31 + 0.92(Cum.GPA.Dec)}}}}}$
+
+```{r echo=FALSE}
+# adding a new column 'ret3' to the df
+rc.ret$prob.ret3 <- predict(fit.ret3, rc.ret, type="response")
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+ggplot(rc.ret, aes(x=Cum.GPA.Dec, y=prob.ret3))+
+  geom_point(aes(x=Cum.GPA.Dec, y=ret3))+
+  geom_line(col = "#008000", lwd=1.5)+
+  ggtitle("Third Year Student Retention at Ronaoke College",
+          subtitle = "Strong Fall GPA Indicates Higher Student Retention")+
+  theme(plot.title = element_text(size=15,
+                                  face = "bold",
+                                  colour="#008000"),
+        plot.subtitle = element_text(size = 10))+
+  ylab('Probability of Retention')+
+  xlab('Fall GPA')
+```
+
+Adding the variable varsity sport into the model from previous analysis and graphing it to understand the relationship between third year retention and playing a varsity sport.
+
+```{r echo=FALSE}
+fit.var <- glm(ret3~Cum.GPA.Dec+Athlete, family=binomial, rc.ret) 
+knitr::kable((summary(fit.var)$coefficients), caption = 'Logistic Model Explaining 3rd Year Retention By Fall GPA & Varsity Sport')
+```
+
+* Fall semester GPA has a significant positive effect on student retention to junior year, however, playing varsity has no significance on retention. Thereby, for every increase in Fall GPA, the odds of retention to third year increase by a factor of `r round(exp(0.926), 2)` or by about 93% at Roanoke College.
+
+```{r echo=FALSE}
+rc.ret$prob.var <- predict(fit.var, rc.ret,type="response")
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+ggplot(rc.ret, aes(x=Cum.GPA.Dec, y=prob.var, color=as.factor(Athlete)))+
+  geom_point(aes(x=Cum.GPA.Dec, y=ret3))+
+  geom_line(lwd=1.5)+
+  labs(color='Retained?') +
+  scale_color_manual(values = c("#64dfdf", "#008000"),
+                     labels =c('No [0]','Yes [1]')) +
+  ggtitle("Third Year Student Retention at Ronaoke College",
+          subtitle = "Fall GPA Strongly Predicts Retention but Varsity Does Not")+
+  theme(plot.title = element_text(size=15, hjust = 0.5,
+                                  face = "bold"),
+        plot.subtitle = element_text(size = 10,  hjust = 0.5))+
+  ylab('Probability of Retention')+
+  xlab('Fall GPA & Varsity')
+```
+
+
+
+### Part 2: Salem Real Estate
+
+The goal is to investigate the sale price of homes in Salem, VA during the years 2020, 2021, and 2022. The data frame 'real' contains all homes sold during that three year period. 
+
+```{r echo=FALSE}
+knitr::kable(head(real[, 1:5]))
+```
+
+Creating a simple model to see the relationship between sales price with land size and year of sale. Followed by fitting and graphing the model.
+
+```{r echo=FALSE}
+fit.sales <- lm(sale_price~sqft_of_main+as.factor(year_sold), real)
+knitr::kable((summary(fit.sales)$coefficients))
+```
+
+* Fitted Model:
+$\hat{Y}= {14465.75 + 134.46(sqft_ofmain) + 11195.19(year_sol_d2021) + 39102.02(year_sol_d2022)}$
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+ggplot(real, aes(x=sqft_of_main, y=sale_price, color=as.factor(year_sold))) +
+  geom_point() +
+  geom_smooth(method = lm, se = FALSE) +
+  labs(color='Sales Year') +
+  scale_color_manual(values = c("#1c2541", "#72efdd", "#008000")) +
+  ggtitle("Sale Prices of Homes in Salem",
+          subtitle = "Land Area and Year of Sale Predict Prices of Homes") +
+  theme(plot.title = element_text(size=15, hjust = 0.5,
+                                  face = "bold"),
+        plot.subtitle = element_text(size = 10,  hjust = 0.5)) +
+  ylab('Sale Price')+
+  xlab('Square ft')
+```
+
+* The model indicates that home sales in Salem have been increasing for the past three years when we account for land size and year of sale. Sale prices significantly increased from $\$$`11,195.19` in 2021 to $\$$`39,102.02` in 2022.
+
+
+
+To look at the relationship of these variables on a deeper level, we will use different kinds of models and find a model that describes it most accurately.
+
+```{r echo=FALSE}
+real.subset <- subset(real, select = c("sale_price", "year_sold",  "size_of_main_land", "total_assessment", "sqft_of_main"))
+
+# change data types 
+real.subset <- real.subset %>%
+  mutate(
+    year_sold = as.character(year_sold), 
+    size_of_main_land = as.integer(size_of_main_land),
+    )
+
+knitr::kable(head(real.subset[, 1:5])) 
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+ggpairs(real.subset)
+```
+
+* A moderately strong correlation is observed between `sqft_of_main` and `total_assessment` indicating a possible non-linear relationship. Thus, further evaluation and testing is necessary to address any violations.
+
+```{r echo=FALSE}
+fit.full <- lm(sale_price~., data=real.subset)
+fit.null <- lm(sale_price~1, data=real.subset)
+```
+
+|                                                 **Residual Plots for Full Model**
+```{r warning=FALSE, echo=FALSE}
+fit.real <- fit.full
+stack <- ls.diag(fit.real)
+
+par(mfrow=c(2,2))
+plot(fit.real, col= "#008000", lwd=1.5)
+```
+
+**Checking Assumption Violations**
+
+* [**Residuals vs Fitted plot:**](https://github.com/yixuan/prettydoc/) the assumption of linearity holds since the red line is approximately horizontal around zero.
+* [**Normal Q-Q plot:**](https://github.com/yixuan/prettydoc/) the distribution is normal because it aligns with the doted line.
+* [**Scale-Location plot:**](https://github.com/yixuan/prettydoc/) the assumption of homoscedasticity is not violated since the red line is approximately horizontal & there is no clear pattern.
+* [**Residuals vs Leverage plot:**](https://github.com/yixuan/prettydoc/) there are no outliers that fall outside of cook's distance so this assumption holds as well.
+
+
+**Backward Fitting with OLS**
+
+```{r echo=FALSE}
+b_step <- step(fit.full, scope=list(lower=fit.null, upper=fit.full), direction="backward", k=log(length(real.subset$sale_price)))
+
+fit.ols.back <- lm(formula = sale_price ~ year_sold + total_assessment, data = real.subset)
+knitr::kable((summary(fit.ols.back)$coefficients))
+```
+
+**Forward Fitting with OLS**
+
+```{r echo=FALSE}
+f_step <- step(fit.null, scope=list(lower=fit.null, upper=fit.full), direction="forward")
+
+fit.ols.for <- lm(formula = sale_price ~ total_assessment + year_sold + size_of_main_land, data = real.subset)
+knitr::kable((summary(fit.ols.for)$coefficients))
+```
+
+* I used OLS by employing AIC and BIC models to determine the most effective approach for my data. I did not have a categorical response variable thus I did not need to use logistic models like lasso or ridge regression, and the predictor variables consisted of both continuous and categorical data which makes the data complex. 
+* To ensure the accuracy of the models, I first checked for assumption violations that might impact the results. Both AIC and BIC gave similar models, however, since having a model that is less complex is best in  most cases, I went with the decision of using BIC as my final model. 
+
+* Fitted Model using BIC:
+$\hat{Y}= {-1415 + 17510(year_sold2021) + 57730(year_sold2022) + 1.060(total_assessment )}$
+
+```{r echo=FALSE}
+# extract R-squared value from summary()
+r <- c(summary(fit.ols.back)$r.squared)
+knitr::kable(t(r), row.names = FALSE, col.names = c("R-squared")) 
+R_sq = 0.8529963
+```
+
+* The R-squared value of the OLS backward fitted model indicates that approximately `r abs(round(R_sq, 1))`$\%$ of the variation observed is explained by the model. However, a high R-squared value alone is not enough to determine the accuracy of a model, thus it is important to consider other evaluation metrics such as residuals as well. In this case, residual plots were used to check for assumption violations, and the outcome supports the conclusion that the model is a good fit. Additionally, it should be noted that in some cases, a high R-squared value could indicate over fitting, but the use of BIC model helps to mitigate this effect. Therefore, the employed model can be considered effective in explaining the variation in the data.
+
+To check the accuracy of my BIC model, I will estimate the sale price of 427 N Market St and compare it to the actual price of the home in order to analyze how well the model can predict the sale prices. Data frame 'sold_home.csv' is used for the analysis. (See actual prices on Zillow following the URL: https://www.zillow.com/homedetails/427-N-Market-St-Salem-VA-24153/79271083_zpid/) 
+
+```{r echo=FALSE}
+newdata <- data.frame(street_name=c("N MARKET ST"), year_sold=c("2022"), total_assessment=c(378100))
+newdata$year_sold <- as.character(newdata$year_sold)
+
+est_price <- predict(fit.ols.back, newdata, type = 'response')  
+```
+
+* My model was good at estimating the sale price of 427 N Market St. The actual sale price was $\$$`483,300` while my model estimated the price to be $\$$`456,919.2`. There are various reasons why a predicted outcome may differ from the actual. One potential factor is the choice of model, as different models can produce varying degrees of accuracy. Additionally, issues such as underfitting/overfitting can impact a model's ability to accurately predict. And another factor could be the case of missing values which can also contribute to differences between the predicted and actual results.
+
+
+
+
