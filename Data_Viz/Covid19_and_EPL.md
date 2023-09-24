@@ -7,5 +7,5 @@ This analysis specifically looked at how the absense of fans affected games duri
 * 2019/20 Season and 2020/21 Season - Covid seasons
 * 2021/22 Season - post Covid season
 
-Python was primarily used to conduct the data analysis and the results were then used to build dashboards and visuals to better interact the outcomes to audiences. [Tableau Link](https://public.tableau.com/shared/8THJCCTFK?:display_count=n&:origin=viz_share_link) 
+Python was primarily used to conduct the data analysis and the results were then used to build dashboards and visuals to better interact the outcomes to audiences. [Tableau Link](https://public.tableau.com/app/profile/selam8365/viz/Data-480_research/Viz_1)
 
