@@ -1,4 +1,4 @@
-								/* SQL ASSIGNMENT 1 */
+								/* SQL ASSIGNMENT */
 
 /* 
    1. Get all supplier-number/part-number/project-number triples such that the indicated supplier, part and project are all in the same city.
