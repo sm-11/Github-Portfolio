@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  background-image: url("https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp");
+}
+
+#calendar {
+  display: flex;
+  gap: 5rem;
+}
+
+#header {
+  text-align: center;
+  background-color: #9f7833;
+  color: black;
+  font-size: 20px;
+}
+
+#week {
+  display: flex;
+  flex: 1 200px;
+}
+
+#hour_column div {
+  height: 2.5rem;
+  padding: 0 0.2rem;
+}
+
+h2 {
+  font-size: 1.1rem;
+  margin: 0;
+  font-weight: normal;
+  color: #d19c1d;
+  font-size: 20px;
+}
+
+.day {
+  width: 10rem;
+}
+
+.day:nth-of-type(6) .hour_block {
+  border-right: 1px #d19c1d solid;
+}
+
+.hour_block {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  border-left: 1px #d19c1d solid;
+  margin-top: 0.2rem;
+  padding: 0.5em;
+}
+
+.hour {
+  border-top: 1px #bbb solid;
+  height: 2.5rem;
+  padding: 0 0.2rem;
+  position: relative;
+}
+
+.hour_block .hour:nth-of-type(8) {
+  border-bottom: 1px #bbb solid;
+}
+
+#hour_column {
+  margin-top: 1.2rem;
+}
+
+#schedule {
+  color: black;
+  font-size: 30px;
+}
+
+#add_form {
+  margin-top: 1rem;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  flex: 1;
+  color: white;
+  font-weight: bold;
+}
+
+#add_form input,
+select {
+  margin-bottom: 0.5em;
+  padding: 0.3em;
+  width: 15em;
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+#add_form button {
+  height: 1.7rem;
+  width: 10rem;
+  border-radius: 30px;
+  border: 3px solid black;
+  color: black;
+  background-color: #d19c1d;
+  margin: 20px;
+}
+
+#add_form button:hover {
+  background-color: green;
+}
+
+.event {
+  background-color: #9f7833;
+  border: 2px black solid;
+  z-index: 1;
+  position: absolute;
+  width: 9.3rem;
+  left: -0.4rem;
+  top: -0.1rem;
+  padding: 0.3rem 0 0 0.3rem;
+  border-radius: 0.2rem;
+}
