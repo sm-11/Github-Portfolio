@@ -1,7 +1,9 @@
 # Research in Psychology
 ### Exploring Pluralistic Ignorance (PI): A Journey into Qualitative Research
 
-In the realm of psychology, I embarked on an independent research project, utilizing my data analysis skills to delve into the intriguing concept of PI. This project emerged from a desire to unravel the complexities of this subject matter in terms of analysis. Qualitative research, distinct from its quantitative counterpart, presents unique challenges, often requiring the transformation of qualitative data into quantitative insights. This undertaking marked a significant milestone in my data analysis journey, providing me with valuable knowledge and hands-on experience in this field. Furthermore, it also expanding my proficiency in R statistical analysis. I utilized a wide range of packages to effectively analyze and interpret the data, enriching my skill set. The culmination of this project was marked by the presentation of my findings through public poster presentations
+In the realm of psychology, I embarked on an independent research project, utilizing my data analysis skills to delve into the intriguing concept of PI. This project emerged from a desire to unravel the complexities of this subject matter in terms of analysis. 
+
+Qualitative research, distinct from its quantitative counterpart, presents unique challenges, often requiring the transformation of qualitative data into quantitative insights. This undertaking marked a significant milestone in my data analysis journey, providing me with valuable knowledge and hands-on experience in this field. Furthermore, it also expanding my proficiency in R statistical analysis. I utilized a wide range of packages to effectively analyze and interpret the data, enriching my skill set. The culmination of this project was marked by the presentation of my findings through public poster presentations
 
 
 #### Research Abstract
