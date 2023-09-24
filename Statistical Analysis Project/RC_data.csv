@@ -1,0 +1,1687 @@
+Project ID,Start Term,X Stu First Gen No Bach ,X Stu First Gen No College ,Pell Grant?,Midterm GPA,Athlete (December),X Stu Cum Gpa (December),X Stu Housing Fall,Retained to Fall 2?,Retained to Fall 3,Fall Campus Job?,# of campus orgs (December),# Midterm D or F,% of Midterm Grades are D or F,# Non-Lab STEM Courses,# STEM Courses Earned Credit,% of STEM Courses earning credit,# Classes Passed,% of Classes Passed
+1,2017FA,Yes,No,No,3,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+2,2017FA,No,No,No,3.25,No,3.65,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+3,2017FA,No,No,No,2,No,2.1,COMMUTER,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+4,2017FA,Yes,No,No,1,No,0.5,COMMUTER,Yes,Yes,Yes,Data not valid,3,60.00%,0,0,Not Applicable,1,25.00%
+5,2017FA,No,No,No,3.5,No,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+6,2017FA,No,No,No,1.5,No,2.233,RESIDENT,Yes,No,No,Data not valid,2,50.00%,2,1,50.00%,3,75.00%
+7,2017FA,No,No,No,1.5,No,2.333,RESIDENT,Yes,No,No,Data not valid,2,50.00%,2,1,50.00%,3,75.00%
+8,2017FA,No,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+9,2017FA,No,No,No,3.25,No,3.675,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+10,2017FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+11,2017FA,No,No,No,3.75,No,3.925,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+12,2017FA,No,No,No,3.7647,No,4,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+13,2017FA,No,No,No,2.8235,No,2.753,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+14,2017FA,No,No,No,2.8235,No,2.988,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+15,2017FA,No,No,No,3.5294,No,3.529,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+16,2017FA,No,No,No,0.5,No,1.033,RESIDENT,Yes,Yes,No,Data not valid,4,100.00%,1,1,100.00%,3,75.00%
+17,2017FA,No,No,Yes,2.3333,No,2.433,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+18,2017FA,No,No,No,2.5,No,2.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+19,2017FA,Yes,Yes,Yes,1.8824,No,1.746,RESIDENT,Yes,Yes,No,Data not valid,2,40.00%,0,0,Not Applicable,4,80.00%
+20,2017FA,No,No,Yes,3,No,2.25,COMMUTER,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+21,2017FA,Yes,Yes,Yes,3.5,No,3.5,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+22,2017FA,No,No,No,1.3333,No,0.8,RESIDENT,Yes,Yes,No,Data not valid,2,66.70%,1,1,100.00%,2,66.70%
+23,2017FA,No,No,No,2.1176,No,2.424,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,0,0,Not Applicable,5,100.00%
+24,2017FA,Yes,Yes,Yes,3.2941,No,2.988,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+25,2017FA,No,No,No,3.25,No,2.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+26,2017FA,Yes,No,Yes,2.5,No,2.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+27,2017FA,No,No,No,3.25,No,3.35,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+28,2017FA,No,No,No,3,No,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+29,2017FA,No,No,No,2.25,No,1.75,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,2,2,100.00%,3,75.00%
+30,2017FA,No,No,No,3.25,Yes,3.35,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+31,2017FA,No,No,Yes,4,No,4,COMMUTER,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+32,2017FA,No,No,Yes,2.5,No,3.275,COMMUTER,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+33,2017FA,No,No,No,0,No,0,RESIDENT,No,No,No,Data not valid,3,60.00%,1,0,0.00%,0,0.00%
+34,2017FA,Unknown,Unknown,Yes,2,No,2.5,RESIDENT,Yes,No,No,Data not valid,2,40.00%,0,0,Not Applicable,4,100.00%
+35,2017FA,No,No,No,1,No,1.925,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,4,100.00%
+36,2017FA,No,No,Yes,3.75,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+37,2017FA,Yes,No,No,2.75,No,2.325,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+38,2017FA,Yes,No,Yes,3,No,2.767,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,80.00%
+39,2017FA,No,No,No,3.75,No,3.325,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+40,2017FA,Yes,No,Yes,3.5294,No,3.059,COMMUTER,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+41,2017FA,No,No,No,3.5,No,3.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+42,2017FA,No,No,Yes,1.5,No,1.425,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+43,2017FA,No,No,No,3.25,No,3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+44,2017FA,No,No,Yes,3.25,No,3.35,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+45,2017FA,No,No,No,2.75,No,3,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+46,2017FA,No,No,No,1.6667,No,1.333,RESIDENT,Yes,No,Yes,Data not valid,1,20.00%,2,0,0.00%,2,40.00%
+47,2017FA,No,No,No,4,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+48,2017FA,No,No,No,2.5882,Yes,2.677,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,0,0,Not Applicable,4,80.00%
+49,2017FA,Yes,No,No,3.25,No,3.4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+50,2017FA,No,No,No,3.25,No,3.5,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+51,2017FA,No,No,No,1,No,1.86,RESIDENT,Yes,No,No,Data not valid,2,40.00%,1,0,0.00%,3,75.00%
+52,2017FA,No,No,No,3.25,Yes,3.225,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+53,2017FA,No,No,Yes,3.25,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+54,2017FA,No,No,No,2.25,No,2.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+55,2017FA,Yes,Yes,Yes,3.5,No,3.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+56,2017FA,No,No,No,3.5,No,4,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+57,2017FA,No,No,No,3.75,No,3.5,RESIDENT,Yes,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+58,2017FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+59,2017FA,No,No,Yes,3.25,No,3.35,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+60,2017FA,No,No,No,2.5714,No,1.9,RESIDENT,No,No,No,Data not valid,1,20.00%,2,2,100.00%,4,80.00%
+61,2017FA,No,No,No,4,No,3.85,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+62,2017FA,No,No,Yes,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+63,2017FA,No,No,No,3.7647,No,3.765,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+64,2017FA,No,No,No,3.7647,No,3.765,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+65,2017FA,No,No,No,3.5,No,3.175,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+66,2017FA,No,No,No,2,No,2.15,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+67,2017FA,No,No,No,2,No,1.15,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+68,2017FA,No,No,No,2.3333,Yes,2.767,RESIDENT,No,No,Yes,Data not valid,1,20.00%,2,2,100.00%,4,100.00%
+69,2017FA,Yes,Yes,No,3.75,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+70,2017FA,No,No,No,4,No,4,RESIDENT,No,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+71,2017FA,Yes,No,No,4,No,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+72,2017FA,No,No,No,1.5,Yes,1.425,RESIDENT,No,No,No,Data not valid,1,20.00%,2,2,100.00%,3,75.00%
+73,2017FA,No,No,No,3,No,3.175,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+74,2017FA,No,No,No,2.75,No,3.25,RESIDENT,No,No,No,Data not valid,1,25.00%,2,2,100.00%,4,100.00%
+75,2017FA,No,No,No,3.5,No,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+76,2017FA,Yes,No,No,3.75,Yes,3.65,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+77,2017FA,No,No,No,2.5,No,1.6,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,1,0,0.00%,3,75.00%
+78,2017FA,No,No,No,3.75,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+79,2017FA,No,No,No,0,No,0.767,RESIDENT,Yes,Yes,No,Data not valid,4,100.00%,1,0,0.00%,1,25.00%
+80,2017FA,No,No,No,2.75,Yes,2.9,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+81,2017FA,No,No,No,4,No,4,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+82,2017FA,No,No,No,3,Yes,3.3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+83,2017FA,Yes,Yes,Yes,2.5,No,2.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+84,2017FA,No,No,No,2.5,No,2.333,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+85,2017FA,No,No,Yes,2.25,No,0.767,RESIDENT,No,No,No,Data not valid,0,0.00%,2,0,0.00%,1,20.00%
+86,2017FA,Yes,No,Yes,2,No,0.925,RESIDENT,No,No,No,Data not valid,2,40.00%,1,0,0.00%,1,25.00%
+87,2017FA,No,No,No,1.5,No,0.775,RESIDENT,No,No,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+88,2017FA,No,No,No,3.5,No,3.35,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+89,2017FA,No,No,No,1.5,No,1.8,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,0,0.00%,3,75.00%
+90,2017FA,No,No,No,1.6667,No,1.767,RESIDENT,No,No,No,Data not valid,2,66.70%,0,0,Not Applicable,3,100.00%
+91,2017FA,No,No,No,1,No,1.567,RESIDENT,Yes,Yes,Yes,Data not valid,2,50.00%,0,0,Not Applicable,3,75.00%
+92,2017FA,No,No,No,2.5,No,2.567,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,1,50.00%,3,75.00%
+93,2017FA,No,No,No,3.75,No,2.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+94,2017FA,Yes,Yes,No,2.3333,No,2.9,RESIDENT,No,No,No,Data not valid,0,0.00%,2,0,0.00%,3,60.00%
+95,2017FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+96,2017FA,No,No,No,3.5,No,3.675,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+97,2017FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+98,2017FA,No,No,No,0.75,No,1,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,2,50.00%
+99,2017FA,No,No,No,1,No,0.433,RESIDENT,No,No,No,Data not valid,3,60.00%,0,0,Not Applicable,1,25.00%
+100,2017FA,No,No,No,0.25,No,1.2,RESIDENT,Yes,Yes,No,Data not valid,4,80.00%,0,0,Not Applicable,2,50.00%
+101,2017FA,No,No,Yes,1.75,No,1.675,RESIDENT,No,No,No,Data not valid,2,40.00%,1,1,100.00%,4,100.00%
+102,2017FA,No,No,No,3,No,2.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+103,2017FA,No,No,No,2,No,2.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+104,2017FA,Yes,No,Yes,4,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+105,2017FA,No,No,Yes,4,Yes,3.85,RESIDENT,No,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+106,2017FA,No,No,No,2,No,2,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+107,2017FA,No,No,No,3.5,No,3.775,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+108,2017FA,No,No,Yes,3.5,No,3.325,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+109,2017FA,No,No,No,3.75,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+110,2017FA,No,No,No,3.5556,Yes,3.525,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,6,100.00%
+111,2017FA,No,No,No,3.75,No,3.75,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+112,2017FA,No,No,No,3.25,No,3.45,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+113,2017FA,No,No,No,1.5,No,1.8,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+114,2017FA,No,No,No,3.25,No,2.4,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+115,2017FA,No,No,No,2.75,No,1.975,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+116,2017FA,No,No,No,2.75,No,2.35,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+117,2017FA,Yes,No,No,2.5,No,2.575,COMMUTER,Yes,Yes,Yes,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+118,2017FA,No,No,No,3,No,3.25,COMMUTER,No,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+119,2017FA,Yes,No,No,2.25,Yes,3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+120,2017FA,No,No,Yes,3.75,No,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+121,2017FA,No,No,No,3.5,No,3.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+122,2017FA,No,No,No,2.5,No,1.175,RESIDENT,Yes,No,No,Data not valid,1,20.00%,1,1,100.00%,2,50.00%
+123,2017FA,No,No,No,3,Yes,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+124,2017FA,No,No,No,2.4444,No,2.467,RESIDENT,No,No,No,Data not valid,1,20.00%,2,1,50.00%,4,80.00%
+125,2017FA,No,No,No,3.2941,No,3.294,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+126,2017FA,Yes,Yes,Yes,3.75,No,3.75,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+127,2017FA,Yes,No,Yes,1.25,No,1.825,COMMUTER,No,No,No,Data not valid,2,40.00%,0,0,Not Applicable,4,100.00%
+128,2017FA,Yes,No,No,1.5,No,1.65,RESIDENT,No,No,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+129,2017FA,No,No,No,3.7647,No,3.929,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,6,100.00%
+130,2017FA,No,No,No,1.25,No,1.325,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,1,1,100.00%,3,75.00%
+131,2017FA,No,No,No,3,No,3.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+132,2017FA,No,No,Yes,2.75,No,2.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+133,2017FA,No,No,No,3,No,3.367,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,100.00%
+134,2017FA,No,No,No,1.25,Yes,2.1,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+135,2017FA,Yes,Yes,Yes,2.5,No,2,RESIDENT,No,No,No,Data not valid,1,20.00%,0,0,Not Applicable,3,75.00%
+136,2017FA,No,No,No,1.25,No,2.1,RESIDENT,Yes,Yes,No,Data not valid,3,75.00%,0,0,Not Applicable,4,100.00%
+137,2017FA,No,No,No,3,No,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+138,2017FA,No,No,No,1.5,No,2.133,RESIDENT,No,No,No,Data not valid,2,50.00%,0,0,Not Applicable,3,75.00%
+139,2017FA,Yes,No,Yes,2.4444,No,1.825,COMMUTER,Yes,No,No,Data not valid,1,20.00%,1,1,100.00%,5,100.00%
+140,2017FA,No,No,No,3.25,No,3.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+141,2017FA,Yes,No,No,3,Yes,3.2,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+142,2017FA,No,No,No,3.25,No,2.9,RESIDENT,No,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+143,2017FA,No,No,Yes,3,No,2.5,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+144,2017FA,No,No,No,4,No,4,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+145,2017FA,Yes,No,No,2.75,No,2.35,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+146,2017FA,No,No,No,3,No,3.75,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+147,2017FA,No,No,No,2.5,Yes,3,RESIDENT,Yes,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+148,2017FA,Yes,No,Yes,2.75,No,2.675,RESIDENT,Yes,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+149,2017FA,Yes,No,No,1.75,No,2,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+150,2017FA,No,No,No,2.75,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+151,2017FA,No,No,No,0.75,No,1.3,RESIDENT,Yes,Yes,No,Data not valid,4,100.00%,0,0,Not Applicable,3,75.00%
+152,2017FA,No,No,No,2.75,No,2.975,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+153,2017FA,Yes,Yes,Yes,0.75,No,2.133,RESIDENT,Yes,Yes,No,Data not valid,3,75.00%,2,1,50.00%,3,75.00%
+154,2017FA,No,No,No,2.75,No,2.85,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+155,2017FA,No,No,No,2.75,Yes,2.825,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+156,2017FA,No,No,No,2.8889,No,2.325,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+157,2017FA,No,No,Yes,2.5,No,3.075,RESIDENT,Yes,Yes,Yes,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+158,2017FA,No,No,No,2.4444,No,1.1,RESIDENT,No,No,No,Data not valid,1,20.00%,3,2,66.70%,4,80.00%
+159,2017FA,No,No,Yes,2.6667,No,2.433,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+160,2017FA,Yes,No,Yes,2.75,No,1.775,RESIDENT,No,No,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+161,2017FA,Yes,No,No,2,No,3,RESIDENT,Yes,Yes,Yes,Data not valid,2,40.00%,2,1,50.00%,3,60.00%
+162,2017FA,No,No,Yes,0,No,0,RESIDENT,No,No,No,Data not valid,4,80.00%,2,0,0.00%,0,0.00%
+163,2017FA,No,No,No,2,No,2.425,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+164,2017FA,No,No,No,3.3333,Yes,3.333,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,4,4,100.00%,5,100.00%
+165,2017FA,No,No,No,3.75,No,3.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+166,2017FA,No,No,No,3.5,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+167,2017FA,No,No,No,3,No,2.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+168,2017FA,No,No,No,0.5,No,0,RESIDENT,No,No,No,Data not valid,3,75.00%,1,0,0.00%,0,0.00%
+169,2017FA,No,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+170,2017FA,No,No,No,3.75,Yes,3.65,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+171,2017FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+172,2017FA,No,No,No,2.5,No,3.15,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+173,2017FA,No,No,No,3,Yes,2.35,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+174,2017FA,No,No,No,2.25,No,1.85,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+175,2017FA,No,No,No,3.5,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+176,2017FA,No,No,No,3.25,No,3.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+177,2017FA,No,No,No,2,No,2.1,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,2,0,0.00%,3,60.00%
+178,2017FA,No,No,No,3.5,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+179,2017FA,Yes,No,Yes,4,No,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+180,2017FA,Yes,Yes,Yes,3.5,No,3.575,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+181,2017FA,No,No,No,3.5,No,3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+182,2017FA,No,No,No,3.25,No,1.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,0,0.00%,3,75.00%
+183,2017FA,Yes,No,No,3,No,3.25,COMMUTER,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+184,2017FA,Unknown,Unknown,Yes,2.25,No,2.2,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+185,2017FA,No,No,No,3.5,No,3.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+186,2017FA,No,No,No,3.5294,No,3.671,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+187,2017FA,Yes,No,No,3.75,Yes,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+188,2017FA,No,No,Yes,3.75,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+189,2017FA,No,No,No,3,No,3.175,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+190,2017FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+191,2017FA,No,No,No,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+192,2017FA,No,No,No,2.75,No,2.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+193,2017FA,Unknown,Unknown,Yes,2,No,2.9,RESIDENT,Yes,Yes,No,Data not valid,1,33.30%,0,0,Not Applicable,3,100.00%
+194,2017FA,No,No,No,1.75,Yes,2.233,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+195,2017FA,Yes,No,Yes,2.75,No,2.767,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+196,2017FA,Yes,No,No,2.5,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+197,2017FA,No,No,No,3.25,No,3.525,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+198,2017FA,Yes,Yes,Yes,2.25,No,1.9,RESIDENT,No,No,Yes,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+199,2017FA,Yes,No,Yes,0.75,No,0.333,RESIDENT,No,No,Yes,Data not valid,3,60.00%,2,0,0.00%,1,20.00%
+200,2017FA,Yes,No,Yes,2.5,No,3,COMMUTER,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+201,2017FA,No,No,Yes,3.5294,No,3.765,RESIDENT,Yes,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+202,2017FA,No,No,Yes,3.25,No,3.15,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+203,2017FA,Yes,No,Yes,1.25,No,2,RESIDENT,Yes,No,No,Data not valid,3,75.00%,1,1,100.00%,3,75.00%
+204,2017FA,No,No,No,2.25,Yes,2.325,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+205,2017FA,No,No,No,2.5,No,2.6,RESIDENT,Yes,Yes,Yes,Data not valid,1,20.00%,2,2,100.00%,4,100.00%
+206,2017FA,No,No,No,2.25,No,3,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+207,2017FA,Yes,Yes,No,3.25,No,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+208,2017FA,No,No,No,3,No,2.925,RESIDENT,Yes,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+209,2017FA,Yes,No,No,3.25,No,3.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+210,2017FA,No,No,No,3,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+211,2017FA,No,No,No,2.75,No,2.5,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+212,2017FA,No,No,No,2,No,1.925,RESIDENT,Yes,No,No,Data not valid,1,20.00%,1,1,100.00%,4,100.00%
+213,2017FA,Yes,Yes,Yes,3,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+214,2017FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+215,2017FA,No,No,Yes,3,No,2.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+216,2017FA,No,No,No,3.2941,No,3.041,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+217,2017FA,No,No,No,3.25,No,3.075,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+218,2017FA,Yes,No,No,2.5,No,1.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+219,2017FA,No,No,No,2.75,Yes,2.767,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+220,2017FA,No,No,No,3.5,No,3.15,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+221,2017FA,No,No,No,3.5,No,3.15,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+222,2017FA,No,No,No,3.75,No,3.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+223,2017FA,No,No,No,1.25,No,2.3,RESIDENT,Yes,No,No,Data not valid,3,75.00%,0,0,Not Applicable,3,75.00%
+224,2017FA,No,No,No,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+225,2017FA,No,No,No,2.75,Yes,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+226,2017FA,No,No,No,3.2941,No,3.706,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+227,2017FA,Yes,No,No,2.25,No,2.175,RESIDENT,Yes,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+228,2017FA,No,No,Yes,1.1765,No,1.794,RESIDENT,Yes,Yes,No,Data not valid,3,60.00%,0,0,Not Applicable,4,80.00%
+229,2017FA,No,No,No,1.25,No,1.233,RESIDENT,Yes,Yes,No,Data not valid,2,40.00%,0,0,Not Applicable,2,50.00%
+230,2017FA,No,No,No,3.5,No,3.925,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+231,2017FA,No,No,No,3.25,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+232,2017FA,No,No,No,3,Yes,2.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+233,2017FA,No,No,No,3.75,Yes,3.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+234,2017FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+235,2017FA,No,No,No,4,No,3.925,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+236,2017FA,No,No,No,2.5,No,2.35,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+237,2017FA,No,No,No,3.25,Yes,2.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+238,2017FA,No,No,No,1.75,No,1.925,RESIDENT,Yes,No,Yes,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+239,2017FA,No,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+240,2017FA,No,No,No,0.75,No,0,RESIDENT,No,No,No,Data not valid,3,75.00%,2,0,0.00%,0,0.00%
+241,2017FA,No,No,No,1.75,No,1.925,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+242,2017FA,No,No,No,1.5,No,2.667,RESIDENT,Yes,Yes,Yes,Data not valid,2,50.00%,0,0,Not Applicable,3,75.00%
+243,2017FA,No,No,No,1.3333,No,2.5,RESIDENT,Yes,No,No,Data not valid,2,50.00%,0,0,Not Applicable,2,50.00%
+244,2017FA,No,No,No,2.5,No,1.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+245,2017FA,No,No,No,1.25,Yes,1.5,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+246,2017FA,No,No,No,1.25,No,1.35,RESIDENT,No,No,No,Data not valid,2,40.00%,2,2,100.00%,4,100.00%
+247,2017FA,No,No,No,1.25,No,1.333,RESIDENT,Yes,Yes,No,Data not valid,3,60.00%,0,0,Not Applicable,3,75.00%
+248,2017FA,Yes,No,Yes,2,No,2.775,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+249,2017FA,No,No,No,2,No,1.575,RESIDENT,Yes,No,No,Data not valid,2,50.00%,1,0,0.00%,2,50.00%
+250,2017FA,No,No,No,2.5,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+251,2017FA,No,No,No,1,No,1.567,RESIDENT,Yes,Yes,Yes,Data not valid,2,50.00%,2,0,0.00%,2,50.00%
+252,2017FA,Yes,Yes,No,3.3333,No,3.5,RESIDENT,Yes,No,No,Data not valid,0,0.00%,3,3,100.00%,5,100.00%
+253,2017FA,No,No,No,3.75,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+254,2017FA,No,No,No,3.25,No,3.825,RESIDENT,No,No,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+255,2017FA,No,No,Yes,2.6667,No,3.08,RESIDENT,Yes,Yes,Yes,Data not valid,1,16.70%,4,4,100.00%,6,100.00%
+256,2017FA,No,No,Yes,2.75,Yes,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+257,2017FA,No,No,No,0.25,No,,RESIDENT,No,No,Yes,Data not valid,4,100.00%,1,0,0.00%,0,0.00%
+258,2017FA,No,No,No,3.5294,No,3.365,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+259,2017FA,No,No,No,2.75,Yes,3.325,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+260,2017FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+261,2017FA,Yes,No,No,2.8235,No,2.118,RESIDENT,No,No,No,Data not valid,0,0.00%,1,0,0.00%,4,80.00%
+262,2017FA,No,No,No,4,No,4,RESIDENT,No,No,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+263,2017FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+264,2017FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+265,2017FA,No,No,No,3.75,No,3.85,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+266,2017FA,No,No,No,3.25,No,3.175,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+267,2017FA,Unknown,Unknown,Yes,4,No,3.675,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+268,2017FA,No,No,No,1,No,1.9,RESIDENT,Yes,Yes,No,Data not valid,3,75.00%,0,0,Not Applicable,3,75.00%
+269,2017FA,No,No,No,4,No,3.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,3,100.00%
+270,2017FA,Yes,Yes,Yes,0.25,No,,COMMUTER,No,No,No,Data not valid,4,80.00%,0,0,Not Applicable,0,Not Applicable
+271,2017FA,Yes,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+272,2017FA,No,No,No,1,No,1.425,RESIDENT,No,No,No,Data not valid,2,50.00%,1,1,100.00%,3,75.00%
+273,2017FA,No,No,No,3.3333,No,1.667,RESIDENT,No,Yes,No,Data not valid,0,0.00%,2,2,100.00%,2,50.00%
+274,2017FA,No,No,No,3.5,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+275,2017FA,No,No,No,3.5,No,3.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+276,2017FA,No,No,No,1.75,Yes,1.9,RESIDENT,No,No,Yes,Data not valid,1,25.00%,1,1,100.00%,3,75.00%
+277,2017FA,No,No,No,3,Yes,2.85,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+278,2017FA,No,No,No,2.25,No,2,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+279,2017FA,Yes,Yes,No,3,No,2.925,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+280,2017FA,No,No,No,3.25,No,3.175,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,3,2,66.70%,4,80.00%
+281,2017FA,No,No,No,2.75,No,2.35,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+282,2017FA,No,No,No,3.25,Yes,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+283,2017FA,No,No,No,2.75,Yes,2.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+284,2017FA,No,No,No,4,No,3.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+285,2017FA,No,No,No,2.75,Yes,3.15,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+286,2017FA,No,No,No,2,No,2.5,COMMUTER,No,No,No,Data not valid,1,16.70%,2,1,50.00%,4,80.00%
+287,2017FA,No,No,No,3.5,No,3.525,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+288,2017FA,Yes,No,No,1.75,No,1,RESIDENT,Yes,Yes,No,Data not valid,2,40.00%,2,1,50.00%,3,75.00%
+289,2017FA,Yes,No,No,3,No,3.1,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+290,2017FA,Yes,Yes,Yes,3.3333,No,3,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,3,75.00%
+291,2017FA,Yes,No,Yes,0.6667,No,0.37,RESIDENT,No,No,Yes,Data not valid,5,83.30%,0,0,Not Applicable,2,33.30%
+292,2017FA,No,No,No,4,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+293,2017FA,No,No,No,2.75,No,3.175,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+294,2017FA,Unknown,Unknown,No,4,No,4,RESIDENT,No,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+295,2017FA,Yes,No,Yes,2.5,Yes,2.175,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+296,2017FA,No,No,No,2.5,Yes,2.925,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+297,2017FA,Yes,No,Yes,2.6,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,2,1,50.00%,4,80.00%
+298,2017FA,Yes,No,Yes,3.5556,No,3.425,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,3,3,100.00%,5,100.00%
+299,2017FA,Yes,No,Yes,2.75,No,2.075,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+300,2017FA,No,No,No,2.25,No,2.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+301,2017FA,No,No,No,2,No,1.75,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+302,2017FA,Yes,Yes,Yes,2.75,No,3.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+303,2017FA,No,No,Yes,3.75,No,3.575,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+304,2017FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+305,2017FA,No,No,No,4,No,3.675,RESIDENT,No,No,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+306,2017FA,Yes,Yes,No,3,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+307,2017FA,No,No,No,2.25,No,2.15,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+308,2017FA,No,No,No,3.25,No,3.35,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+309,2017FA,No,No,No,2.5,No,3.5,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+310,2017FA,No,No,No,3.5294,No,2.894,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+311,2017FA,No,No,No,3.5,No,3.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+312,2017FA,No,No,No,3,Yes,2.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+313,2017FA,No,No,No,3.25,No,3.175,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+314,2017FA,No,No,Yes,2.25,No,2.325,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+315,2017FA,Yes,No,Yes,3.25,No,3.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+316,2017FA,No,No,No,2,No,1.175,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+317,2017FA,No,No,No,2.25,Yes,2.667,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+318,2017FA,No,No,No,3.25,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+319,2017FA,No,No,No,2.5,No,2.1,RESIDENT,No,No,No,Data not valid,1,20.00%,1,1,100.00%,4,100.00%
+320,2017FA,No,No,No,4,Yes,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+321,2017FA,No,No,No,2.75,Yes,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+322,2017FA,No,No,No,2.25,No,2.575,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+323,2017FA,Yes,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+324,2017FA,No,No,No,3,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+325,2017FA,Yes,No,Yes,3.75,No,3.75,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+326,2017FA,No,No,No,3.5,No,3.425,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+327,2017FA,No,No,No,2.5,No,2.85,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,0,0,Not Applicable,4,100.00%
+328,2017FA,No,No,No,2,No,1.075,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,3,75.00%
+329,2017FA,No,No,No,2,Yes,2,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+330,2017FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+331,2017FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+332,2017FA,No,No,No,3.2941,Yes,3.388,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+333,2017FA,No,No,No,2.5,Yes,2.15,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+334,2017FA,No,No,No,2.75,No,3.775,RESIDENT,No,No,No,Data not valid,1,20.00%,2,2,100.00%,4,100.00%
+335,2017FA,No,No,No,2.5714,No,1.233,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,3,3,100.00%,4,100.00%
+336,2017FA,No,No,No,3,No,2.85,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,80.00%
+337,2017FA,No,No,No,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+338,2017FA,Yes,Yes,No,3.25,No,3.25,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+339,2017FA,Yes,Yes,No,4,No,4,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+340,2017FA,No,No,No,3,No,2.825,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+341,2017FA,Yes,Yes,Yes,2.5,No,2.1,RESIDENT,Yes,No,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+342,2017FA,No,No,No,2.5,No,2.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+343,2017FA,Yes,No,No,2.75,No,3.075,RESIDENT,Yes,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+344,2017FA,No,No,No,3.1111,No,2.925,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+345,2017FA,No,No,No,2.25,No,2.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+346,2017FA,No,No,Yes,3,No,3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+347,2017FA,Yes,No,No,0.25,No,0.425,RESIDENT,No,No,No,Data not valid,4,100.00%,0,0,Not Applicable,2,50.00%
+348,2017FA,No,No,No,2.1176,No,1.341,RESIDENT,Yes,Yes,Yes,Data not valid,1,20.00%,2,2,100.00%,5,100.00%
+349,2017FA,No,No,No,3.25,No,3.325,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+350,2017FA,No,No,No,2.75,No,2.925,RESIDENT,Yes,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+351,2017FA,No,No,No,2.75,No,2.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+352,2017FA,No,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+353,2017FA,Yes,No,Yes,0.75,Yes,1.433,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,3,75.00%
+354,2017FA,Yes,Yes,No,0.75,No,2.35,RESIDENT,Yes,Yes,No,Data not valid,3,60.00%,2,0,0.00%,2,40.00%
+355,2017FA,No,No,No,2.25,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+356,2017FA,No,No,Yes,1,No,0.5,RESIDENT,No,No,Yes,Data not valid,3,50.00%,2,1,50.00%,3,60.00%
+357,2017FA,No,No,No,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+358,2017FA,No,No,No,2,No,2.35,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+359,2017FA,No,No,No,3,No,3.233,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+360,2017FA,No,No,No,3.5,No,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+361,2017FA,No,No,No,2,Yes,2,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,3,3,100.00%,5,100.00%
+362,2017FA,No,No,Yes,2.5,No,2.425,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+363,2017FA,Yes,No,Yes,2.25,Yes,2.275,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+364,2017FA,No,No,No,3,No,2.767,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+365,2017FA,Unknown,Unknown,Yes,3.75,No,3.6,RESIDENT,No,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+366,2017FA,Yes,No,No,1.75,No,1.775,RESIDENT,Yes,Yes,No,Data not valid,2,40.00%,0,0,Not Applicable,4,100.00%
+367,2017FA,No,No,No,1.5,No,2.233,RESIDENT,Yes,No,No,Data not valid,2,40.00%,1,1,100.00%,3,75.00%
+368,2017FA,Yes,No,Yes,1.5,No,2.15,RESIDENT,Yes,Yes,Yes,Data not valid,2,40.00%,1,0,0.00%,2,50.00%
+369,2017FA,No,No,No,3.25,No,3.175,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+370,2017FA,No,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+371,2017FA,No,No,No,2,No,,RESIDENT,No,No,No,Data not valid,1,20.00%,0,0,Not Applicable,4,100.00%
+372,2017FA,No,No,No,3.25,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+373,2017FA,No,No,Yes,3.25,No,3.425,COMMUTER,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+374,2017FA,No,No,No,3.5294,No,3.694,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,6,100.00%
+375,2017FA,Yes,No,Yes,3.1111,No,1.725,RESIDENT,No,No,Yes,Data not valid,0,0.00%,3,3,100.00%,5,100.00%
+376,2017FA,Yes,Yes,Yes,3,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+377,2017FA,No,No,No,3.25,No,2.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+378,2017FA,No,No,No,3.25,Yes,3,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+379,2017FA,Yes,No,No,2.5,No,2.4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+380,2017FA,No,No,No,1,No,0.467,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,2,50.00%
+381,2017FA,No,No,Yes,3.5,No,3.925,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+382,2017FA,No,No,Yes,3,No,2.533,COMMUTER,No,No,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+383,2017FA,Yes,No,Yes,2.5,No,2.425,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+384,2017FA,No,No,No,3.3333,No,2.433,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+385,2017FA,Yes,No,Yes,3,No,3.425,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+386,2017FA,No,No,No,3.75,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+387,2017FA,Yes,No,No,3.75,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+388,2017FA,Yes,No,Yes,3.75,No,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+389,2017FA,No,No,Yes,4,No,3.765,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+390,2017FA,No,No,No,3,No,2.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+391,2017FA,No,No,Yes,2.25,Yes,1.35,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,1,0,0.00%,3,75.00%
+392,2017FA,No,No,No,1.75,Yes,1.425,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+393,2017FA,No,No,No,2.5,Yes,2.975,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+394,2017FA,Yes,No,No,3,No,3.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+395,2017FA,No,No,No,3.75,No,4,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+396,2017FA,Yes,No,Yes,2.75,No,2.275,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+397,2017FA,Yes,Yes,Yes,1.25,No,1.567,RESIDENT,Yes,Yes,No,Data not valid,3,75.00%,2,1,50.00%,3,75.00%
+398,2017FA,No,No,No,3.5,Yes,3.5,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+399,2017FA,No,No,No,3.5,No,3.75,RESIDENT,No,No,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+400,2017FA,No,No,No,3.5,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+401,2017FA,Yes,Yes,Yes,1.25,No,0.5,RESIDENT,No,No,No,Data not valid,2,40.00%,0,0,Not Applicable,1,25.00%
+402,2017FA,No,No,No,2.5,Yes,2.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+403,2017FA,Yes,Yes,Yes,3.25,No,2.975,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+404,2017FA,Yes,Yes,No,3.5,No,3.775,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+405,2017FA,No,No,No,4,No,3.925,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+406,2017FA,No,No,Yes,2,No,1.65,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+407,2017FA,No,No,No,1.75,No,2.433,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+408,2017FA,No,No,Yes,2.25,No,1.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+409,2017FA,Yes,No,No,3.5,No,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+410,2017FA,Yes,No,No,3.25,No,3.475,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+411,2017FA,No,No,No,1.5,No,2.333,RESIDENT,Yes,Yes,No,Data not valid,2,33.30%,0,0,Not Applicable,3,75.00%
+412,2017FA,No,No,No,2.25,Yes,1.75,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+413,2017FA,No,No,No,2.25,No,2.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+414,2017FA,No,No,No,3.7778,Yes,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,3,3,100.00%,5,100.00%
+415,2017FA,No,No,No,2.5882,No,3.129,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+416,2017FA,Yes,No,No,2.5,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+417,2017FA,No,No,No,2.5882,No,2.753,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,0,0,Not Applicable,5,100.00%
+418,2017FA,Yes,No,Yes,2.5,No,2.05,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+419,2017FA,No,No,No,2,No,2,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+420,2017FA,No,No,No,2.75,No,2.6,RESIDENT,No,No,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+421,2017FA,Yes,No,No,0.75,Yes,1,RESIDENT,No,No,No,Data not valid,3,50.00%,1,0,0.00%,1,20.00%
+422,2017FA,No,No,Yes,2.5,Yes,2.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+423,2017FA,No,No,No,1.75,Yes,1.675,RESIDENT,Yes,No,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+424,2017FA,No,No,No,2,Yes,1.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+425,2017FA,No,No,No,3,Yes,2.525,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+426,2017FA,Yes,No,Yes,2.75,No,2.85,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+427,2017FA,Yes,No,Yes,2.75,No,1.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,3,75.00%
+428,2017FA,No,No,No,4,No,4,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+429,2017FA,No,No,Yes,2.25,No,2.25,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+430,2017FA,Yes,No,Yes,0.3333,No,0.567,RESIDENT,Yes,Yes,No,Data not valid,3,75.00%,0,0,Not Applicable,2,50.00%
+431,2017FA,No,No,No,3.5,No,3.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+432,2017FA,No,No,No,3.3333,Yes,2.9,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,3,3,100.00%,5,100.00%
+433,2017FA,No,No,No,3.75,No,3.35,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+434,2017FA,No,No,No,2.75,No,3.225,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+435,2017FA,No,No,No,3,No,3,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+436,2017FA,No,No,Yes,3,No,3,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+437,2017FA,Yes,No,Yes,2.75,No,2.675,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+438,2017FA,No,No,No,3.5,No,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+439,2017FA,No,No,No,1.75,No,2,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+440,2017FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+441,2017FA,No,No,Yes,2.4444,No,3,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,3,2,66.70%,4,80.00%
+442,2017FA,Unknown,Unknown,Yes,2.6667,No,2.867,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,3,75.00%
+443,2017FA,Yes,Yes,No,3.25,No,3.475,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+444,2017FA,No,No,Yes,3.5,No,3.075,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+445,2017FA,No,No,No,1.75,No,2,RESIDENT,No,No,No,Data not valid,2,50.00%,0,0,Not Applicable,4,100.00%
+446,2017FA,No,No,No,2.2222,No,2.075,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,3,3,100.00%,5,100.00%
+447,2017FA,No,No,No,3,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+448,2017FA,Yes,Yes,No,3.5,No,3.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+449,2017FA,No,No,No,3.7895,No,3.835,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,7,100.00%
+450,2017FA,No,No,No,0,No,0.7,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,2,66.70%
+451,2017FA,No,No,No,2.8235,No,3.575,RESIDENT,Yes,Yes,No,Data not valid,1,16.70%,1,1,100.00%,5,100.00%
+452,2017FA,No,No,No,2.75,Yes,2.175,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+453,2017FA,No,No,No,1.75,No,0.333,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,1,25.00%
+454,2017FA,Unknown,Unknown,No,1.75,No,1.675,RESIDENT,Yes,Yes,Yes,Data not valid,1,25.00%,2,2,100.00%,4,100.00%
+455,2017FA,No,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+456,2017FA,No,No,No,1.75,No,0.575,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,1,25.00%
+457,2017FA,No,No,No,3.25,No,3.175,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+458,2017FA,Yes,No,No,1,No,2.1,COMMUTER,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,3,100.00%
+459,2017FA,No,No,No,2.5,Yes,2.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+460,2017FA,Yes,Yes,Yes,1.6667,No,0,RESIDENT,No,No,No,Data not valid,2,40.00%,3,0,0.00%,0,0.00%
+461,2017FA,Yes,No,Yes,2,No,2.133,COMMUTER,Yes,No,No,Data not valid,1,33.30%,1,1,100.00%,3,100.00%
+462,2017FA,No,No,Yes,3,No,3.225,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+463,2017FA,No,No,No,2.25,No,3.333,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+464,2017FA,No,No,No,2.5,No,2.5,RESIDENT,No,No,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+465,2017FA,Unknown,Unknown,No,2,No,1.75,RESIDENT,No,No,No,Data not valid,1,20.00%,2,2,100.00%,4,100.00%
+466,2017FA,No,No,Yes,2.25,No,3,COMMUTER,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,3,75.00%
+467,2017FA,Yes,Yes,No,3.3333,No,3.333,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,3,60.00%
+468,2017FA,Yes,No,Yes,1,No,1.667,RESIDENT,Yes,No,No,Data not valid,2,50.00%,2,2,100.00%,3,100.00%
+469,2017FA,No,No,Yes,2.75,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+470,2017FA,Yes,Yes,Yes,2.5,No,2.75,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+471,2017FA,No,No,No,4,Yes,3.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+472,2017FA,Yes,No,No,2.75,Yes,2.675,RESIDENT,No,No,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+473,2017FA,No,No,Yes,0.75,Yes,1.425,RESIDENT,Yes,No,Yes,Data not valid,3,75.00%,2,2,100.00%,4,100.00%
+474,2017FA,No,No,No,2.5,No,2.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+475,2017FA,No,No,Yes,2,No,2,RESIDENT,No,No,No,Data not valid,2,40.00%,3,3,100.00%,4,80.00%
+476,2017FA,No,No,No,2.25,No,1.75,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,2,2,100.00%,4,100.00%
+477,2017FA,No,No,No,2.75,No,2.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+478,2017FA,No,No,Yes,3.5,No,2.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+479,2017FA,Yes,Yes,Yes,3.75,No,3.225,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+480,2017FA,No,No,No,1.6667,No,2.233,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,3,100.00%
+481,2017FA,No,No,No,3.25,Yes,3.1,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+482,2017FA,No,No,No,3.75,No,3.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+483,2017FA,No,No,No,3.25,No,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+484,2017FA,No,No,No,1.75,No,0.667,RESIDENT,No,No,No,Data not valid,1,16.70%,1,0,0.00%,2,50.00%
+485,2017FA,No,No,Yes,0.75,No,1.6,RESIDENT,Yes,No,No,Data not valid,3,75.00%,1,1,100.00%,4,100.00%
+486,2017FA,No,No,Yes,4,No,4,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+487,2017FA,No,No,No,1.8824,No,1.412,RESIDENT,Yes,No,No,Data not valid,1,20.00%,0,0,Not Applicable,4,80.00%
+488,2017FA,No,No,No,3.5,No,3.6,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+489,2017FA,No,No,No,2.5294,No,,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,0,0,Not Applicable,5,100.00%
+490,2017FA,Yes,No,No,2.3333,No,2.567,COMMUTER,No,No,No,Data not valid,0,0.00%,1,1,100.00%,3,100.00%
+491,2017FA,No,No,No,2.4444,No,3,RESIDENT,No,No,Yes,Data not valid,1,14.30%,4,4,100.00%,5,83.30%
+492,2017FA,No,No,No,3.2941,Yes,3.675,RESIDENT,Yes,Yes,No,Data not valid,1,16.70%,1,1,100.00%,5,100.00%
+493,2017FA,No,No,Yes,1.5,No,0.767,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,0,0,Not Applicable,1,25.00%
+494,2017FA,No,No,Yes,2,Yes,2.075,RESIDENT,Yes,Yes,No,Data not valid,1,20.00%,2,2,100.00%,4,100.00%
+495,2017FA,No,No,No,1.25,No,0.567,RESIDENT,No,No,No,Data not valid,2,40.00%,1,0,0.00%,1,25.00%
+496,2017FA,No,No,No,,No,0,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,3,100.00%
+497,2017FA,Yes,Yes,Yes,3.5,No,3.075,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+498,2017FA,Yes,No,No,0.5,No,1.133,RESIDENT,Yes,No,No,Data not valid,4,100.00%,0,0,Not Applicable,3,75.00%
+499,2017FA,Yes,No,Yes,2.5,No,2,RESIDENT,Yes,Yes,Yes,Data not valid,1,25.00%,0,0,Not Applicable,3,75.00%
+500,2017FA,Yes,No,Yes,3.75,No,3.775,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+501,2017FA,No,No,No,1.75,No,2.333,RESIDENT,Yes,Yes,No,Data not valid,2,50.00%,2,1,50.00%,3,75.00%
+502,2017FA,No,No,No,2.5,No,1.5,RESIDENT,Yes,No,No,Data not valid,1,20.00%,2,1,50.00%,2,50.00%
+503,2017FA,No,No,No,4,No,3.925,RESIDENT,No,No,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+504,2017FA,Yes,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+505,2017FA,No,No,No,2.75,Yes,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+506,2017FA,No,No,No,2.5,No,2.9,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+507,2017FA,Yes,No,No,3.2941,No,3.6,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,5,100.00%
+508,2017FA,No,No,Yes,0.6667,No,1.8,RESIDENT,Yes,Yes,No,Data not valid,2,40.00%,2,2,100.00%,3,75.00%
+509,2017FA,Yes,No,No,2.75,No,1.2,RESIDENT,Yes,No,No,Data not valid,0,0.00%,2,1,50.00%,2,40.00%
+510,2017FA,No,No,No,2.75,No,1.6,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+511,2017FA,No,No,No,0,No,0.233,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,1,25.00%
+512,2017FA,No,No,No,2,No,1.925,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+513,2017FA,Yes,No,Yes,2.5,No,1.5,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,3,75.00%
+514,2017FA,Yes,No,Yes,3.75,No,3.825,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+515,2017FA,No,No,No,2.5,No,2.6,RESIDENT,Yes,No,No,Data not valid,1,25.00%,1,1,100.00%,4,100.00%
+516,2017FA,No,No,Yes,2.8235,No,2.876,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+517,2017FA,No,No,Yes,0.5,No,0.567,RESIDENT,Yes,Yes,No,Data not valid,4,80.00%,0,0,Not Applicable,2,50.00%
+518,2017FA,No,No,No,3.25,No,2.925,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+519,2017FA,Yes,No,No,3.25,Yes,3.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,80.00%
+520,2017FA,No,No,No,1,No,2,RESIDENT,No,No,No,Data not valid,3,75.00%,0,0,Not Applicable,3,75.00%
+521,2017FA,No,No,No,2.75,No,3.325,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+522,2017FA,Yes,No,Yes,2.75,No,2.575,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+523,2017FA,No,No,No,2,No,1.325,RESIDENT,No,No,No,Data not valid,1,20.00%,2,1,50.00%,3,75.00%
+524,2017FA,No,No,No,3.5,No,3.525,RESIDENT,No,No,Yes,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+525,2017FA,No,No,No,0,No,0.35,RESIDENT,Yes,No,No,Data not valid,3,75.00%,2,0,0.00%,1,33.30%
+526,2017FA,No,No,No,4,No,4,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,5,100.00%
+527,2017FA,No,No,No,2.75,No,2.675,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+528,2017FA,Yes,No,No,2.25,No,2.5,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+529,2017FA,Yes,No,Yes,2.5882,No,,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,0,Not Applicable
+530,2017FA,No,No,No,3.5,No,3.433,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+531,2017FA,Yes,Yes,Yes,1.75,No,1.675,RESIDENT,Yes,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+532,2017FA,No,No,No,3.5,Yes,3.175,RESIDENT,No,No,No,Data not valid,0,0.00%,1,1,100.00%,4,80.00%
+533,2017FA,No,No,No,2,Yes,2.567,RESIDENT,Yes,No,No,Data not valid,2,50.00%,1,0,0.00%,3,75.00%
+534,2017FA,No,No,No,2.25,Yes,1.425,RESIDENT,Yes,Yes,No,Data not valid,1,25.00%,1,1,100.00%,3,75.00%
+535,2017FA,No,No,No,3.8095,No,3.81,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,9,100.00%
+536,2017FA,No,No,No,2.75,No,2.575,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+537,2017FA,No,No,No,2.75,No,2.1,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,1,1,100.00%,4,100.00%
+538,2017FA,No,No,No,3.25,Yes,2.9,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+539,2017FA,Yes,Yes,No,0.75,Yes,0.667,RESIDENT,Yes,No,No,Data not valid,3,75.00%,0,0,Not Applicable,1,25.00%
+540,2017FA,No,No,No,1.75,Yes,2.675,RESIDENT,No,No,No,Data not valid,2,40.00%,2,2,100.00%,4,100.00%
+541,2017FA,No,No,No,2.5,Yes,2.6,RESIDENT,No,No,No,Data not valid,1,25.00%,0,0,Not Applicable,4,100.00%
+542,2017FA,No,No,No,2.5,Yes,2.825,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+543,2017FA,No,No,No,3.25,Yes,3.075,RESIDENT,Yes,No,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+544,2017FA,No,No,No,3,No,2.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,2,2,100.00%,4,100.00%
+545,2017FA,No,No,No,1.6667,No,2,RESIDENT,Yes,No,Yes,Data not valid,1,25.00%,1,1,100.00%,2,66.70%
+546,2017FA,No,No,No,3.25,No,3.425,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+547,2017FA,No,No,Yes,2.8,No,2.8,RESIDENT,No,No,No,Data not valid,0,0.00%,0,0,Not Applicable,5,100.00%
+548,2017FA,Yes,Yes,No,3.75,No,3.25,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,1,1,100.00%,4,80.00%
+549,2017FA,No,No,No,3,No,3.1,RESIDENT,Yes,Yes,Yes,Data not valid,0,0.00%,2,1,50.00%,3,75.00%
+550,2017FA,Yes,Yes,No,2.2222,No,3.567,RESIDENT,Yes,Yes,No,Data not valid,1,16.70%,3,3,100.00%,4,80.00%
+551,2017FA,No,No,No,3.5,No,3.75,RESIDENT,Yes,No,No,Data not valid,0,0.00%,1,1,100.00%,4,80.00%
+552,2017FA,No,No,No,1,No,1.667,RESIDENT,Yes,Yes,Yes,Data not valid,3,60.00%,2,2,100.00%,2,50.00%
+553,2017FA,Yes,No,Yes,0.75,No,0,COMMUTER,No,No,No,Data not valid,3,75.00%,1,0,0.00%,0,0.00%
+554,2017FA,Yes,Yes,No,1,No,,RESIDENT,No,No,No,Data not valid,2,33.30%,0,0,Not Applicable,0,0.00%
+555,2017FA,No,No,No,3,Yes,2.275,RESIDENT,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+556,2017FA,No,No,No,1.6667,No,,RESIDENT,No,No,No,Data not valid,1,25.00%,2,0,0.00%,0,0.00%
+557,2017FA,No,No,No,3.25,Yes,3.5,COMMUTER,Yes,Yes,No,Data not valid,0,0.00%,0,0,Not Applicable,4,100.00%
+558,2018FA,No,No,Yes,4,No,4,COMMUTER,Yes,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+559,2018FA,No,No,No,0.5,Yes,0,RESIDENT,Yes,No,Yes,1,4,100.00%,0,0,Not Applicable,0,0.00%
+560,2018FA,No,No,No,4,Yes,4,COMMUTER,Yes,Yes,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+561,2018FA,No,No,No,3.7778,No,4,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,6,100.00%
+562,2018FA,No,No,No,1.3333,No,2,RESIDENT,Yes,Yes,No,0,2,50.00%,1,1,100.00%,3,100.00%
+563,2018FA,No,No,Yes,2.375,No,2.838,RESIDENT,Yes,Yes,Yes,0,1,16.70%,1,1,100.00%,5,100.00%
+564,2018FA,No,No,Yes,2.25,No,2.425,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+565,2018FA,No,No,No,3.5,Yes,3.575,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+566,2018FA,No,No,No,1.75,No,2.675,RESIDENT,No,No,No,0,2,50.00%,0,0,Not Applicable,4,100.00%
+567,2018FA,No,No,No,3,No,3.425,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+568,2018FA,Yes,No,Yes,2,Yes,3,RESIDENT,Yes,Yes,Yes,2,1,25.00%,0,0,Not Applicable,4,100.00%
+569,2018FA,Yes,Yes,No,4,No,3.925,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,6,100.00%
+570,2018FA,No,No,No,4,No,4,RESIDENT,No,No,No,0,0,0.00%,2,2,100.00%,5,100.00%
+571,2018FA,No,No,Yes,3,Yes,2.825,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+572,2018FA,No,No,No,3.25,No,3.425,RESIDENT,No,No,Yes,3,0,0.00%,1,1,100.00%,4,100.00%
+573,2018FA,No,No,Yes,2.75,Yes,2.9,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+574,2018FA,No,No,No,2.75,No,1.925,RESIDENT,Yes,Yes,Yes,0,0,0.00%,2,2,100.00%,4,100.00%
+575,2018FA,No,No,No,3.25,No,3.6,RESIDENT,Yes,Yes,No,1,0,0.00%,3,3,100.00%,5,100.00%
+576,2018FA,Yes,No,No,3.25,Yes,3.45,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+577,2018FA,No,No,No,3,No,3.233,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+578,2018FA,Yes,No,Yes,2.75,No,2.85,RESIDENT,Yes,No,No,7,1,16.70%,2,2,100.00%,5,100.00%
+579,2018FA,Yes,No,Yes,2.1111,Yes,2.444,RESIDENT,Yes,Yes,No,1,1,20.00%,0,0,Not Applicable,5,100.00%
+580,2018FA,No,No,No,3.25,Yes,3.175,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+581,2018FA,No,No,No,1.25,No,1.35,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,2,50.00%
+582,2018FA,No,No,No,2.5,No,2.4,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+583,2018FA,Unknown,Unknown,Yes,2,No,2.075,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+584,2018FA,No,No,No,4,No,4,RESIDENT,No,No,Yes,3,0,0.00%,0,0,Not Applicable,6,100.00%
+585,2018FA,Yes,No,Yes,3.25,No,3.425,RESIDENT,Yes,Yes,Yes,5,0,0.00%,1,1,100.00%,4,100.00%
+586,2018FA,No,No,No,3.25,Yes,3.525,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+587,2018FA,No,No,No,2,Yes,2.75,RESIDENT,Yes,Yes,No,1,1,20.00%,2,2,100.00%,4,100.00%
+588,2018FA,No,No,No,3.5,No,3.925,RESIDENT,Yes,Yes,Yes,2,0,0.00%,1,1,100.00%,5,100.00%
+589,2018FA,No,No,Yes,3.25,Yes,2.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+590,2018FA,No,No,No,2.75,Yes,2.65,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+591,2018FA,No,No,No,3.5,No,3.675,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,5,100.00%
+592,2018FA,Yes,No,No,4,No,4,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,5,100.00%
+593,2018FA,No,No,No,3.25,No,3.25,COMMUTER,Yes,Yes,No,1,0,0.00%,2,2,100.00%,5,100.00%
+594,2018FA,No,No,No,3.5,No,3.675,COMMUTER,Yes,No,No,3,0,0.00%,1,1,100.00%,5,100.00%
+595,2018FA,Yes,Yes,Yes,2,No,1.425,RESIDENT,Yes,No,No,3,1,20.00%,0,0,Not Applicable,4,100.00%
+596,2018FA,Yes,No,No,3.25,No,3.5,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+597,2018FA,No,No,No,3.7778,No,4,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,6,100.00%
+598,2018FA,No,No,No,3.5294,No,3.733,COMMUTER,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,7,100.00%
+599,2018FA,No,No,Yes,3.2941,No,2.894,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,5,100.00%
+600,2018FA,Yes,No,No,3.3846,No,3.169,RESIDENT,Yes,No,No,0,0,0.00%,0,0,Not Applicable,4,80.00%
+601,2018FA,Yes,No,No,3.25,No,3.525,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+602,2018FA,No,No,No,3.5,Yes,3.925,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+603,2018FA,Yes,Yes,Yes,3.25,No,2.675,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+604,2018FA,No,No,No,0.75,No,,RESIDENT,No,No,No,2,3,60.00%,0,0,Not Applicable,0,Not Applicable
+605,2018FA,Yes,Yes,No,3,No,3.525,RESIDENT,Yes,Yes,No,1,0,0.00%,3,3,100.00%,5,100.00%
+606,2018FA,No,No,No,1.75,Yes,2.325,RESIDENT,Yes,Yes,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+607,2018FA,No,No,No,2.6667,Yes,2.767,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,3,75.00%
+608,2018FA,No,No,No,3.5,Yes,4,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,4,100.00%
+609,2018FA,Yes,No,Yes,2.1176,No,2.518,RESIDENT,Yes,Yes,No,2,1,20.00%,0,0,Not Applicable,5,100.00%
+610,2018FA,No,No,Yes,2.75,No,3.34,RESIDENT,No,No,Yes,2,0,0.00%,1,1,100.00%,4,100.00%
+611,2018FA,No,No,No,3.5294,No,3.435,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,5,100.00%
+612,2018FA,No,No,Yes,4,No,4,COMMUTER,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+613,2018FA,Yes,Yes,Yes,2.5,No,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,3,3,100.00%,5,100.00%
+614,2018FA,No,No,Yes,3.25,No,2.075,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+615,2018FA,No,No,No,4,No,3.925,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,5,100.00%
+616,2018FA,No,No,No,4,Yes,4,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+617,2018FA,Yes,Yes,Yes,2.75,No,2.525,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+618,2018FA,No,No,No,3.5294,No,3.388,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+619,2018FA,Yes,No,No,2,No,2.325,COMMUTER,Yes,No,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+620,2018FA,Yes,No,Yes,2.75,Yes,2.9,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,4,100.00%
+621,2018FA,No,No,No,3.5,No,3.325,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+622,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,6,100.00%
+623,2018FA,Yes,No,Yes,2.25,Yes,2.5,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+624,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+625,2018FA,No,No,No,4,Yes,3.775,RESIDENT,Yes,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+626,2018FA,No,No,No,3.5,No,3.475,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,5,100.00%
+627,2018FA,No,No,No,3,No,2.675,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+628,2018FA,Yes,No,Yes,3.75,No,3.925,COMMUTER,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+629,2018FA,No,No,No,4,Yes,3.575,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+630,2018FA,No,No,Yes,,No,,RESIDENT,No,No,No,0,0,0.00%,2,0,0.00%,0,0.00%
+631,2018FA,Yes,No,Yes,3.75,No,3.925,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+632,2018FA,Yes,No,No,3.75,No,3.925,RESIDENT,Yes,Yes,No,4,0,0.00%,0,0,Not Applicable,4,100.00%
+633,2018FA,No,No,No,3.75,No,3.25,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+634,2018FA,No,No,No,2,No,1.5,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+635,2018FA,Yes,Yes,No,4,No,4,COMMUTER,Yes,Yes,No,2,0,0.00%,2,2,100.00%,5,100.00%
+636,2018FA,Yes,No,Yes,3.375,Yes,2.875,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+637,2018FA,No,No,No,1.75,No,2.9,RESIDENT,Yes,No,No,3,2,50.00%,0,0,Not Applicable,3,75.00%
+638,2018FA,No,No,No,2,No,2.675,RESIDENT,Yes,Yes,No,0,1,20.00%,1,1,100.00%,4,100.00%
+639,2018FA,Yes,Yes,Yes,0,Yes,,RESIDENT,No,No,No,1,1,25.00%,0,0,Not Applicable,0,0.00%
+640,2018FA,No,No,No,2.5,No,2.325,COMMUTER,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+641,2018FA,No,No,No,3.25,No,3.35,RESIDENT,Yes,Yes,Yes,3,0,0.00%,3,3,100.00%,4,100.00%
+642,2018FA,No,No,No,2.75,No,3.075,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+643,2018FA,No,No,Yes,3.25,No,2.85,COMMUTER,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+644,2018FA,No,No,No,3.5,No,3.5,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+645,2018FA,No,No,No,3.0588,No,2.894,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+646,2018FA,No,No,No,3.5,Yes,3.4,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,4,100.00%
+647,2018FA,No,No,No,2.875,Yes,2.5,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,5,100.00%
+648,2018FA,No,No,No,3.75,Yes,3.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+649,2018FA,No,No,No,2.75,Yes,3.25,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+650,2018FA,Yes,No,No,1,Yes,1.5,RESIDENT,Yes,Yes,No,1,4,100.00%,0,0,Not Applicable,4,100.00%
+651,2018FA,Yes,No,Yes,3.25,No,3.6,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+652,2018FA,No,No,No,2.25,Yes,2.4,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+653,2018FA,Yes,No,No,2.25,No,2.5,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+654,2018FA,No,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,Yes,4,0,0.00%,2,2,100.00%,4,100.00%
+655,2018FA,Yes,No,Yes,2.5,No,2.925,RESIDENT,No,No,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+656,2018FA,No,No,No,2.75,Yes,2.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+657,2018FA,No,No,No,3.25,Yes,2.925,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+658,2018FA,No,No,No,1.75,Yes,1.575,RESIDENT,Yes,Yes,No,1,1,20.00%,2,1,50.00%,3,75.00%
+659,2018FA,No,No,No,3.25,No,3.25,RESIDENT,No,No,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+660,2018FA,No,No,No,2,No,2.6,RESIDENT,Yes,Yes,Yes,1,1,25.00%,2,2,100.00%,4,100.00%
+661,2018FA,No,No,Yes,2.75,No,2.6,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+662,2018FA,Yes,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+663,2018FA,Yes,No,Yes,3.5,No,3.925,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+664,2018FA,Yes,No,No,2,No,2.175,RESIDENT,No,No,No,6,2,50.00%,0,0,Not Applicable,4,100.00%
+665,2018FA,Yes,Yes,Yes,3.5,No,3.575,RESIDENT,Yes,Yes,Yes,6,0,0.00%,0,0,Not Applicable,4,100.00%
+666,2018FA,No,No,No,3.5,Yes,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+667,2018FA,No,No,No,2.5,Yes,3.333,COMMUTER,Yes,Yes,No,2,1,25.00%,1,1,100.00%,3,75.00%
+668,2018FA,Yes,Yes,No,1.75,No,1.867,RESIDENT,Yes,No,No,1,2,40.00%,1,1,100.00%,3,75.00%
+669,2018FA,Yes,No,No,2.75,Yes,2.35,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+670,2018FA,No,No,No,2,No,2.075,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+671,2018FA,No,No,No,2.5882,No,2.918,RESIDENT,Yes,Yes,No,3,0,0.00%,2,2,100.00%,5,100.00%
+672,2018FA,No,No,Yes,1,No,0.925,RESIDENT,Yes,Yes,Yes,1,2,40.00%,1,0,0.00%,3,75.00%
+673,2018FA,No,No,No,3.25,No,3.425,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+674,2018FA,No,No,No,3,No,3,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+675,2018FA,No,No,Yes,2.8235,No,2.859,RESIDENT,Yes,Yes,No,0,1,20.00%,0,0,Not Applicable,5,100.00%
+676,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+677,2018FA,No,No,No,3.5,Yes,3.275,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+678,2018FA,No,No,No,4,No,4,COMMUTER,Yes,Yes,No,2,0,0.00%,2,2,100.00%,6,100.00%
+679,2018FA,No,No,No,3,No,3.325,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+680,2018FA,No,No,Yes,3.25,Yes,3.175,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+681,2018FA,No,No,No,0.75,Yes,1.35,RESIDENT,No,No,No,1,3,75.00%,2,1,50.00%,2,50.00%
+682,2018FA,Yes,No,Yes,2,No,2.575,RESIDENT,No,No,Yes,2,1,25.00%,0,0,Not Applicable,4,100.00%
+683,2018FA,No,No,No,3.5,Yes,3.475,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,5,100.00%
+684,2018FA,No,No,Yes,3.5,No,3.65,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,5,100.00%
+685,2018FA,No,No,No,2.5,Yes,3,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,80.00%
+686,2018FA,No,No,No,2.75,No,3.15,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+687,2018FA,Yes,No,Yes,3,Yes,3.5,RESIDENT,Yes,Yes,No,2,0,0.00%,3,3,100.00%,5,100.00%
+688,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+689,2018FA,No,No,No,3.75,No,3.925,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+690,2018FA,Yes,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+691,2018FA,No,No,No,3.25,No,2.85,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+692,2018FA,No,No,No,3.25,No,3.75,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+693,2018FA,Yes,No,Yes,2.5,No,2.15,RESIDENT,Yes,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+694,2018FA,No,No,No,3.5,No,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+695,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+696,2018FA,Yes,No,Yes,3.75,No,3.85,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+697,2018FA,Yes,No,Yes,2.75,No,3.175,RESIDENT,No,No,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+698,2018FA,Yes,No,Yes,3,No,2.825,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+699,2018FA,Yes,No,Yes,0,No,,RESIDENT,No,No,No,0,3,75.00%,0,0,Not Applicable,0,0.00%
+700,2018FA,Yes,Yes,Yes,2.25,No,2.025,RESIDENT,No,No,Yes,1,1,25.00%,0,0,Not Applicable,4,100.00%
+701,2018FA,No,No,No,3.75,No,3.775,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+702,2018FA,No,No,Yes,3.25,Yes,3.1,COMMUTER,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+703,2018FA,Yes,Yes,Yes,3,No,3,RESIDENT,Yes,No,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+704,2018FA,No,No,No,3,No,3.675,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+705,2018FA,Yes,Yes,No,3.25,No,3.313,COMMUTER,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,5,100.00%
+706,2018FA,No,No,No,3.7647,No,4,COMMUTER,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,5,100.00%
+707,2018FA,Unknown,Unknown,No,2.3333,No,2.467,RESIDENT,No,No,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+708,2018FA,Yes,Yes,No,3.5294,Yes,3.347,RESIDENT,Yes,No,No,4,0,0.00%,0,0,Not Applicable,6,100.00%
+709,2018FA,Yes,Yes,No,1.5,No,1.675,RESIDENT,No,No,No,2,3,75.00%,0,0,Not Applicable,3,75.00%
+710,2018FA,Yes,No,Yes,3.75,No,3.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+711,2018FA,No,No,No,3.75,No,3.925,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+712,2018FA,Yes,No,Yes,3.25,No,3.5,COMMUTER,Yes,Yes,Yes,7,0,0.00%,0,0,Not Applicable,5,100.00%
+713,2018FA,No,No,No,3.5,Yes,3.675,RESIDENT,Yes,Yes,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+714,2018FA,Yes,No,No,2.6667,Yes,3,RESIDENT,Yes,No,No,1,0,0.00%,2,2,100.00%,4,100.00%
+715,2018FA,No,No,No,2.75,Yes,2.65,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+716,2018FA,Yes,No,Yes,3.5,No,3.75,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+717,2018FA,No,No,Yes,3.25,No,3.6,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+718,2018FA,No,No,No,2.75,Yes,2.75,RESIDENT,No,No,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+719,2018FA,No,No,No,4,No,3.825,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+720,2018FA,No,No,No,3.75,Yes,3.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+721,2018FA,No,No,No,3.75,Yes,3.6,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+722,2018FA,Yes,Yes,Yes,2.75,No,3.075,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+723,2018FA,Yes,No,No,2.75,No,2.825,RESIDENT,Yes,Yes,No,4,0,0.00%,1,1,100.00%,4,100.00%
+724,2018FA,Unknown,Unknown,No,,No,,RESIDENT,No,No,No,0,0,0.00%,1,0,0.00%,0,0.00%
+725,2018FA,Yes,No,No,3,No,3.175,RESIDENT,Yes,Yes,Yes,5,0,0.00%,0,0,Not Applicable,4,100.00%
+726,2018FA,No,No,No,4,Yes,4,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,4,100.00%
+727,2018FA,Yes,No,Yes,3.25,No,3.25,RESIDENT,No,Yes,No,3,0,0.00%,1,1,100.00%,4,100.00%
+728,2018FA,Yes,Yes,Yes,3.75,No,3.6,RESIDENT,Yes,No,No,0,0,0.00%,2,2,100.00%,4,100.00%
+729,2018FA,No,No,No,2.5,Yes,2.6,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+730,2018FA,Yes,Yes,No,0.6667,Yes,0.767,COMMUTER,No,No,No,1,3,75.00%,1,0,0.00%,1,25.00%
+731,2018FA,Yes,Yes,No,3,No,3.45,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+732,2018FA,No,No,Yes,2.25,No,3.075,RESIDENT,Yes,Yes,No,2,1,25.00%,2,2,100.00%,4,100.00%
+733,2018FA,No,No,No,3.25,Yes,3.567,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,4,80.00%
+734,2018FA,No,No,No,3.75,Yes,3.85,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+735,2018FA,No,No,No,2.75,No,3.35,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+736,2018FA,No,No,No,1,Yes,1.5,RESIDENT,Yes,No,No,2,3,75.00%,0,0,Not Applicable,4,100.00%
+737,2018FA,Yes,No,Yes,3.25,No,3.175,COMMUTER,No,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+738,2018FA,No,No,No,2.5,Yes,2.675,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+739,2018FA,No,No,No,2.25,No,2.35,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,4,100.00%
+740,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,6,100.00%
+741,2018FA,No,No,No,3,No,3.1,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+742,2018FA,No,No,Yes,3.5,No,2.925,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+743,2018FA,No,No,Yes,3.25,No,3.475,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,4,100.00%
+744,2018FA,No,No,No,2.75,No,3.1,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+745,2018FA,Yes,No,Yes,2.75,No,2.575,RESIDENT,No,No,Yes,4,1,16.70%,2,2,100.00%,4,100.00%
+746,2018FA,No,No,No,3.75,No,2.825,RESIDENT,No,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+747,2018FA,No,No,No,4,Yes,3.85,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+748,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,5,0,0.00%,0,0,Not Applicable,5,100.00%
+749,2018FA,No,No,No,3,Yes,3.233,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,5,100.00%
+750,2018FA,No,No,Yes,3.25,Yes,3.425,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+751,2018FA,Yes,No,Yes,3.2857,Yes,3.3,RESIDENT,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+752,2018FA,No,No,No,3.25,No,3.425,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+753,2018FA,No,No,No,2.5,No,2.825,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,4,100.00%
+754,2018FA,No,No,No,2.1176,No,2.246,COMMUTER,Yes,Yes,No,0,1,20.00%,0,0,Not Applicable,4,80.00%
+755,2018FA,Yes,Yes,Yes,2.5,No,2.525,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+756,2018FA,No,No,Yes,2,No,1.85,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+757,2018FA,No,No,No,1.8462,No,2.554,RESIDENT,Yes,Yes,No,0,2,40.00%,0,0,Not Applicable,4,80.00%
+758,2018FA,No,No,No,3.25,No,3.675,RESIDENT,Yes,Yes,No,3,0,0.00%,3,3,100.00%,5,100.00%
+759,2018FA,No,No,No,4,No,3.85,RESIDENT,Yes,Yes,No,5,0,0.00%,0,0,Not Applicable,4,100.00%
+760,2018FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,No,5,0,0.00%,2,2,100.00%,5,100.00%
+761,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+762,2018FA,No,No,No,3.75,No,3.75,RESIDENT,No,No,No,2,0,0.00%,2,2,100.00%,4,100.00%
+763,2018FA,No,No,No,1.75,No,1.333,RESIDENT,No,No,No,2,2,50.00%,0,0,Not Applicable,3,75.00%
+764,2018FA,No,No,No,1.5,Yes,0,RESIDENT,No,No,No,1,2,50.00%,0,0,Not Applicable,0,0.00%
+765,2018FA,Yes,No,No,1,No,1.233,RESIDENT,Yes,Yes,Yes,2,3,75.00%,1,0,0.00%,3,75.00%
+766,2018FA,No,No,No,3,Yes,3.5,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+767,2018FA,No,No,Yes,0.5,No,,RESIDENT,No,No,No,1,4,100.00%,0,0,Not Applicable,0,0.00%
+768,2018FA,No,No,No,2.75,No,3,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+769,2018FA,No,No,No,1.75,Yes,2.025,RESIDENT,Yes,Yes,No,1,2,50.00%,0,0,Not Applicable,4,100.00%
+770,2018FA,Unknown,Unknown,No,1.25,Yes,1.9,RESIDENT,No,No,No,1,3,75.00%,0,0,Not Applicable,3,75.00%
+771,2018FA,Yes,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,2,0,0.00%,3,3,100.00%,5,100.00%
+772,2018FA,No,No,No,3.5,No,3.5,RESIDENT,Yes,Yes,Yes,0,0,0.00%,1,1,100.00%,5,100.00%
+773,2018FA,No,No,No,3.7647,No,3.765,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,5,100.00%
+774,2018FA,No,No,No,2.8235,No,0.871,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,80.00%
+775,2018FA,Yes,Yes,Yes,,No,,RESIDENT,No,No,No,0,0,0.00%,1,0,0.00%,0,0.00%
+776,2018FA,No,No,No,3,Yes,3.333,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+777,2018FA,No,No,No,2,No,1.1,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+778,2018FA,No,No,No,2.75,Yes,1.575,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,80.00%
+779,2018FA,Yes,No,Yes,2.25,No,0.85,RESIDENT,Yes,No,No,4,1,25.00%,0,0,Not Applicable,2,50.00%
+780,2018FA,No,No,No,1.75,No,1.5,RESIDENT,Yes,Yes,No,1,1,25.00%,2,1,50.00%,3,75.00%
+781,2018FA,No,No,No,3.25,Yes,3.6,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+782,2018FA,Yes,No,No,2.25,No,2.075,RESIDENT,Yes,Yes,Yes,0,1,20.00%,2,2,100.00%,4,100.00%
+783,2018FA,No,No,Yes,2.75,No,2.9,RESIDENT,Yes,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+784,2018FA,No,No,No,3,Yes,2.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+785,2018FA,No,No,No,1.5,Yes,2.433,RESIDENT,Yes,Yes,No,1,2,50.00%,1,0,0.00%,3,75.00%
+786,2018FA,No,No,Yes,1.25,No,1.35,RESIDENT,No,No,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+787,2018FA,No,No,No,2.25,No,,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,0,Not Applicable
+788,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,5,100.00%
+789,2018FA,No,No,No,2.5,Yes,2.325,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+790,2018FA,No,No,No,0.75,Yes,1.133,RESIDENT,Yes,Yes,No,1,3,60.00%,1,0,0.00%,2,50.00%
+791,2018FA,No,No,No,3.25,Yes,3.325,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+792,2018FA,Yes,No,Yes,3.25,No,2.75,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+793,2018FA,No,No,No,1.1765,No,1.494,RESIDENT,Yes,Yes,No,1,3,60.00%,0,0,Not Applicable,5,100.00%
+794,2018FA,Yes,No,No,3.5,Yes,3.763,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,5,100.00%
+795,2018FA,Yes,No,Yes,1.25,No,1.1,RESIDENT,No,No,No,2,2,50.00%,0,0,Not Applicable,3,75.00%
+796,2018FA,No,No,No,3.5,No,3.075,RESIDENT,Yes,Yes,Yes,0,0,0.00%,1,1,100.00%,4,100.00%
+797,2018FA,No,No,No,0.75,Yes,1.667,RESIDENT,No,No,No,1,4,80.00%,3,2,66.70%,4,80.00%
+798,2018FA,No,No,Yes,3.75,Yes,3.85,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+799,2018FA,Yes,No,No,2.75,No,2.35,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+800,2018FA,No,No,No,3.75,No,4,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,80.00%
+801,2018FA,No,No,Yes,2.75,No,2.825,RESIDENT,No,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+802,2018FA,No,No,No,1.5,No,1.233,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+803,2018FA,No,No,Yes,3.25,Yes,3.35,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+804,2018FA,No,No,No,3.7647,No,3.518,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,6,100.00%
+805,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,3,0,0.00%,2,2,100.00%,5,100.00%
+806,2018FA,Yes,No,No,2.5,No,2.075,RESIDENT,Yes,No,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+807,2018FA,No,No,No,2.5,No,2.75,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+808,2018FA,No,No,No,3.25,Yes,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+809,2018FA,No,No,No,2.25,No,2.075,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+810,2018FA,Yes,No,No,2.5,No,2.75,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,5,100.00%
+811,2018FA,No,No,No,1.25,Yes,2,RESIDENT,Yes,Yes,No,1,3,75.00%,0,0,Not Applicable,3,75.00%
+812,2018FA,No,No,No,1.25,Yes,2.1,RESIDENT,Yes,Yes,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+813,2018FA,No,No,No,3.5,Yes,3.75,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+814,2018FA,Yes,No,No,3.5,No,3.325,RESIDENT,No,No,No,3,0,0.00%,2,2,100.00%,5,100.00%
+815,2018FA,No,No,No,3.25,Yes,3.213,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,5,100.00%
+816,2018FA,No,No,No,3,Yes,3.575,RESIDENT,Yes,Yes,No,5,0,0.00%,0,0,Not Applicable,5,100.00%
+817,2018FA,No,No,No,4,Yes,3.838,RESIDENT,Yes,Yes,Yes,4,0,0.00%,1,1,100.00%,5,100.00%
+818,2018FA,No,No,No,2.75,Yes,3.175,RESIDENT,Yes,Yes,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+819,2018FA,Yes,No,No,2.75,Yes,3.35,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+820,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,5,100.00%
+821,2018FA,No,No,Yes,3.5,No,3.75,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+822,2018FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+823,2018FA,Yes,No,No,3.25,Yes,3.275,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+824,2018FA,No,No,No,2.25,Yes,1.925,RESIDENT,Yes,Yes,No,1,0,0.00%,3,3,100.00%,5,100.00%
+825,2018FA,No,No,No,3.75,No,3.85,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+826,2018FA,No,No,Yes,0.5,No,0.25,RESIDENT,No,No,No,0,3,75.00%,1,0,0.00%,1,25.00%
+827,2018FA,No,No,No,0.4444,No,0.333,RESIDENT,No,No,No,2,5,100.00%,3,2,66.70%,2,40.00%
+828,2018FA,No,No,No,3.2941,No,3.694,RESIDENT,Yes,Yes,Yes,7,0,0.00%,0,0,Not Applicable,6,100.00%
+829,2018FA,Yes,No,Yes,3.5,No,3.5,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+830,2018FA,No,No,No,2.75,Yes,3.25,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+831,2018FA,Yes,No,No,3.25,Yes,2.9,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+832,2018FA,Yes,Yes,No,1.5,Yes,2.567,RESIDENT,Yes,Yes,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+833,2018FA,Yes,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+834,2018FA,No,No,No,3.5,No,3.5,RESIDENT,No,No,No,2,0,0.00%,2,2,100.00%,5,100.00%
+835,2018FA,No,No,No,3.25,Yes,3.925,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+836,2018FA,Yes,Yes,Yes,2.5,No,3,RESIDENT,No,No,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+837,2018FA,No,No,No,4,Yes,3.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+838,2018FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,No,4,0,0.00%,0,0,Not Applicable,5,100.00%
+839,2018FA,No,No,No,3.25,No,3.25,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+840,2018FA,Yes,No,Yes,2.25,Yes,2,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+841,2018FA,No,No,No,3.75,No,3.525,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+842,2018FA,No,No,Yes,3.5,No,3.675,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,5,100.00%
+843,2018FA,No,No,Yes,3.5,No,3.575,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+844,2018FA,No,No,No,2.75,No,2.325,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+845,2018FA,No,No,No,2.5,No,2.75,RESIDENT,Yes,Yes,No,6,1,25.00%,0,0,Not Applicable,4,100.00%
+846,2018FA,No,No,No,3,Yes,3,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+847,2018FA,No,No,No,3.75,Yes,3.675,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+848,2018FA,No,No,No,3.7647,No,3.694,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,5,100.00%
+849,2018FA,Yes,No,Yes,3.25,No,3.425,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+850,2018FA,Yes,No,No,1.5,Yes,2.567,COMMUTER,Yes,Yes,No,2,2,50.00%,0,0,Not Applicable,3,75.00%
+851,2018FA,No,No,Yes,4,No,4,RESIDENT,Yes,Yes,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+852,2018FA,No,No,No,3.7647,No,3.929,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,5,100.00%
+853,2018FA,Yes,No,Yes,3.75,No,3.925,COMMUTER,Yes,Yes,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+854,2018FA,No,No,No,2.75,No,3.175,RESIDENT,Yes,Yes,No,3,1,25.00%,2,2,100.00%,4,100.00%
+855,2018FA,No,No,No,2,No,1.575,COMMUTER,No,No,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+856,2018FA,No,No,No,3.25,No,3.15,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+857,2018FA,No,No,No,3.5,Yes,3.325,RESIDENT,Yes,No,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+858,2018FA,Yes,Yes,Yes,1.75,Yes,1.35,RESIDENT,Yes,Yes,No,3,2,50.00%,0,0,Not Applicable,3,75.00%
+859,2018FA,No,No,No,3.5,No,3.85,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+860,2018FA,Yes,No,Yes,0.1667,No,0,RESIDENT,No,No,No,4,4,57.10%,3,0,0.00%,0,0.00%
+861,2018FA,No,No,No,3.25,No,3.675,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+862,2018FA,No,No,Yes,2,Yes,2.333,RESIDENT,No,No,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+863,2018FA,No,No,Yes,1.75,No,2.25,RESIDENT,Yes,Yes,No,1,1,20.00%,2,2,100.00%,5,100.00%
+864,2018FA,Yes,Yes,No,2,Yes,2.25,COMMUTER,Yes,Yes,No,2,1,20.00%,1,1,100.00%,4,100.00%
+865,2018FA,No,No,No,3.75,Yes,3.675,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+866,2018FA,No,No,No,1.5,No,1.6,RESIDENT,Yes,Yes,No,0,1,20.00%,2,1,50.00%,3,75.00%
+867,2018FA,No,No,No,3,No,3.7,RESIDENT,Yes,Yes,Yes,0,0,0.00%,3,1,33.30%,3,60.00%
+868,2018FA,No,No,No,3.5,No,3.925,RESIDENT,Yes,Yes,No,4,0,0.00%,0,0,Not Applicable,5,100.00%
+869,2018FA,No,No,Yes,2.25,No,0.85,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,3,75.00%
+870,2018FA,No,No,No,2.5,No,2.7,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+871,2018FA,Yes,No,Yes,2.75,No,2.988,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,5,100.00%
+872,2018FA,No,No,No,1.5,Yes,1.867,RESIDENT,Yes,No,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+873,2018FA,No,No,No,3.5,Yes,3.325,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+874,2018FA,No,No,Yes,2.5,Yes,2.925,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+875,2018FA,Yes,No,No,1.75,No,1.275,RESIDENT,Yes,No,Yes,2,1,25.00%,1,1,100.00%,3,75.00%
+876,2018FA,Yes,Yes,Yes,1.75,Yes,2,RESIDENT,No,No,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+877,2018FA,No,No,No,0.5,Yes,1.333,RESIDENT,No,No,No,1,4,100.00%,2,1,50.00%,3,75.00%
+878,2018FA,No,No,No,2.5,No,3,RESIDENT,No,No,No,1,0,0.00%,2,2,100.00%,4,100.00%
+879,2018FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+880,2018FA,No,No,No,2.75,No,3.15,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+881,2018FA,No,No,No,3.75,No,3.85,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+882,2018FA,Yes,Yes,Yes,3.25,No,3.25,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,4,100.00%
+883,2018FA,No,No,No,2,Yes,2.433,RESIDENT,No,No,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+884,2018FA,No,No,No,1.75,Yes,2,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+885,2018FA,No,No,Yes,2.5,No,2.75,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+886,2018FA,Yes,No,No,3.5,No,2.9,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+887,2018FA,Yes,No,No,3,No,3.35,COMMUTER,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+888,2018FA,No,No,No,1.75,No,1.825,RESIDENT,No,Yes,No,0,2,50.00%,2,2,100.00%,4,100.00%
+889,2018FA,No,No,No,2.75,No,2.35,RESIDENT,Yes,No,No,0,0,0.00%,2,2,100.00%,4,100.00%
+890,2018FA,Yes,Yes,Yes,2.8,No,2.56,RESIDENT,No,No,No,1,0,0.00%,3,3,100.00%,5,100.00%
+891,2018FA,No,No,Yes,1,No,0.9,COMMUTER,No,No,No,0,2,50.00%,1,0,0.00%,3,75.00%
+892,2018FA,No,No,No,3.2,Yes,3.66,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+893,2018FA,Yes,No,No,2.5,No,2.425,RESIDENT,Yes,No,No,1,1,20.00%,3,3,100.00%,5,100.00%
+894,2018FA,No,No,No,2.5,No,2.325,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+895,2018FA,No,No,No,3.6667,No,3.8,RESIDENT,No,No,No,1,0,0.00%,3,3,100.00%,4,100.00%
+896,2018FA,No,No,No,0.6667,Yes,2.65,RESIDENT,Yes,No,No,1,3,100.00%,0,0,Not Applicable,2,66.70%
+897,2018FA,No,No,No,3.0588,No,3.575,RESIDENT,Yes,Yes,No,3,1,20.00%,0,0,Not Applicable,5,100.00%
+898,2018FA,Yes,No,Yes,0.5,Yes,1,COMMUTER,No,No,Yes,2,3,60.00%,1,0,0.00%,2,50.00%
+899,2018FA,Yes,Yes,Yes,2.5,Yes,2.6,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+900,2018FA,No,No,No,2.0588,Yes,1.576,RESIDENT,Yes,Yes,No,1,2,40.00%,0,0,Not Applicable,5,100.00%
+901,2018FA,Yes,No,No,3.5,No,3,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+902,2018FA,No,No,No,1.8824,No,1.647,RESIDENT,Yes,Yes,Yes,3,1,16.70%,3,2,66.70%,5,83.30%
+903,2018FA,No,No,No,1,No,1.333,RESIDENT,Yes,Yes,No,1,3,75.00%,0,0,Not Applicable,2,50.00%
+904,2018FA,No,No,No,3.5,No,1.6,RESIDENT,No,No,No,4,0,0.00%,0,0,Not Applicable,3,75.00%
+905,2018FA,Unknown,Unknown,No,2.75,Yes,2.925,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,4,100.00%
+906,2018FA,No,No,Yes,2.8235,No,3.529,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,5,100.00%
+907,2018FA,Yes,Yes,No,2.75,No,2.35,COMMUTER,Yes,Yes,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+908,2018FA,No,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+909,2018FA,Yes,No,Yes,2.5,No,3,RESIDENT,Yes,Yes,Yes,0,1,25.00%,0,0,Not Applicable,3,75.00%
+910,2018FA,Yes,No,Yes,3.5,No,3.85,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+911,2018FA,Yes,No,No,3,No,3,RESIDENT,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+912,2018FA,No,No,No,3.5,Yes,3.775,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,4,100.00%
+913,2018FA,No,No,No,1,Yes,2,RESIDENT,Yes,No,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+914,2018FA,Yes,Yes,Yes,2.5,Yes,2.2,COMMUTER,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+915,2018FA,Yes,No,Yes,3.6667,Yes,3.233,RESIDENT,Yes,Yes,Yes,1,0,0.00%,2,1,50.00%,3,75.00%
+916,2018FA,No,No,No,3.75,No,3.5,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+917,2018FA,No,No,No,1.75,Yes,1.925,RESIDENT,Yes,Yes,No,2,1,20.00%,2,2,100.00%,4,100.00%
+918,2018FA,Yes,Yes,No,,No,,RESIDENT,No,No,Yes,4,0,0.00%,0,0,Not Applicable,0,0.00%
+919,2018FA,No,No,No,2,Yes,1.675,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+920,2018FA,Yes,No,No,3,Yes,3.675,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+921,2018FA,No,No,No,2,Yes,1.467,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,3,75.00%
+922,2018FA,No,No,No,2.1176,No,2.047,RESIDENT,Yes,No,Yes,1,1,20.00%,0,0,Not Applicable,4,80.00%
+923,2018FA,No,No,No,2,No,1.667,RESIDENT,No,No,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+924,2018FA,No,No,No,2.75,Yes,2.4,RESIDENT,Yes,Yes,No,5,0,0.00%,2,2,100.00%,5,100.00%
+925,2018FA,No,No,No,2.75,No,2.525,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+926,2018FA,Yes,No,Yes,2.5,No,3.1,RESIDENT,Yes,Yes,No,4,1,25.00%,0,0,Not Applicable,4,100.00%
+927,2018FA,No,No,No,3.75,No,3.075,COMMUTER,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+928,2018FA,No,No,Yes,1.25,No,0.85,RESIDENT,Yes,Yes,No,1,3,60.00%,2,1,50.00%,3,75.00%
+929,2018FA,No,No,No,2.75,Yes,2.85,COMMUTER,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+930,2018FA,Yes,Yes,No,2.25,No,3.433,RESIDENT,Yes,Yes,No,3,1,25.00%,0,0,Not Applicable,3,75.00%
+931,2018FA,Yes,Yes,Yes,2.75,No,3.35,RESIDENT,Yes,Yes,No,7,0,0.00%,2,2,100.00%,4,100.00%
+932,2018FA,Yes,Yes,Yes,1.75,No,1.667,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+933,2018FA,No,No,No,1.75,No,1.675,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+934,2018FA,No,No,No,3.5,No,3.6,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+935,2018FA,No,No,No,1.5,Yes,1.175,RESIDENT,No,No,Yes,3,2,50.00%,0,0,Not Applicable,3,75.00%
+936,2018FA,No,No,No,3.25,No,3.5,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+937,2018FA,No,No,No,2.8235,No,2.988,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,5,100.00%
+938,2018FA,Yes,Yes,Yes,0.75,No,0.8,RESIDENT,No,No,No,0,3,75.00%,0,0,Not Applicable,2,50.00%
+939,2018FA,No,No,No,3.5,Yes,3.5,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+940,2018FA,No,No,No,2.75,Yes,1.75,RESIDENT,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+941,2018FA,Yes,No,No,3,No,3.367,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,3,60.00%
+942,2018FA,No,No,No,2.5,No,2.425,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+943,2018FA,No,No,No,2.5,No,2.675,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+944,2018FA,No,No,No,1.75,No,1.333,RESIDENT,No,No,No,0,1,20.00%,2,0,0.00%,3,60.00%
+945,2018FA,No,No,No,2.25,No,1.9,RESIDENT,Yes,Yes,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+946,2018FA,No,No,Yes,3.25,Yes,3.35,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+947,2018FA,No,No,No,2.5,Yes,1.825,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+948,2018FA,No,No,No,3.25,Yes,2.175,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,4,100.00%
+949,2018FA,Yes,No,No,0,No,,RESIDENT,No,No,No,0,2,50.00%,0,0,Not Applicable,0,0.00%
+950,2018FA,Yes,Yes,No,1.5,No,1.35,RESIDENT,Yes,Yes,No,2,2,40.00%,1,1,100.00%,3,75.00%
+951,2018FA,No,No,Yes,3,No,3.175,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+952,2018FA,Yes,No,No,2,No,2.675,COMMUTER,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+953,2018FA,No,No,No,2.5,No,3,RESIDENT,Yes,Yes,No,1,1,25.00%,1,1,100.00%,3,75.00%
+954,2018FA,No,No,No,1.25,No,1.175,RESIDENT,Yes,Yes,No,2,2,50.00%,0,0,Not Applicable,4,100.00%
+955,2018FA,No,No,No,2.75,No,2.75,RESIDENT,Yes,Yes,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+956,2018FA,No,No,No,3.25,Yes,3,RESIDENT,Yes,Yes,No,1,0,0.00%,3,3,100.00%,5,100.00%
+957,2018FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+958,2018FA,No,No,No,1.5,Yes,2.633,RESIDENT,Yes,Yes,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+959,2018FA,No,No,No,3.5,No,3.075,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+960,2018FA,No,No,No,3,No,2.775,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+961,2018FA,Yes,No,Yes,2.75,No,2.525,RESIDENT,No,No,No,3,0,0.00%,2,2,100.00%,4,100.00%
+962,2018FA,No,No,No,2.75,No,3.038,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,5,100.00%
+963,2018FA,No,No,Yes,3,No,3.175,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+964,2018FA,Yes,No,Yes,1,No,0.9,RESIDENT,No,No,No,2,2,50.00%,0,0,Not Applicable,2,50.00%
+965,2018FA,No,No,No,2.5,Yes,2.675,RESIDENT,No,No,No,2,0,0.00%,1,1,100.00%,4,100.00%
+966,2018FA,No,No,No,2.5,No,2.175,RESIDENT,Yes,Yes,No,3,0,0.00%,2,2,100.00%,4,100.00%
+967,2018FA,No,No,Yes,2,Yes,0.75,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,2,50.00%
+968,2018FA,Yes,Yes,No,2.5,Yes,2,RESIDENT,No,No,Yes,1,1,25.00%,0,0,Not Applicable,3,75.00%
+969,2018FA,No,No,No,0.3333,No,,RESIDENT,No,No,No,0,3,75.00%,0,0,Not Applicable,0,0.00%
+970,2018FA,No,No,No,4,No,3.8,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+971,2018FA,No,No,Yes,2,No,1.475,RESIDENT,No,No,No,0,2,33.30%,1,1,100.00%,4,80.00%
+972,2018FA,No,No,No,3.5,No,3.825,RESIDENT,No,No,Yes,0,0,0.00%,1,1,100.00%,4,100.00%
+973,2018FA,No,No,No,2.5,Yes,3.333,RESIDENT,Yes,Yes,No,2,1,25.00%,2,1,50.00%,3,75.00%
+974,2018FA,No,No,No,1.25,Yes,1,RESIDENT,No,No,Yes,1,2,50.00%,0,0,Not Applicable,2,50.00%
+975,2018FA,No,No,No,0.5,No,1.5,RESIDENT,Yes,Yes,No,1,4,100.00%,0,0,Not Applicable,2,50.00%
+976,2018FA,Yes,Yes,Yes,3.25,No,3,COMMUTER,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+977,2018FA,No,No,No,3,No,3.075,RESIDENT,Yes,Yes,No,5,0,0.00%,0,0,Not Applicable,4,100.00%
+978,2018FA,No,No,No,2.75,Yes,3.175,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+979,2018FA,No,No,No,4,No,4,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+980,2018FA,No,No,No,2.25,No,2.075,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+981,2018FA,Yes,No,Yes,3,No,2.825,RESIDENT,No,No,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+982,2018FA,Yes,Yes,Yes,3,No,3.175,RESIDENT,Yes,Yes,Yes,3,0,0.00%,1,1,100.00%,4,100.00%
+983,2018FA,No,No,No,2.5,No,2.825,RESIDENT,Yes,Yes,No,4,1,20.00%,0,0,Not Applicable,5,100.00%
+984,2018FA,Yes,Yes,No,2.75,No,2.4,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+985,2018FA,Yes,No,Yes,1.25,No,1,RESIDENT,No,No,No,0,2,50.00%,1,0,0.00%,2,50.00%
+986,2018FA,Yes,No,No,1.75,No,1.675,RESIDENT,No,No,No,1,2,50.00%,0,0,Not Applicable,4,100.00%
+987,2018FA,No,No,Yes,3,No,2.1,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+988,2018FA,Yes,No,No,3.75,No,3.5,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+989,2018FA,Yes,No,Yes,2.25,No,2.425,RESIDENT,Yes,Yes,No,1,1,25.00%,2,2,100.00%,4,100.00%
+990,2018FA,No,No,No,3,No,3.25,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+991,2018FA,No,No,No,3.7647,No,3.859,RESIDENT,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,5,100.00%
+992,2018FA,No,No,No,1.5,Yes,1.825,RESIDENT,Yes,Yes,No,1,2,40.00%,1,1,100.00%,4,100.00%
+993,2018FA,No,No,No,3.5,Yes,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+994,2018FA,No,No,No,2.5,No,2.35,RESIDENT,Yes,Yes,No,2,1,20.00%,0,0,Not Applicable,4,100.00%
+995,2018FA,No,No,Yes,2.9412,No,2.406,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,5,100.00%
+996,2018FA,No,No,No,3,Yes,3.275,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+997,2018FA,Yes,Yes,No,1.75,No,1.9,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+998,2018FA,No,No,No,3.5,No,3.925,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+999,2018FA,No,No,No,3.5,No,3.6,RESIDENT,Yes,Yes,No,7,0,0.00%,2,2,100.00%,5,100.00%
+1000,2018FA,No,No,Yes,3.25,Yes,2.75,RESIDENT,Yes,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1001,2018FA,No,No,No,2.75,Yes,3.35,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1002,2018FA,No,No,Yes,1.75,No,1.75,RESIDENT,Yes,No,No,0,1,20.00%,2,2,100.00%,4,100.00%
+1003,2018FA,No,No,No,2.25,No,2.7,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1004,2018FA,No,No,Yes,2.75,Yes,2.25,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1005,2018FA,Yes,No,Yes,3.25,No,2.9,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1006,2018FA,Yes,No,No,2.25,No,2.675,RESIDENT,Yes,Yes,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1007,2018FA,No,No,Yes,2.25,No,2.525,COMMUTER,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1008,2018FA,No,No,No,3.25,No,3.1,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1009,2018FA,No,No,No,1.75,No,2.175,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1010,2018FA,No,No,Yes,3.75,No,3.75,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1011,2018FA,No,No,Yes,3,No,3.175,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1012,2018FA,No,No,No,3.5,Yes,3.5,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1013,2018FA,Yes,Yes,Yes,3.5,No,3.75,RESIDENT,Yes,Yes,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1014,2018FA,No,No,Yes,3.0588,No,3.694,RESIDENT,Yes,Yes,No,8,0,0.00%,1,1,100.00%,5,100.00%
+1015,2018FA,No,No,No,3,No,2.75,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1016,2018FA,No,No,No,2.25,No,2.575,RESIDENT,Yes,Yes,No,1,1,20.00%,1,1,100.00%,4,100.00%
+1017,2018FA,No,No,No,3.5,Yes,3.425,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1018,2018FA,Yes,Yes,Yes,0.75,No,1,COMMUTER,Yes,Yes,Yes,1,4,100.00%,0,0,Not Applicable,3,75.00%
+1019,2018FA,Yes,No,Yes,3.25,No,2.975,RESIDENT,Yes,No,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1020,2018FA,No,No,No,2.5,No,1.9,RESIDENT,Yes,Yes,No,0,1,20.00%,1,1,100.00%,4,80.00%
+1021,2018FA,Yes,No,No,2.25,No,1.75,RESIDENT,Yes,Yes,No,1,1,25.00%,2,1,50.00%,3,75.00%
+1022,2018FA,Yes,No,Yes,1.25,No,2,COMMUTER,No,No,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+1023,2018FA,Yes,No,Yes,3.25,No,3.425,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1024,2018FA,No,No,No,3.5,Yes,3.425,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1025,2018FA,No,No,Yes,2.25,Yes,1.6,RESIDENT,Yes,Yes,No,3,1,25.00%,0,0,Not Applicable,4,100.00%
+1026,2018FA,Yes,No,Yes,2.7368,No,3.163,RESIDENT,Yes,Yes,No,3,1,14.30%,0,0,Not Applicable,7,100.00%
+1027,2018FA,Yes,Yes,No,2.3529,No,2.682,RESIDENT,Yes,Yes,No,1,1,20.00%,1,0,0.00%,4,80.00%
+1028,2018FA,No,No,No,2.75,No,2.5,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1029,2018FA,No,No,No,3.25,No,3.775,RESIDENT,Yes,Yes,No,2,0,0.00%,0,0,Not Applicable,5,100.00%
+1030,2018FA,Yes,No,Yes,3,No,2.5,COMMUTER,Yes,Yes,No,0,0,0.00%,3,3,100.00%,5,100.00%
+1031,2018FA,No,No,No,3.5,Yes,3.65,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1032,2018FA,Yes,No,Yes,2.6667,No,3.467,RESIDENT,No,No,No,1,0,0.00%,3,1,33.30%,3,60.00%
+1033,2018FA,Yes,No,Yes,3.25,No,2.425,COMMUTER,Yes,Yes,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1034,2018FA,Yes,No,No,3.75,No,3.75,RESIDENT,Yes,Yes,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+1035,2018FA,Unknown,Unknown,No,3,No,2.75,RESIDENT,No,No,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1036,2018FA,No,No,No,1.75,No,2.5,COMMUTER,Yes,Yes,Yes,1,2,50.00%,0,0,Not Applicable,4,100.00%
+1037,2018FA,Yes,No,No,2.75,No,3,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1038,2018FA,Unknown,Unknown,No,3.25,No,2.75,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1039,2018FA,Yes,No,No,3,No,2.675,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1040,2018FA,Yes,No,Yes,1.3333,No,1.767,RESIDENT,No,No,No,0,1,33.30%,1,1,100.00%,2,66.70%
+1041,2018FA,No,No,No,3.5,No,3.575,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1042,2018FA,Yes,No,Yes,2.75,No,3.025,COMMUTER,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1043,2018FA,Yes,No,No,3,No,3.2,RESIDENT,No,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1044,2018FA,Yes,No,No,2.5,Yes,2.6,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1045,2018FA,Yes,Yes,Yes,2.5,No,2.325,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1046,2018FA,No,No,No,2.75,No,2.6,RESIDENT,Yes,Yes,Yes,3,0,0.00%,1,1,100.00%,4,100.00%
+1047,2018FA,Yes,No,No,3.75,No,3.4,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+1048,2018FA,Yes,No,Yes,2,No,2.15,COMMUTER,Yes,Yes,No,2,1,25.00%,1,1,100.00%,4,100.00%
+1049,2018FA,Yes,No,Yes,3.75,No,3.75,RESIDENT,Yes,Yes,No,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1050,2018FA,Yes,No,Yes,3.5,No,3.6,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1051,2018FA,No,No,Yes,0.5,No,1.333,RESIDENT,Yes,Yes,Yes,0,4,100.00%,0,0,Not Applicable,3,75.00%
+1052,2018FA,Yes,No,Yes,3.5,No,4,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,5,100.00%
+1053,2018FA,Yes,No,No,1.6667,No,1.567,RESIDENT,No,No,Yes,0,1,33.30%,0,0,Not Applicable,3,100.00%
+1054,2018FA,No,No,No,2.5,Yes,2.825,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1055,2018FA,No,No,No,3.9444,No,3.9,RESIDENT,Yes,Yes,Yes,1,0,0.00%,0,0,Not Applicable,6,100.00%
+1056,2018FA,Yes,No,No,2.5,No,2.5,RESIDENT,No,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1057,2018FA,No,No,No,3.3333,Yes,3.556,RESIDENT,No,No,No,1,0,0.00%,1,1,100.00%,5,100.00%
+1058,2018FA,Yes,No,Yes,2.5,No,2.675,RESIDENT,Yes,No,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1059,2018FA,No,No,No,3,No,3.425,RESIDENT,Yes,Yes,No,4,0,0.00%,1,1,100.00%,4,100.00%
+1060,2018FA,Yes,No,Yes,0,No,,RESIDENT,No,No,No,5,3,75.00%,0,0,Not Applicable,0,Not Applicable
+1061,2018FA,No,No,Yes,,No,,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,0,0.00%
+1062,2018FA,Yes,Yes,Yes,1,No,,RESIDENT,No,No,No,0,3,60.00%,2,0,0.00%,0,0.00%
+1063,2018FA,No,No,No,2.25,No,1.775,RESIDENT,No,No,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1064,2018FA,No,No,No,0.75,No,1.467,COMMUTER,No,Yes,Yes,0,3,60.00%,0,0,Not Applicable,3,75.00%
+1065,2018FA,Yes,Yes,No,4,No,4,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1066,2018FA,Yes,Yes,No,2.5,No,2,RESIDENT,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1067,2018FA,No,No,No,3.6667,No,3.567,RESIDENT,Yes,Yes,Yes,4,0,0.00%,0,0,Not Applicable,3,75.00%
+1068,2018FA,No,No,Yes,2.25,No,2.35,COMMUTER,No,No,No,0,1,20.00%,1,1,100.00%,4,100.00%
+1069,2018FA,No,No,No,2.75,No,2.25,RESIDENT,No,No,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1070,2018FA,Yes,No,No,1.2105,No,1.818,RESIDENT,Yes,Yes,No,1,3,42.90%,3,3,100.00%,6,100.00%
+1071,2018FA,No,No,No,1.25,No,0,RESIDENT,No,No,No,0,2,50.00%,0,0,Not Applicable,0,0.00%
+1072,2018FA,Yes,Yes,Yes,3,No,2.575,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1073,2018FA,No,No,No,2,No,2.433,RESIDENT,Yes,Yes,No,0,0,0.00%,1,1,100.00%,3,100.00%
+1074,2018FA,No,No,No,3.75,No,3.825,RESIDENT,Yes,Yes,Yes,4,0,0.00%,1,1,100.00%,4,100.00%
+1075,2018FA,No,No,No,4,No,3.694,COMMUTER,Yes,No,No,0,0,0.00%,0,0,Not Applicable,5,100.00%
+1076,2018FA,Yes,Yes,Yes,2,No,2.325,RESIDENT,Yes,Yes,No,1,1,20.00%,2,2,100.00%,4,100.00%
+1077,2018FA,No,No,Yes,2.3333,No,2.567,RESIDENT,Yes,Yes,No,0,1,25.00%,2,2,100.00%,4,100.00%
+1078,2018FA,No,No,No,1,No,1.667,RESIDENT,Yes,No,No,0,3,75.00%,1,0,0.00%,2,50.00%
+1079,2018FA,Yes,Yes,Yes,4,No,3.925,RESIDENT,Yes,Yes,Yes,2,0,0.00%,0,0,Not Applicable,5,100.00%
+1080,2018FA,No,No,Yes,3,No,2.65,RESIDENT,Yes,Yes,No,3,0,0.00%,1,1,100.00%,4,100.00%
+1081,2018FA,No,No,Yes,2.5,No,2.825,RESIDENT,No,No,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1082,2018FA,No,No,No,2.75,No,2.4,RESIDENT,Yes,Yes,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1083,2018FA,No,No,No,3.5294,No,4,RESIDENT,No,No,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+1084,2018FA,No,No,No,3.5,No,3.525,RESIDENT,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1085,2018FA,Yes,No,Yes,2.25,No,0,RESIDENT,No,No,No,0,1,25.00%,0,0,Not Applicable,0,0.00%
+1086,2018FA,No,No,No,1.75,No,2.1,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1087,2018FA,Yes,No,Yes,2,No,2.033,RESIDENT,No,No,No,0,1,33.30%,0,0,Not Applicable,3,100.00%
+1088,2018FA,No,No,No,3.25,No,3.25,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1089,2018FA,No,No,No,2.25,No,2.575,RESIDENT,Yes,Yes,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1090,2018FA,Unknown,Unknown,No,2,Yes,2.25,RESIDENT,Yes,Yes,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+1091,2018FA,No,No,No,2.5,No,2.425,COMMUTER,Yes,Yes,No,2,1,20.00%,1,1,100.00%,4,100.00%
+1092,2018FA,Yes,No,No,3.25,No,3.4,RESIDENT,Yes,No,Yes,0,0,0.00%,1,1,100.00%,4,100.00%
+1093,2018FA,No,No,No,3,No,3.1,COMMUTER,No,No,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1094,2018FA,No,No,No,3.8,No,3.88,RESIDENT,Yes,Yes,No,1,0,0.00%,2,2,100.00%,5,100.00%
+1095,2018FA,No,No,No,3.75,No,3.575,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1096,2018FA,Yes,No,Yes,1.5,No,0.825,RESIDENT,No,No,No,0,3,75.00%,1,0,0.00%,2,50.00%
+1097,2018FA,Yes,No,No,1.25,No,1.9,RESIDENT,Yes,Yes,No,1,2,40.00%,2,0,0.00%,3,60.00%
+1098,2018FA,No,No,No,1.25,No,2.233,RESIDENT,Yes,Yes,No,0,3,75.00%,0,0,Not Applicable,3,75.00%
+1099,2018FA,Yes,Yes,Yes,2.25,No,,RESIDENT,No,No,No,1,1,25.00%,0,0,Not Applicable,0,0.00%
+1100,2018FA,No,No,No,2.5,No,2.675,RESIDENT,Yes,Yes,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1101,2018FA,Yes,No,No,1,No,0,RESIDENT,No,No,No,0,3,75.00%,0,0,Not Applicable,0,0.00%
+1102,2018FA,No,No,No,2,Yes,2.5,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1103,2018FA,Unknown,Unknown,Yes,3,No,3.175,RESIDENT,Yes,Yes,No,4,0,0.00%,2,2,100.00%,4,100.00%
+1104,2018FA,No,No,No,3,Yes,2.925,RESIDENT,Yes,Yes,No,8,0,0.00%,1,1,100.00%,4,100.00%
+1105,2018FA,Yes,No,Yes,1.25,No,,RESIDENT,No,No,No,0,3,75.00%,1,0,0.00%,0,0.00%
+1106,2018FA,No,No,No,2.75,No,2.825,RESIDENT,Yes,Yes,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1107,2018FA,No,No,Yes,2.75,No,2.925,RESIDENT,Yes,Yes,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1108,2018FA,No,No,No,1.25,Yes,1.567,RESIDENT,Yes,Yes,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+1109,2018FA,No,No,No,1.25,No,1.433,RESIDENT,No,No,No,0,2,50.00%,0,0,Not Applicable,2,50.00%
+1110,2018FA,No,No,No,2.5,Yes,2.675,RESIDENT,Yes,No,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1111,2018FA,Yes,No,No,2.5,No,2.65,RESIDENT,Yes,Yes,No,0,1,20.00%,1,1,100.00%,4,100.00%
+1112,2018FA,No,No,No,2.6667,No,2.2,RESIDENT,No,No,No,0,0,0.00%,1,0,0.00%,3,75.00%
+1113,2018FA,No,No,No,2.75,Yes,3.075,RESIDENT,Yes,Yes,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1114,2018FA,No,No,Yes,3,No,3.6,RESIDENT,Yes,Yes,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1115,2018FA,Yes,No,No,2.75,Yes,2.175,RESIDENT,Yes,Yes,No,4,1,25.00%,0,0,Not Applicable,4,100.00%
+1116,2018FA,No,No,Yes,2.1176,No,1.341,RESIDENT,Yes,No,No,2,1,16.70%,2,1,50.00%,3,60.00%
+1117,2018FA,Yes,No,Yes,0.5,Yes,2.1,RESIDENT,Yes,Yes,No,3,4,80.00%,2,1,50.00%,4,80.00%
+1118,2018FA,Yes,No,No,2.75,Yes,2.4,RESIDENT,Yes,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1119,2018FA,Yes,Yes,No,3,Yes,2.5,RESIDENT,Yes,Yes,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1120,2018FA,No,No,No,3,No,2.575,RESIDENT,No,No,No,0,1,25.00%,1,1,100.00%,4,100.00%
+1121,2018FA,No,No,No,2.75,Yes,3.35,RESIDENT,Yes,Yes,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1122,2018FA,No,No,No,2.5,Yes,1.85,RESIDENT,Yes,Yes,No,1,0,0.00%,2,1,50.00%,3,75.00%
+1123,2018FA,No,No,No,3.25,No,3.275,COMMUTER,Yes,Yes,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1124,2018FA,No,No,Yes,1,No,1,RESIDENT,No,No,No,0,3,60.00%,3,1,33.30%,3,60.00%
+1125,2018FA,No,No,No,1.5,No,1.35,RESIDENT,Yes,Yes,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+1126,2018FA,No,No,No,2.6667,No,2.567,RESIDENT,No,No,No,3,1,25.00%,0,0,Not Applicable,3,75.00%
+1127,2018FA,No,No,No,3.75,Yes,3.85,RESIDENT,Yes,No,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1128,2018FA,Yes,Yes,Yes,1.25,No,1.2,RESIDENT,No,No,Yes,2,2,50.00%,0,0,Not Applicable,3,75.00%
+1129,2018FA,No,No,No,2.5,No,3,RESIDENT,Yes,Yes,No,1,1,25.00%,1,1,100.00%,3,75.00%
+1130,2018FA,Unknown,Unknown,No,0.625,No,0,RESIDENT,No,No,No,0,4,66.70%,2,0,0.00%,0,0.00%
+1131,2018FA,No,No,No,2.5,No,3.225,RESIDENT,No,No,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1132,2018FA,No,No,No,2.5,No,2.825,RESIDENT,Yes,Yes,No,0,0,0.00%,3,3,100.00%,5,100.00%
+1133,2018FA,Yes,No,No,3,No,2.925,RESIDENT,Yes,Yes,No,2,0,0.00%,2,2,100.00%,4,100.00%
+1134,2019FA,No,No,No,2,Yes,2.767,COMMUTER,Yes,Not Applicable,Yes,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1135,2019FA,No,No,No,4,No,3.925,COMMUTER,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1136,2019FA,Yes,No,No,3.75,No,3.925,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,1,1,100.00%,5,100.00%
+1137,2019FA,No,No,No,4,No,3.925,COMMUTER,Yes,Not Applicable,No,6,0,0.00%,0,0,Not Applicable,4,100.00%
+1138,2019FA,No,No,No,3.25,No,3.65,COMMUTER,Yes,Not Applicable,No,5,0,0.00%,0,0,Not Applicable,4,100.00%
+1139,2019FA,Yes,Yes,Yes,2.5,No,2.25,COMMUTER,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1140,2019FA,No,No,No,1.25,No,2.033,RESIDENT,Yes,Not Applicable,No,1,2,40.00%,2,0,0.00%,3,60.00%
+1141,2019FA,No,No,No,2.75,No,3.25,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1142,2019FA,No,No,Yes,2.3333,No,1,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,2,50.00%
+1143,2019FA,Yes,No,Yes,2.5882,No,2.729,RESIDENT,No,Not Applicable,No,1,1,20.00%,0,0,Not Applicable,5,100.00%
+1144,2019FA,No,No,No,2,Yes,2.413,RESIDENT,Yes,Not Applicable,No,1,2,33.30%,1,1,100.00%,5,100.00%
+1145,2019FA,No,No,Yes,3.3333,No,2.989,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,5,100.00%
+1146,2019FA,No,No,No,3,No,3.225,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1147,2019FA,Unknown,Unknown,Yes,2.5,No,1.9,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1148,2019FA,No,No,Yes,3.5556,No,3.575,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,6,100.00%
+1149,2019FA,Yes,No,No,2.875,Yes,2.45,RESIDENT,Yes,Not Applicable,No,1,1,16.70%,1,1,100.00%,5,100.00%
+1150,2019FA,Yes,Yes,No,2.75,No,3.925,RESIDENT,Yes,Not Applicable,Yes,1,1,25.00%,1,1,100.00%,4,100.00%
+1151,2019FA,Yes,No,No,3.5556,Yes,3.744,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,7,100.00%
+1152,2019FA,Yes,Yes,Yes,3.75,No,3.175,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1153,2019FA,No,No,No,3.75,Yes,3.675,RESIDENT,Yes,Not Applicable,No,9,0,0.00%,0,0,Not Applicable,5,100.00%
+1154,2019FA,No,No,No,0.7059,No,0.889,RESIDENT,Yes,Not Applicable,No,0,4,80.00%,0,0,Not Applicable,1,20.00%
+1155,2019FA,No,No,No,3,No,3.075,RESIDENT,No,Not Applicable,No,0,0,0.00%,2,2,100.00%,4,80.00%
+1156,2019FA,Yes,No,No,3.5294,No,3.671,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,5,100.00%
+1157,2019FA,No,No,No,1.25,Yes,1.175,RESIDENT,Yes,Not Applicable,No,5,2,40.00%,1,0,0.00%,3,75.00%
+1158,2019FA,Yes,No,Yes,2.8889,Yes,3.033,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1159,2019FA,No,No,No,3.25,Yes,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1160,2019FA,Yes,No,Yes,2.25,Yes,2.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1161,2019FA,Yes,No,Yes,3.5,No,3,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1162,2019FA,Yes,No,No,3,Yes,3.075,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1163,2019FA,Yes,No,No,3.2222,Yes,3.489,RESIDENT,No,Not Applicable,No,2,0,0.00%,2,2,100.00%,6,100.00%
+1164,2019FA,Yes,Yes,No,3.75,No,3.425,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1165,2019FA,No,No,No,2,Yes,3.025,RESIDENT,Yes,Not Applicable,No,1,2,50.00%,1,1,100.00%,4,100.00%
+1166,2019FA,No,No,No,2.5,Yes,2.825,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1167,2019FA,Yes,No,Yes,2.5,Yes,2.325,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1168,2019FA,No,No,No,2.5,Yes,2.5,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1169,2019FA,No,No,No,2.75,Yes,3.275,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1170,2019FA,No,No,No,2,No,2.175,RESIDENT,No,Not Applicable,No,4,1,16.70%,1,1,100.00%,4,100.00%
+1171,2019FA,No,No,No,3.75,No,3.925,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,5,100.00%
+1172,2019FA,No,No,No,2.75,Yes,1.6,RESIDENT,No,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1173,2019FA,Yes,No,Yes,4,No,3.575,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1174,2019FA,Yes,No,No,3.75,No,3.5,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1175,2019FA,No,No,Yes,2.75,No,2.425,COMMUTER,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,80.00%
+1176,2019FA,No,No,No,3.75,Yes,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1177,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,6,100.00%
+1178,2019FA,No,No,Yes,3.5556,No,3.4,RESIDENT,Yes,Not Applicable,Yes,6,0,0.00%,4,4,100.00%,6,100.00%
+1179,2019FA,No,No,No,3.5294,No,3.435,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1180,2019FA,No,No,No,3.3333,No,3.111,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,1,1,100.00%,6,100.00%
+1181,2019FA,Yes,Yes,No,3.25,No,3.5,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1182,2019FA,No,No,No,3,No,2.275,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1183,2019FA,No,No,No,3.5,No,3.5,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1184,2019FA,No,No,No,3.5294,No,3.459,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,6,100.00%
+1185,2019FA,No,No,No,2.5,No,2.925,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+1186,2019FA,Yes,Yes,No,2.75,Yes,2.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1187,2019FA,Yes,Yes,No,4,No,3.929,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,1,1,100.00%,6,100.00%
+1188,2019FA,No,No,No,4,No,3.85,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,5,100.00%
+1189,2019FA,Yes,No,No,2.4444,No,1.789,COMMUTER,No,Not Applicable,No,3,1,20.00%,0,0,Not Applicable,5,100.00%
+1190,2019FA,Yes,Yes,Yes,0.2857,No,,RESIDENT,No,Not Applicable,No,0,4,57.10%,3,0,0.00%,0,0.00%
+1191,2019FA,No,No,No,3,Yes,3.1,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1192,2019FA,No,No,No,4,Yes,4,COMMUTER,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1193,2019FA,No,No,Yes,0,No,0,RESIDENT,No,Not Applicable,No,7,3,60.00%,1,0,0.00%,0,0.00%
+1194,2019FA,No,No,No,3.7647,No,3.765,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,6,100.00%
+1195,2019FA,No,No,No,4,Yes,3.713,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,5,100.00%
+1196,2019FA,No,No,No,4,No,3.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,5,100.00%
+1197,2019FA,No,No,No,4,Yes,3.914,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1198,2019FA,No,No,No,4,Yes,4,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,5,100.00%
+1199,2019FA,No,No,Yes,3.2222,No,2.978,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,0,0,Not Applicable,6,100.00%
+1200,2019FA,No,No,No,4,Yes,3.85,RESIDENT,Yes,Not Applicable,No,6,0,0.00%,0,0,Not Applicable,5,100.00%
+1201,2019FA,No,No,No,2.75,No,2.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1202,2019FA,No,No,Yes,3.3846,No,2.769,COMMUTER,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,80.00%
+1203,2019FA,No,No,No,2.25,No,2.325,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1204,2019FA,No,No,No,2.5,Yes,3.075,RESIDENT,Yes,Not Applicable,No,4,1,20.00%,1,1,100.00%,4,100.00%
+1205,2019FA,No,No,No,1,No,2.467,RESIDENT,Yes,Not Applicable,No,0,2,33.30%,4,2,50.00%,4,66.70%
+1206,2019FA,No,No,No,3,No,3.5,RESIDENT,No,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1207,2019FA,Yes,No,No,4,No,4,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1208,2019FA,No,No,No,3.25,No,2.175,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1209,2019FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,5,100.00%
+1210,2019FA,No,No,No,4,Yes,3.85,RESIDENT,Yes,Not Applicable,No,6,0,0.00%,0,0,Not Applicable,5,100.00%
+1211,2019FA,Yes,No,No,3,Yes,2.9,RESIDENT,No,Not Applicable,No,2,0,0.00%,2,2,100.00%,4,100.00%
+1212,2019FA,No,No,No,1.75,No,2.25,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1213,2019FA,Yes,No,No,4,Yes,3.825,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1214,2019FA,Yes,No,Yes,2.75,Yes,3,RESIDENT,No,Not Applicable,No,3,0,0.00%,2,2,100.00%,4,100.00%
+1215,2019FA,No,No,No,1.75,Yes,2.033,RESIDENT,Yes,Not Applicable,No,1,2,50.00%,0,0,Not Applicable,3,75.00%
+1216,2019FA,No,No,No,3.5,No,3.425,COMMUTER,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1217,2019FA,No,No,No,2.75,No,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1218,2019FA,No,No,No,3.5294,No,3.606,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1219,2019FA,Yes,No,No,3.75,No,3.675,COMMUTER,Yes,Not Applicable,No,5,0,0.00%,1,1,100.00%,5,83.30%
+1220,2019FA,No,No,No,3.25,Yes,3.675,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,3,3,100.00%,4,80.00%
+1221,2019FA,No,No,No,2.1176,No,1.282,RESIDENT,Yes,Not Applicable,Yes,1,2,40.00%,0,0,Not Applicable,4,80.00%
+1222,2019FA,Yes,Yes,Yes,3.1111,Yes,3.8,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,6,100.00%
+1223,2019FA,Yes,No,No,3.4444,Yes,3.744,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,5,100.00%
+1224,2019FA,No,No,No,3,Yes,2.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1225,2019FA,No,No,No,3.75,No,3.675,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,3,3,100.00%,5,100.00%
+1226,2019FA,No,No,No,3.7895,No,4,COMMUTER,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,6,100.00%
+1227,2019FA,No,No,No,2,No,1.825,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1228,2019FA,No,No,No,3.5,Yes,2.65,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1229,2019FA,No,No,No,1.5,Yes,1.075,RESIDENT,Yes,Not Applicable,No,1,2,40.00%,1,1,100.00%,3,75.00%
+1230,2019FA,No,No,No,2.5,Yes,2.9,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1231,2019FA,Yes,Yes,No,4,No,3.75,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1232,2019FA,Yes,No,Yes,2.5882,No,2.588,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,2,2,100.00%,5,100.00%
+1233,2019FA,No,No,No,1.75,No,2.567,RESIDENT,Yes,Not Applicable,No,2,2,50.00%,1,1,100.00%,3,75.00%
+1234,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,6,0,0.00%,0,0,Not Applicable,5,100.00%
+1235,2019FA,No,No,No,2.75,No,3.25,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1236,2019FA,No,No,No,2.25,No,2.825,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1237,2019FA,No,No,No,3.8889,No,3.867,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+1238,2019FA,No,No,No,3,No,3.4,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1239,2019FA,No,No,No,3.5,Yes,3.25,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1240,2019FA,Yes,No,No,3.5,Yes,3.575,RESIDENT,No,Not Applicable,Yes,5,0,0.00%,0,0,Not Applicable,4,100.00%
+1241,2019FA,No,No,Yes,3.75,No,3.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1242,2019FA,No,No,No,3.7778,No,3.711,RESIDENT,Yes,Not Applicable,No,7,0,0.00%,0,0,Not Applicable,7,100.00%
+1243,2019FA,No,No,No,3.25,No,2.85,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1244,2019FA,Yes,No,Yes,2.25,Yes,3.325,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,1,1,100.00%,4,100.00%
+1245,2019FA,Yes,No,Yes,3.5,No,3.075,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1246,2019FA,No,No,No,1,No,,RESIDENT,No,Not Applicable,No,0,2,50.00%,1,0,0.00%,0,0.00%
+1247,2019FA,Yes,No,No,2.5,No,2.6,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1248,2019FA,Yes,No,Yes,3.5,No,3.25,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1249,2019FA,No,No,Yes,1.3333,No,,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,0,Not Applicable
+1250,2019FA,No,No,No,2.25,Yes,2.825,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+1251,2019FA,No,No,No,3,Yes,3.025,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1252,2019FA,Yes,Yes,No,4,No,4,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1253,2019FA,Yes,No,No,2.75,Yes,2.65,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1254,2019FA,No,No,No,2.25,Yes,1.85,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,1,1,100.00%,4,100.00%
+1255,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1256,2019FA,No,No,Yes,1.25,No,2.8,RESIDENT,Yes,Not Applicable,No,0,2,50.00%,1,1,100.00%,3,75.00%
+1257,2019FA,Yes,No,No,1.5,Yes,2.467,RESIDENT,Yes,Not Applicable,Yes,1,3,75.00%,0,0,Not Applicable,3,75.00%
+1258,2019FA,No,No,No,3.3333,No,3.489,RESIDENT,No,Not Applicable,No,1,0,0.00%,2,2,100.00%,5,100.00%
+1259,2019FA,No,No,No,3,No,3.1,RESIDENT,Yes,Not Applicable,No,7,0,0.00%,1,1,100.00%,4,100.00%
+1260,2019FA,Unknown,Unknown,Yes,2.75,No,2.675,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1261,2019FA,Yes,No,Yes,3.5,No,3.1,COMMUTER,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1262,2019FA,No,No,Yes,0.75,No,1,RESIDENT,No,Not Applicable,No,0,3,60.00%,2,0,0.00%,2,50.00%
+1263,2019FA,No,No,Yes,2.75,No,3,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,4,100.00%
+1264,2019FA,No,No,No,1,No,1.467,RESIDENT,No,Not Applicable,Yes,1,2,50.00%,0,0,Not Applicable,2,50.00%
+1265,2019FA,No,No,No,2.875,Yes,2.913,RESIDENT,Yes,Not Applicable,No,1,1,16.70%,1,1,100.00%,5,100.00%
+1266,2019FA,No,No,No,0.6667,Yes,1.233,RESIDENT,Yes,Not Applicable,No,1,3,60.00%,1,1,100.00%,3,75.00%
+1267,2019FA,No,No,No,2.25,Yes,2.825,RESIDENT,Yes,Not Applicable,Yes,5,1,20.00%,0,0,Not Applicable,5,100.00%
+1268,2019FA,No,No,Yes,3.5,Yes,3.65,RESIDENT,No,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1269,2019FA,Yes,Yes,No,3.75,No,3.6,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1270,2019FA,No,No,No,3.7647,No,4,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,0,0,Not Applicable,6,100.00%
+1271,2019FA,No,No,No,3.7647,No,4,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,0,0,Not Applicable,5,100.00%
+1272,2019FA,No,No,No,2.25,Yes,2.775,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+1273,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,8,0,0.00%,0,0,Not Applicable,5,100.00%
+1274,2019FA,No,No,No,4,No,3.6,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1275,2019FA,No,No,No,1.75,No,2.575,RESIDENT,No,Not Applicable,No,0,1,25.00%,1,1,100.00%,4,100.00%
+1276,2019FA,Yes,No,No,3.75,No,3.925,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1277,2019FA,No,No,No,3,Yes,3.075,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1278,2019FA,No,No,No,1.25,No,2.1,RESIDENT,No,Not Applicable,Yes,1,2,40.00%,3,1,33.30%,2,40.00%
+1279,2019FA,No,No,No,3.25,No,3.575,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1280,2019FA,No,No,No,4,Yes,3.575,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1281,2019FA,No,No,No,2.5,No,2.85,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1282,2019FA,No,No,No,3.5,No,3.1,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1283,2019FA,Yes,No,Yes,2,Yes,2,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1284,2019FA,No,No,No,3.25,Yes,3.325,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1285,2019FA,No,No,No,3,No,2.6,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1286,2019FA,No,No,No,3.5,No,3.825,RESIDENT,Yes,Not Applicable,Yes,6,0,0.00%,0,0,Not Applicable,5,100.00%
+1287,2019FA,No,No,No,3.75,Yes,4,RESIDENT,Yes,Not Applicable,No,8,0,0.00%,2,2,100.00%,5,100.00%
+1288,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1289,2019FA,No,No,No,3.6667,No,3.9,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1290,2019FA,Yes,No,Yes,3.75,No,4,COMMUTER,Yes,Not Applicable,Yes,0,0,0.00%,1,1,100.00%,4,100.00%
+1291,2019FA,No,No,No,3,No,2.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1292,2019FA,No,No,No,1.6667,No,,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,0,Not Applicable
+1293,2019FA,No,No,No,3.25,Yes,3.5,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1294,2019FA,Unknown,Unknown,No,2.5,No,2.35,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1295,2019FA,No,No,No,2,Yes,2.275,RESIDENT,Yes,Not Applicable,Yes,1,1,14.30%,2,2,100.00%,4,80.00%
+1296,2019FA,No,No,No,2.75,No,3.175,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,80.00%
+1297,2019FA,Yes,No,Yes,1.25,No,0,RESIDENT,Yes,Not Applicable,No,0,2,50.00%,1,0,0.00%,1,25.00%
+1298,2019FA,No,No,Yes,2.5,No,3.075,RESIDENT,Yes,Not Applicable,Yes,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1299,2019FA,No,No,No,2.4444,No,1.967,RESIDENT,No,Not Applicable,Yes,2,1,16.70%,1,1,100.00%,4,80.00%
+1300,2019FA,Yes,Yes,No,3,No,2.925,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1301,2019FA,No,No,No,4,Yes,4,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1302,2019FA,Yes,No,No,2,No,1.425,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1303,2019FA,No,No,No,3.5,Yes,3.3,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1304,2019FA,No,No,No,2.25,Yes,1.767,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,3,75.00%
+1305,2019FA,No,No,No,3,No,2.925,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1306,2019FA,Unknown,Unknown,Yes,2.25,No,2.5,RESIDENT,Yes,Not Applicable,No,5,1,20.00%,2,2,100.00%,4,100.00%
+1307,2019FA,Yes,Yes,No,1.75,Yes,1.925,RESIDENT,No,Not Applicable,No,1,1,16.70%,2,2,100.00%,4,100.00%
+1308,2019FA,Yes,No,Yes,3.5,No,3.425,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1309,2019FA,No,No,No,3,Yes,3.6,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1310,2019FA,No,No,No,2.5,No,2.925,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1311,2019FA,No,No,No,2.5,Yes,2,RESIDENT,No,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1312,2019FA,No,No,No,2.8235,No,2.447,RESIDENT,No,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1313,2019FA,No,No,No,3.5556,Yes,3.556,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,6,100.00%
+1314,2019FA,Yes,No,No,2.5,Yes,2.25,RESIDENT,Yes,Not Applicable,Yes,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1315,2019FA,Yes,No,Yes,3.75,No,3.65,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1316,2019FA,No,No,No,3,No,2.8,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1317,2019FA,No,No,Yes,1.625,Yes,2.6,RESIDENT,Yes,Not Applicable,No,1,2,33.30%,1,1,100.00%,4,80.00%
+1318,2019FA,Yes,No,No,3.25,No,3.175,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,4,100.00%
+1319,2019FA,No,No,Yes,3.75,No,3.575,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1320,2019FA,Yes,No,No,2.75,No,2.4,RESIDENT,Yes,Not Applicable,Yes,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1321,2019FA,Yes,No,Yes,1,No,0.75,RESIDENT,Yes,Not Applicable,No,1,4,100.00%,0,0,Not Applicable,3,75.00%
+1322,2019FA,No,No,No,2.1538,No,2.415,RESIDENT,Yes,Not Applicable,No,4,1,20.00%,1,0,0.00%,4,80.00%
+1323,2019FA,No,No,Yes,3.0588,Yes,3.435,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,2,2,100.00%,5,100.00%
+1324,2019FA,No,No,Yes,2.5,No,3.15,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1325,2019FA,No,No,No,3.5,No,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1326,2019FA,No,No,Yes,2.75,No,3.175,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1327,2019FA,No,No,Yes,3.5,No,3.5,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1328,2019FA,No,No,No,2,No,1.667,RESIDENT,No,Not Applicable,No,0,1,20.00%,2,0,0.00%,3,60.00%
+1329,2019FA,No,No,Yes,2.5,Yes,1.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1330,2019FA,Yes,No,Yes,3.7778,No,3.867,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,1,1,100.00%,6,100.00%
+1331,2019FA,No,No,No,3.75,No,3.75,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,5,100.00%
+1332,2019FA,No,No,Yes,3.75,No,4,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1333,2019FA,No,No,No,3.5,No,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1334,2019FA,Yes,Yes,Yes,1,No,1.567,RESIDENT,No,Not Applicable,No,0,2,40.00%,3,1,33.30%,2,40.00%
+1335,2019FA,Yes,No,Yes,2.25,No,1.9,RESIDENT,No,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1336,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,1,1,100.00%,5,100.00%
+1337,2019FA,Yes,No,No,2.25,No,1.925,COMMUTER,Yes,Not Applicable,No,0,1,20.00%,2,2,100.00%,4,100.00%
+1338,2019FA,No,No,Yes,3.25,No,2.9,RESIDENT,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1339,2019FA,No,No,No,1,No,1.35,RESIDENT,Yes,Not Applicable,No,3,2,50.00%,0,0,Not Applicable,3,75.00%
+1340,2019FA,No,No,No,2.25,Yes,1.85,RESIDENT,Yes,Not Applicable,No,3,1,25.00%,0,0,Not Applicable,4,100.00%
+1341,2019FA,No,No,No,4,Yes,4,RESIDENT,Yes,Not Applicable,No,7,0,0.00%,0,0,Not Applicable,5,100.00%
+1342,2019FA,No,No,Yes,2,No,1.25,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,1,0,0.00%,2,50.00%
+1343,2019FA,No,No,Yes,4,No,4,RESIDENT,Yes,Not Applicable,No,8,0,0.00%,3,3,100.00%,6,100.00%
+1344,2019FA,No,No,No,2.75,No,2.1,RESIDENT,Yes,Not Applicable,No,2,1,20.00%,1,1,100.00%,4,100.00%
+1345,2019FA,Yes,No,Yes,2.75,No,3.25,RESIDENT,No,Not Applicable,Yes,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1346,2019FA,No,No,Yes,2.4444,No,2.25,RESIDENT,Yes,Not Applicable,No,0,1,20.00%,1,1,100.00%,5,100.00%
+1347,2019FA,No,No,No,2.75,No,1.975,RESIDENT,No,Not Applicable,Yes,1,1,16.70%,3,3,100.00%,5,100.00%
+1348,2019FA,No,No,No,3,No,3.25,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1349,2019FA,No,No,No,3.6842,No,3.694,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,6,100.00%
+1350,2019FA,No,No,No,1.25,No,1.35,RESIDENT,Yes,Not Applicable,No,1,3,60.00%,1,1,100.00%,2,50.00%
+1351,2019FA,No,No,No,3.5,No,3.775,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,0,0,Not Applicable,5,100.00%
+1352,2019FA,No,No,No,0.5,No,0.233,RESIDENT,Yes,Not Applicable,No,5,4,100.00%,1,1,100.00%,1,25.00%
+1353,2019FA,No,No,No,2.75,No,2.475,RESIDENT,No,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1354,2019FA,Yes,No,No,3.5,No,3.35,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1355,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,1,1,100.00%,5,100.00%
+1356,2019FA,No,No,No,0.75,No,0,RESIDENT,Yes,Not Applicable,No,0,4,80.00%,1,0,0.00%,0,0.00%
+1357,2019FA,No,No,Yes,3.5,No,3.5,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1358,2019FA,No,No,No,3.75,Yes,3.375,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,5,100.00%
+1359,2019FA,No,No,No,2,Yes,2.725,RESIDENT,Yes,Not Applicable,No,1,1,16.70%,1,1,100.00%,5,100.00%
+1360,2019FA,Yes,Yes,Yes,3.25,No,3.175,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1361,2019FA,No,No,No,0.5,No,,RESIDENT,No,Not Applicable,No,0,4,100.00%,0,0,Not Applicable,0,0.00%
+1362,2019FA,No,No,No,3.75,No,3.5,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1363,2019FA,Yes,Yes,No,2.5,No,1.25,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,3,75.00%
+1364,2019FA,No,No,No,2,No,3.2,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1365,2019FA,No,No,Yes,1.6667,Yes,1.233,RESIDENT,No,Not Applicable,No,3,1,25.00%,0,0,Not Applicable,2,50.00%
+1366,2019FA,Yes,No,Yes,2,Yes,2.133,RESIDENT,Yes,Not Applicable,No,3,1,16.70%,3,3,100.00%,4,80.00%
+1367,2019FA,No,No,No,2.5,No,1.5,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,3,75.00%
+1368,2019FA,No,No,No,2.5,No,2.425,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1369,2019FA,No,No,No,2.4444,No,1.75,RESIDENT,Yes,Not Applicable,Yes,2,1,16.70%,2,1,50.00%,4,80.00%
+1370,2019FA,No,No,No,3.5294,No,3.624,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,4,4,100.00%,6,100.00%
+1371,2019FA,No,No,No,2.25,No,1.35,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1372,2019FA,No,No,No,2.25,No,2.075,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1373,2019FA,No,No,No,4,No,3.775,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1374,2019FA,Yes,Yes,Yes,2.7778,No,3.1,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,5,100.00%
+1375,2019FA,Yes,No,No,1.8824,No,0.635,RESIDENT,Yes,Not Applicable,Yes,3,2,40.00%,0,0,Not Applicable,3,60.00%
+1376,2019FA,Yes,No,No,2,Yes,1.75,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,1,1,100.00%,4,100.00%
+1377,2019FA,No,No,No,1,No,2,RESIDENT,Yes,Not Applicable,No,0,3,75.00%,0,0,Not Applicable,3,75.00%
+1378,2019FA,No,No,No,3.375,Yes,3.513,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,5,100.00%
+1379,2019FA,Yes,No,Yes,2.25,Yes,2.325,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1380,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,2,2,100.00%,5,100.00%
+1381,2019FA,No,No,Yes,3.3333,No,2.6,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,5,100.00%
+1382,2019FA,No,No,No,2.1111,No,2.94,RESIDENT,Yes,Not Applicable,No,2,1,20.00%,0,0,Not Applicable,5,100.00%
+1383,2019FA,No,No,No,3.25,No,3.675,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1384,2019FA,No,No,Yes,3.25,No,3.1,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1385,2019FA,No,No,No,2.5,No,3.425,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1386,2019FA,Yes,No,No,2.6667,No,3.078,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,2,2,100.00%,5,100.00%
+1387,2019FA,No,No,No,3.5,No,3.75,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,5,100.00%
+1388,2019FA,Yes,No,Yes,2.3333,No,2.567,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1389,2019FA,Yes,No,Yes,3.75,No,3.175,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1390,2019FA,No,No,No,3.5,No,3.85,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1391,2019FA,No,No,No,2.5,No,2.575,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1392,2019FA,No,No,No,2.25,No,2.35,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1393,2019FA,No,No,Yes,2.5,Yes,3.075,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1394,2019FA,No,No,No,2,Yes,2.467,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1395,2019FA,Yes,No,Yes,2.7778,No,2.822,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,1,1,100.00%,5,100.00%
+1396,2019FA,No,No,No,3.75,No,3.5,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,1,1,100.00%,4,100.00%
+1397,2019FA,No,No,No,0.6667,No,0.9,RESIDENT,Yes,Not Applicable,No,0,4,66.70%,3,1,33.30%,2,33.30%
+1398,2019FA,Yes,Yes,No,2.75,No,2.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,2,2,100.00%,4,100.00%
+1399,2019FA,No,No,No,1.5,No,1.825,RESIDENT,Yes,Not Applicable,No,0,2,40.00%,2,2,100.00%,4,100.00%
+1400,2019FA,No,No,No,2,No,1.5,RESIDENT,Yes,Not Applicable,No,0,2,40.00%,2,2,100.00%,4,100.00%
+1401,2019FA,No,No,No,3.75,Yes,3.675,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,1,1,100.00%,4,100.00%
+1402,2019FA,Yes,No,No,3,No,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1403,2019FA,No,No,No,4,Yes,4,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,5,100.00%
+1404,2019FA,No,No,No,3.75,No,3.388,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+1405,2019FA,No,No,No,3,No,3.5,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1406,2019FA,No,No,No,3,Yes,2.55,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1407,2019FA,No,No,No,2,Yes,2.925,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1408,2019FA,No,No,Yes,3.5,No,3.2,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,6,100.00%
+1409,2019FA,No,No,No,2.5,No,3.075,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1410,2019FA,Yes,No,No,3.25,No,2.825,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1411,2019FA,No,No,Yes,1.75,No,2.6,RESIDENT,No,Not Applicable,No,1,2,28.60%,3,3,100.00%,5,100.00%
+1412,2019FA,Yes,No,Yes,3.25,No,2,RESIDENT,No,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1413,2019FA,Yes,No,Yes,3.5,No,3.25,COMMUTER,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1414,2019FA,No,No,No,1.75,No,1.825,RESIDENT,Yes,Not Applicable,No,1,2,50.00%,0,0,Not Applicable,4,100.00%
+1415,2019FA,Yes,Yes,No,3,No,2.85,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1416,2019FA,No,No,Yes,2.6667,No,2.667,RESIDENT,Yes,Not Applicable,Yes,0,1,14.30%,4,4,100.00%,6,100.00%
+1417,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,5,0,0.00%,2,2,100.00%,6,100.00%
+1418,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,2,2,100.00%,6,100.00%
+1419,2019FA,Yes,No,No,2.75,No,2.825,RESIDENT,Yes,Not Applicable,Yes,6,0,0.00%,0,0,Not Applicable,4,100.00%
+1420,2019FA,Yes,No,No,3.75,No,3.925,COMMUTER,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1421,2019FA,No,No,Yes,4,Yes,3.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1422,2019FA,No,No,No,3.5,Yes,3.675,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,2,2,100.00%,5,100.00%
+1423,2019FA,Yes,No,No,1,No,1.7,RESIDENT,Yes,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,4,100.00%
+1424,2019FA,No,No,No,3.25,No,3.425,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1425,2019FA,No,No,No,1.6667,Yes,2.2,RESIDENT,No,Not Applicable,No,1,1,25.00%,1,1,100.00%,3,75.00%
+1426,2019FA,Unknown,Unknown,Yes,2.25,No,2.075,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1427,2019FA,No,No,No,3.5556,No,3.556,RESIDENT,No,Not Applicable,No,0,0,0.00%,2,2,100.00%,5,100.00%
+1428,2019FA,No,No,No,2,No,3,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+1429,2019FA,Yes,No,No,3.75,No,2.75,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,3,3,100.00%,5,100.00%
+1430,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,6,100.00%
+1431,2019FA,No,No,No,2.75,No,3.1,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1432,2019FA,Yes,No,Yes,1.25,No,1.567,RESIDENT,Yes,Not Applicable,No,2,2,33.30%,3,1,33.30%,3,60.00%
+1433,2019FA,No,No,Yes,4,No,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1434,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,6,0,0.00%,2,2,100.00%,5,100.00%
+1435,2019FA,No,No,No,2.5,No,2.825,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1436,2019FA,No,No,No,1,No,0.567,RESIDENT,Yes,Not Applicable,Yes,3,3,50.00%,2,0,0.00%,1,25.00%
+1437,2019FA,No,No,No,3.25,No,3.075,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1438,2019FA,No,No,No,2.25,No,3,RESIDENT,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1439,2019FA,No,No,No,2.75,No,2.65,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1440,2019FA,Yes,No,No,3,Yes,2.667,RESIDENT,No,Not Applicable,No,2,0,0.00%,2,2,100.00%,3,75.00%
+1441,2019FA,No,No,No,3.75,Yes,3.825,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1442,2019FA,No,No,No,2.4444,No,2.471,RESIDENT,Yes,Not Applicable,No,0,2,28.60%,1,1,100.00%,5,83.30%
+1443,2019FA,No,No,No,1.6667,Yes,1.667,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1444,2019FA,No,No,No,2.5,Yes,3,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1445,2019FA,Yes,No,No,2.4444,No,2.222,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,5,100.00%
+1446,2019FA,No,No,No,3.25,Yes,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1447,2019FA,No,No,No,1.75,Yes,1.5,COMMUTER,No,Not Applicable,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1448,2019FA,Yes,No,Yes,3.75,No,3.75,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1449,2019FA,Yes,No,Yes,3,No,0.575,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,2,50.00%
+1450,2019FA,No,No,No,1.5,No,1.175,RESIDENT,No,Not Applicable,No,2,3,75.00%,1,1,100.00%,3,75.00%
+1451,2019FA,Yes,No,No,3.25,Yes,3.125,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,1,1,100.00%,5,100.00%
+1452,2019FA,No,No,No,4,Yes,3.175,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1453,2019FA,No,No,No,3.5,No,3.675,RESIDENT,No,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1454,2019FA,Yes,No,Yes,2.5,No,2.825,RESIDENT,No,Not Applicable,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1455,2019FA,No,No,No,3.2222,Yes,3.1,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,5,100.00%
+1456,2019FA,No,No,No,2.75,No,2.775,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1457,2019FA,No,No,No,3.75,No,3.575,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1458,2019FA,Yes,No,Yes,3.2941,No,3.529,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,5,100.00%
+1459,2019FA,Yes,Yes,No,3.5,Yes,3.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1460,2019FA,No,No,No,2,No,3.175,RESIDENT,Yes,Not Applicable,Yes,6,1,25.00%,0,0,Not Applicable,4,100.00%
+1461,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,6,100.00%
+1462,2019FA,No,No,No,4,No,4,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,4,100.00%
+1463,2019FA,No,No,No,2.3529,No,2.353,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1464,2019FA,Yes,No,No,3.5,No,3.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1465,2019FA,No,No,No,2.5,Yes,3,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1466,2019FA,No,No,No,3.25,No,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1467,2019FA,No,No,No,3.25,Yes,3.425,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1468,2019FA,No,No,No,3,No,3.556,RESIDENT,Yes,Not Applicable,Yes,7,0,0.00%,1,1,100.00%,5,100.00%
+1469,2019FA,No,No,No,2.5,No,0.567,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,3,75.00%
+1470,2019FA,No,No,No,2.5,Yes,2.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1471,2019FA,Yes,No,Yes,2.75,No,1.233,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1472,2019FA,No,No,No,4,No,4,COMMUTER,Yes,Not Applicable,No,3,0,0.00%,4,4,100.00%,5,100.00%
+1473,2019FA,Yes,Yes,No,4,No,3.925,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1474,2019FA,Yes,No,No,4,No,3.925,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,3,3,100.00%,5,100.00%
+1475,2019FA,No,No,No,2.8889,No,3.178,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,2,2,100.00%,6,100.00%
+1476,2019FA,No,No,Yes,3.5,No,3.5,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1477,2019FA,No,No,No,2.75,Yes,3.063,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,1,1,100.00%,6,100.00%
+1478,2019FA,Yes,No,No,3,Yes,3.25,COMMUTER,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1479,2019FA,Yes,No,Yes,1.3333,No,1.567,RESIDENT,Yes,Not Applicable,No,0,2,66.70%,0,0,Not Applicable,3,100.00%
+1480,2019FA,No,No,No,2,Yes,2.85,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1481,2019FA,No,No,No,2,No,2.567,COMMUTER,Yes,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,3,75.00%
+1482,2019FA,No,No,No,1.5,Yes,1.767,RESIDENT,Yes,Not Applicable,No,1,2,33.30%,3,1,33.30%,3,60.00%
+1483,2019FA,Yes,No,No,3.75,Yes,3.575,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1484,2019FA,Yes,No,Yes,2,No,2.325,RESIDENT,Yes,Not Applicable,No,1,1,16.70%,3,3,100.00%,5,100.00%
+1485,2019FA,No,No,No,2.3529,No,2.424,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,0,0,Not Applicable,5,100.00%
+1486,2019FA,No,No,No,3.5,Yes,3.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1487,2019FA,No,No,No,2.5,No,2.675,RESIDENT,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1488,2019FA,No,No,No,2.75,Yes,3.15,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1489,2019FA,No,No,No,0.75,No,1.367,RESIDENT,Yes,Not Applicable,No,1,3,75.00%,0,0,Not Applicable,3,75.00%
+1490,2019FA,No,No,No,2,Yes,0.5,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,2,50.00%
+1491,2019FA,Yes,No,Yes,2.25,Yes,3,RESIDENT,Yes,Not Applicable,Yes,2,1,25.00%,1,1,100.00%,4,100.00%
+1492,2019FA,No,No,Yes,3,No,2.6,RESIDENT,No,Not Applicable,Yes,1,0,0.00%,3,3,100.00%,5,100.00%
+1493,2019FA,No,No,No,3.25,No,3.5,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1494,2019FA,No,No,Yes,3.75,No,4,RESIDENT,Yes,Not Applicable,Yes,6,0,0.00%,1,1,100.00%,5,100.00%
+1495,2019FA,Yes,No,No,3.25,Yes,2.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1496,2019FA,No,No,No,2.75,Yes,3.1,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1497,2019FA,No,No,No,1.25,No,0.9,RESIDENT,No,Not Applicable,No,2,3,75.00%,0,0,Not Applicable,1,25.00%
+1498,2019FA,No,No,No,3.5294,No,3.529,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1499,2019FA,No,No,No,3.75,Yes,3.575,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,2,2,100.00%,4,100.00%
+1500,2019FA,No,No,No,3.75,No,3.5,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,1,1,100.00%,4,100.00%
+1501,2019FA,No,No,No,3.5,No,3.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1502,2019FA,No,No,No,3,No,2.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1503,2019FA,No,No,Yes,2.75,No,3.667,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1504,2019FA,Yes,No,Yes,3,No,3.175,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,2,2,100.00%,5,100.00%
+1505,2019FA,Yes,Yes,Yes,3.5,No,3.675,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1506,2019FA,Yes,No,No,3,No,3.1,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1507,2019FA,Yes,No,No,2.25,Yes,3.075,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1508,2019FA,No,No,No,3.6667,No,4,RESIDENT,No,Not Applicable,No,5,0,0.00%,3,3,100.00%,5,100.00%
+1509,2019FA,No,No,No,3.75,Yes,3.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1510,2019FA,No,No,No,2,Yes,2.333,RESIDENT,Yes,Not Applicable,No,1,2,40.00%,1,1,100.00%,4,100.00%
+1511,2019FA,Yes,No,No,4,Yes,3.925,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,5,100.00%
+1512,2019FA,No,No,Yes,2.8889,No,1.925,RESIDENT,Yes,Not Applicable,No,0,1,14.30%,1,1,100.00%,4,80.00%
+1513,2019FA,No,No,No,3.5,Yes,3.6,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,5,100.00%
+1514,2019FA,No,No,No,2.75,Yes,2.325,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1515,2019FA,No,No,No,3.25,Yes,3.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1516,2019FA,No,No,No,3.5,Yes,3,RESIDENT,No,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1517,2019FA,No,No,Yes,3,No,3,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,5,100.00%
+1518,2019FA,No,No,No,3.75,Yes,3.825,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1519,2019FA,Yes,No,Yes,1.75,No,1.175,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+1520,2019FA,No,No,No,2.75,Yes,2.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1521,2019FA,Yes,Yes,No,3.75,Yes,3.925,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,3,3,100.00%,5,100.00%
+1522,2019FA,No,No,No,3.75,Yes,4,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,3,3,100.00%,6,100.00%
+1523,2019FA,No,No,Yes,2,No,2.75,RESIDENT,Yes,Not Applicable,No,1,2,50.00%,0,0,Not Applicable,4,100.00%
+1524,2019FA,No,No,No,2.75,Yes,2.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1525,2019FA,Yes,Yes,No,2.1111,No,2.1,RESIDENT,Yes,Not Applicable,No,0,1,16.70%,2,2,100.00%,5,100.00%
+1526,2019FA,Yes,Yes,Yes,2,No,3.3,COMMUTER,No,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,1,25.00%
+1527,2019FA,Yes,No,No,2.25,No,1.1,COMMUTER,No,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,2,50.00%
+1528,2019FA,Yes,Yes,Yes,3,No,2.925,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1529,2019FA,Yes,No,Yes,2.5556,No,2.633,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,5,100.00%
+1530,2019FA,No,No,Yes,3.5,No,4,RESIDENT,No,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1531,2019FA,No,No,No,3.25,No,2.5,COMMUTER,Yes,Not Applicable,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1532,2019FA,No,No,Yes,4,No,4,RESIDENT,Yes,Not Applicable,Yes,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1533,2019FA,No,No,No,2.75,Yes,3,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,1,1,100.00%,4,100.00%
+1534,2019FA,Yes,Yes,Yes,2.75,Yes,2.35,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1535,2019FA,Unknown,Unknown,Yes,3.5,No,3.75,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1536,2019FA,Unknown,Unknown,Yes,2.2222,No,1.967,RESIDENT,No,Not Applicable,No,3,1,14.30%,1,1,100.00%,5,100.00%
+1537,2019FA,No,No,No,4,No,3.925,RESIDENT,Yes,Not Applicable,No,6,0,0.00%,2,2,100.00%,5,100.00%
+1538,2019FA,Unknown,Unknown,Yes,2.7778,No,2.222,COMMUTER,Yes,Not Applicable,No,0,1,16.70%,1,1,100.00%,4,80.00%
+1539,2019FA,Yes,Yes,No,3,No,2.25,COMMUTER,No,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1540,2019FA,No,No,No,1.25,No,2,RESIDENT,Yes,Not Applicable,No,1,3,75.00%,0,0,Not Applicable,4,100.00%
+1541,2019FA,Yes,No,Yes,3.75,No,3.6,RESIDENT,No,Not Applicable,No,5,0,0.00%,2,2,100.00%,5,100.00%
+1542,2019FA,No,No,No,3,No,3.1,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1543,2019FA,No,No,No,3.5,No,3.65,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1544,2019FA,No,No,No,1.5,No,1.675,RESIDENT,Yes,Not Applicable,No,3,2,50.00%,0,0,Not Applicable,4,100.00%
+1545,2019FA,No,No,Yes,3,No,3.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1546,2019FA,No,No,No,2.25,No,2.5,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,1,1,100.00%,4,100.00%
+1547,2019FA,Yes,Yes,Yes,1.75,No,1.975,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1548,2019FA,No,No,Yes,2,Yes,2,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+1549,2019FA,Yes,No,No,3.5,No,3.925,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1550,2019FA,No,No,No,0,No,0,RESIDENT,No,Not Applicable,No,0,4,100.00%,1,0,0.00%,0,0.00%
+1551,2019FA,Yes,No,Yes,3.25,No,3.35,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1552,2019FA,No,No,No,3.25,No,3.175,COMMUTER,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1553,2019FA,No,No,No,3.5,Yes,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1554,2019FA,No,No,No,2,Yes,2.1,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,4,100.00%
+1555,2019FA,Yes,Yes,Yes,1.75,No,1.25,RESIDENT,Yes,Not Applicable,Yes,3,2,40.00%,1,0,0.00%,3,75.00%
+1556,2019FA,No,No,No,3.75,Yes,3.575,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1557,2019FA,Yes,Yes,Yes,3,No,2.525,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1558,2019FA,Yes,No,No,1.75,No,1.825,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1559,2019FA,No,No,No,0.5,No,0.5,RESIDENT,Yes,Not Applicable,No,1,3,60.00%,0,0,Not Applicable,1,25.00%
+1560,2019FA,No,No,Yes,4,Yes,3.75,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,3,3,100.00%,5,100.00%
+1561,2019FA,Yes,No,No,2.75,No,2.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1562,2019FA,No,No,No,3,No,2,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,2,2,100.00%,4,100.00%
+1563,2019FA,Yes,No,No,1.5,No,1.925,RESIDENT,No,Not Applicable,No,1,3,60.00%,1,1,100.00%,4,100.00%
+1564,2019FA,Yes,Yes,No,1,Yes,0.567,RESIDENT,Yes,Not Applicable,No,1,2,50.00%,0,0,Not Applicable,2,50.00%
+1565,2019FA,No,No,No,2.5,Yes,2.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1566,2019FA,No,No,No,3,No,2.675,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1567,2019FA,No,No,No,3.5,No,3.575,RESIDENT,No,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1568,2019FA,Yes,No,No,1.75,No,1.25,RESIDENT,No,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,4,100.00%
+1569,2019FA,No,No,No,2.75,No,2.9,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1570,2019FA,No,No,Yes,3,No,3.35,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1571,2019FA,Unknown,Unknown,No,1,No,1.433,RESIDENT,Yes,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,2,50.00%
+1572,2019FA,No,No,No,2.25,No,1.767,RESIDENT,Yes,Not Applicable,No,3,1,25.00%,0,0,Not Applicable,4,100.00%
+1573,2019FA,No,No,No,3,No,3.25,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1574,2019FA,Yes,Yes,No,2.8235,No,3.059,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,1,1,100.00%,5,100.00%
+1575,2019FA,Yes,No,No,2.5,No,2.675,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1576,2019FA,No,No,No,3.25,No,1.825,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,3,75.00%
+1577,2019FA,No,No,No,0.25,No,0,RESIDENT,No,Not Applicable,No,1,4,80.00%,3,0,0.00%,0,0.00%
+1578,2019FA,No,No,No,3.75,Yes,3.825,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1579,2019FA,No,No,No,2,Yes,2.2,RESIDENT,No,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1580,2019FA,No,No,Yes,3,Yes,3.133,RESIDENT,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,3,75.00%
+1581,2019FA,Yes,No,No,1.25,No,1.1,RESIDENT,No,Not Applicable,No,0,2,50.00%,1,0,0.00%,3,75.00%
+1582,2019FA,No,No,Yes,1,No,1.35,RESIDENT,No,Not Applicable,No,0,2,50.00%,0,0,Not Applicable,2,50.00%
+1583,2019FA,No,No,Yes,2.25,No,2.1,RESIDENT,No,Not Applicable,No,1,1,20.00%,2,2,100.00%,4,100.00%
+1584,2019FA,No,No,Yes,3.75,Yes,3.85,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1585,2019FA,Yes,Yes,No,2,No,2.325,RESIDENT,Yes,Not Applicable,No,3,1,25.00%,0,0,Not Applicable,4,100.00%
+1586,2019FA,Yes,No,Yes,2.75,No,2.925,COMMUTER,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1587,2019FA,No,No,No,3.25,Yes,2.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1588,2019FA,No,No,No,3.5,No,3.75,COMMUTER,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,5,100.00%
+1589,2019FA,Yes,No,Yes,3.25,No,,COMMUTER,No,Not Applicable,Yes,0,0,0.00%,1,0,0.00%,0,0.00%
+1590,2019FA,No,No,No,3.75,No,3.5,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1591,2019FA,No,No,No,3,Yes,3.425,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1592,2019FA,No,No,No,3.7778,No,3.489,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,1,1,100.00%,6,100.00%
+1593,2019FA,No,No,No,2.6667,Yes,2.133,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,2,50.00%
+1594,2019FA,No,No,Yes,3,Yes,3.075,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,2,2,100.00%,4,100.00%
+1595,2019FA,No,No,No,2.5,No,3.175,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,3,3,100.00%,5,100.00%
+1596,2019FA,Yes,No,No,2.5,No,2.175,RESIDENT,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1597,2019FA,No,No,Yes,2.1176,No,2.141,RESIDENT,Yes,Not Applicable,Yes,2,1,16.70%,0,0,Not Applicable,5,100.00%
+1598,2019FA,No,No,No,4,No,3.925,RESIDENT,Yes,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1599,2019FA,No,No,No,2.5,No,1.425,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,2,50.00%
+1600,2019FA,No,No,No,2.75,No,2.925,RESIDENT,Yes,Not Applicable,No,5,1,16.70%,2,2,100.00%,6,100.00%
+1601,2019FA,Yes,No,Yes,2,No,2.9,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,3,75.00%
+1602,2019FA,No,No,No,2,No,1.65,RESIDENT,Yes,Not Applicable,No,4,1,14.30%,3,3,100.00%,6,100.00%
+1603,2019FA,No,No,No,1.5,Yes,1.767,RESIDENT,Yes,Not Applicable,Yes,1,2,40.00%,2,0,0.00%,3,60.00%
+1604,2019FA,No,No,No,3.25,No,3.85,RESIDENT,No,Not Applicable,No,1,0,0.00%,3,3,100.00%,5,100.00%
+1605,2019FA,Yes,No,Yes,2.5,No,2.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1606,2019FA,No,No,No,2.25,No,2.425,COMMUTER,Yes,Not Applicable,Yes,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1607,2019FA,No,No,No,2.75,No,2.5,RESIDENT,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1608,2019FA,No,No,Yes,1,No,0,RESIDENT,No,Not Applicable,No,1,2,50.00%,1,0,0.00%,0,0.00%
+1609,2019FA,No,No,No,2.75,No,2.975,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1610,2019FA,No,No,No,2,No,2.275,RESIDENT,No,Not Applicable,No,0,1,25.00%,0,0,Not Applicable,4,100.00%
+1611,2019FA,No,No,No,3,No,3.35,RESIDENT,Yes,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1612,2019FA,Yes,Yes,Yes,3.5,No,3.25,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,2,2,100.00%,4,100.00%
+1613,2019FA,No,No,No,3.1111,No,3.044,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,1,1,100.00%,5,100.00%
+1614,2019FA,Yes,Yes,Yes,3.5,No,3.65,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,3,3,100.00%,5,100.00%
+1615,2019FA,No,No,No,3.5294,No,2.824,COMMUTER,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1616,2019FA,No,No,Yes,,No,,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,0,0.00%,0,0.00%
+1617,2019FA,No,No,No,2.75,No,2.325,RESIDENT,Yes,Not Applicable,No,5,0,0.00%,2,2,100.00%,4,100.00%
+1618,2019FA,No,No,No,1,No,,RESIDENT,No,Not Applicable,No,0,3,60.00%,0,0,Not Applicable,0,0.00%
+1619,2019FA,Yes,No,No,3.25,No,3.6,RESIDENT,No,Not Applicable,Yes,5,0,0.00%,0,0,Not Applicable,4,100.00%
+1620,2019FA,No,No,Yes,1.7143,No,2.1,RESIDENT,Yes,Not Applicable,No,4,1,14.30%,3,1,33.30%,4,66.70%
+1621,2019FA,No,No,Yes,3.25,No,3.6,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1622,2019FA,No,No,Yes,3.5,No,3.5,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,2,2,100.00%,4,100.00%
+1623,2019FA,Yes,No,Yes,3.4286,No,3.429,COMMUTER,No,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1624,2019FA,Yes,Yes,Yes,2.0526,No,0.88,RESIDENT,Yes,Not Applicable,No,0,1,12.50%,2,2,100.00%,3,50.00%
+1625,2019FA,Yes,Yes,No,3.5,Yes,3.675,RESIDENT,No,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1626,2019FA,No,No,No,3.5,No,3.275,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1627,2019FA,No,No,No,3.3333,No,2.675,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,3,75.00%
+1628,2019FA,No,No,No,3.75,Yes,3.675,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1629,2019FA,No,No,No,3,Yes,3.775,RESIDENT,Yes,Not Applicable,Yes,5,0,0.00%,2,2,100.00%,4,100.00%
+1630,2019FA,Yes,Yes,Yes,3.4706,No,3.765,RESIDENT,Yes,Not Applicable,No,4,0,0.00%,0,0,Not Applicable,5,100.00%
+1631,2019FA,No,No,No,2.4,No,1.675,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,2,2,100.00%,4,80.00%
+1632,2019FA,No,No,No,2,No,2.175,RESIDENT,Yes,Not Applicable,Yes,4,1,25.00%,0,0,Not Applicable,4,100.00%
+1633,2019FA,No,No,Yes,3,Yes,3.367,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,3,100.00%
+1634,2019FA,No,No,Yes,3.4,No,3.48,RESIDENT,Yes,Not Applicable,Yes,10,0,0.00%,0,0,Not Applicable,5,100.00%
+1635,2019FA,Yes,No,No,2,No,2.45,RESIDENT,Yes,Not Applicable,No,2,2,33.30%,3,3,100.00%,5,100.00%
+1636,2019FA,No,No,No,3,Yes,3.4,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1637,2019FA,Yes,Yes,Yes,0,No,0,RESIDENT,No,Not Applicable,No,0,3,50.00%,4,0,0.00%,0,0.00%
+1638,2019FA,Yes,No,No,2.5,No,,RESIDENT,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,0,0.00%
+1639,2019FA,No,No,No,2.75,Yes,2.575,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1640,2019FA,No,No,Yes,2.75,No,2.85,RESIDENT,Yes,Not Applicable,Yes,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1641,2019FA,Unknown,Unknown,Yes,2.5,No,2.5,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1642,2019FA,Yes,No,Yes,1.1429,No,1.257,RESIDENT,No,Not Applicable,No,1,2,33.30%,2,0,0.00%,3,60.00%
+1643,2019FA,Yes,No,Yes,2.75,No,2.675,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1644,2019FA,Yes,Yes,No,3.75,No,4,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1645,2019FA,Yes,No,No,3.25,No,3.425,COMMUTER,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1646,2019FA,No,No,Yes,1.6667,No,2,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,1,1,100.00%,3,100.00%
+1647,2019FA,No,No,Yes,0.5714,Yes,0.333,RESIDENT,No,Not Applicable,No,2,3,60.00%,2,1,50.00%,2,50.00%
+1648,2019FA,No,No,Yes,2.75,No,3.425,RESIDENT,Yes,Not Applicable,No,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1649,2019FA,No,No,Yes,3.25,No,2.825,COMMUTER,No,Not Applicable,Yes,2,0,0.00%,0,0,Not Applicable,4,100.00%
+1650,2019FA,No,No,No,2.25,No,1.5,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,0,0,Not Applicable,3,75.00%
+1651,2019FA,Yes,No,No,1,No,1.9,RESIDENT,Yes,Not Applicable,No,1,3,75.00%,1,1,100.00%,3,75.00%
+1652,2019FA,Yes,No,Yes,2.7778,No,2.778,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,5,100.00%
+1653,2019FA,No,No,No,2.3333,No,2.044,RESIDENT,Yes,Not Applicable,No,2,1,20.00%,0,0,Not Applicable,4,80.00%
+1654,2019FA,No,No,Yes,2.25,No,2.567,RESIDENT,Yes,Not Applicable,No,0,1,25.00%,1,0,0.00%,3,75.00%
+1655,2019FA,Yes,Yes,Yes,3.2941,No,1.576,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,5,100.00%
+1656,2019FA,No,No,Yes,2.25,No,2.575,RESIDENT,Yes,Not Applicable,Yes,1,2,50.00%,1,1,100.00%,4,100.00%
+1657,2019FA,No,No,No,3.75,No,3.925,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,100.00%
+1658,2019FA,Yes,No,No,0.6667,Yes,0,COMMUTER,No,Not Applicable,No,1,2,50.00%,0,0,Not Applicable,0,0.00%
+1659,2019FA,No,No,No,1.75,No,1.075,COMMUTER,No,Not Applicable,No,0,1,25.00%,1,0,0.00%,2,50.00%
+1660,2019FA,No,No,No,2.5,No,2.675,RESIDENT,No,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1661,2019FA,Yes,Yes,Yes,0,No,0,RESIDENT,No,Not Applicable,No,3,4,100.00%,1,0,0.00%,0,0.00%
+1662,2019FA,Yes,Yes,Yes,0.5,No,,RESIDENT,No,Not Applicable,No,0,4,80.00%,1,0,0.00%,0,0.00%
+1663,2019FA,Yes,No,Yes,2.75,No,2.575,RESIDENT,No,Not Applicable,No,0,0,0.00%,2,2,100.00%,4,100.00%
+1664,2019FA,Yes,Yes,No,2.5,No,1.425,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,2,2,100.00%,4,80.00%
+1665,2019FA,No,No,No,2.75,Yes,2.75,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1666,2019FA,No,No,No,2.25,No,2.325,RESIDENT,No,Not Applicable,Yes,4,0,0.00%,0,0,Not Applicable,4,100.00%
+1667,2019FA,Yes,Yes,No,2.5,Yes,2.85,RESIDENT,Yes,Not Applicable,No,2,1,25.00%,0,0,Not Applicable,4,100.00%
+1668,2019FA,No,No,Yes,2.5882,No,2.588,COMMUTER,Yes,Not Applicable,No,0,1,20.00%,0,0,Not Applicable,5,100.00%
+1669,2019FA,No,No,No,2.5,No,2.425,RESIDENT,Yes,Not Applicable,No,1,1,20.00%,0,0,Not Applicable,4,100.00%
+1670,2019FA,No,No,No,3.25,Yes,3.575,RESIDENT,No,Not Applicable,No,2,0,0.00%,1,1,100.00%,4,100.00%
+1671,2019FA,Yes,Yes,Yes,3.25,No,2.775,RESIDENT,Yes,Not Applicable,Yes,5,0,0.00%,1,1,100.00%,4,100.00%
+1672,2019FA,No,No,No,3.25,No,3.25,COMMUTER,Yes,Not Applicable,Yes,0,0,0.00%,0,0,Not Applicable,4,100.00%
+1673,2019FA,No,No,Yes,1.75,Yes,2.5,RESIDENT,Yes,Not Applicable,No,1,1,25.00%,2,2,100.00%,4,100.00%
+1674,2019FA,No,No,Yes,2.8889,No,2.25,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,1,1,100.00%,5,100.00%
+1675,2019FA,Yes,Yes,No,3.3333,No,2.567,COMMUTER,Yes,Not Applicable,No,0,0,0.00%,4,2,50.00%,4,66.70%
+1676,2019FA,No,No,Yes,2.25,No,2.675,RESIDENT,Yes,Not Applicable,No,0,0,0.00%,1,1,100.00%,4,100.00%
+1677,2019FA,Yes,Yes,No,2.25,Yes,1.85,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,4,100.00%
+1678,2019FA,Yes,No,Yes,1,No,1.075,RESIDENT,Yes,Not Applicable,No,3,2,50.00%,0,0,Not Applicable,3,75.00%
+1679,2019FA,No,No,Yes,2.75,Yes,3.425,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,1,1,100.00%,4,100.00%
+1680,2019FA,No,No,Yes,3.75,Yes,3.85,RESIDENT,Yes,Not Applicable,No,1,0,0.00%,1,1,100.00%,4,100.00%
+1681,2019FA,No,No,Yes,3.3333,No,3.844,RESIDENT,Yes,Not Applicable,No,3,0,0.00%,2,2,100.00%,5,100.00%
+1682,2019FA,No,No,Yes,3.75,No,4,RESIDENT,No,Not Applicable,No,3,0,0.00%,0,0,Not Applicable,4,100.00%
+1683,2019FA,No,No,No,1.5,No,1.925,RESIDENT,Yes,Not Applicable,No,1,2,33.30%,3,3,100.00%,3,60.00%
+1684,2019FA,Unknown,Unknown,No,2.25,Yes,1.425,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,3,75.00%
+1685,2019FA,No,No,No,3.3333,No,3.433,RESIDENT,No,Not Applicable,No,1,0,0.00%,0,0,Not Applicable,3,75.00%
+1686,2019FA,No,No,No,2.75,No,3.075,COMMUTER,No,Not Applicable,No,0,0,0.00%,0,0,Not Applicable,4,100.00%
