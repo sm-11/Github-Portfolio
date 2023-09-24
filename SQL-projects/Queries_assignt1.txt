@@ -1,0 +1,289 @@
+								/* SQL ASSIGNMENT 1 */
+
+/* 
+   1. Get all supplier-number/part-number/project-number triples such that the indicated supplier, part and project are all in the same city.
+*/
+
+/* creating a table to store results from the queries */
+CREATE VIEW same_city AS
+
+/* selecting the Supplier-number, part-number, project-number & City columns */
+SELECT SNo, PNo, JNo, City
+
+/* joining the S, P & J tables */
+FROM ((S JOIN P USING(City)) JOIN J USING(City));
+
+/* viewing the result save in same_city table */
+SELECT * FROM same_city;
+
+/*
++-----+-----+-----+--------+
+| SNo | PNo | JNo | City   |
++-----+-----+-----+--------+
+| S2  | P2  | J1  | Paris  |
+| S3  | P2  | J1  | Paris  |
+| S2  | P5  | J1  | Paris  |
+| S3  | P5  | J1  | Paris  |
+| S1  | P1  | J5  | London |
+| S4  | P1  | J5  | London |
+| S1  | P4  | J5  | London |
+| S4  | P4  | J5  | London |
+| S1  | P6  | J5  | London |
+| S4  | P6  | J5  | London |
+| S1  | P1  | J7  | London |
+| S4  | P1  | J7  | London |
+| S1  | P4  | J7  | London |
+| S4  | P4  | J7  | London |
+| S1  | P6  | J7  | London |
+| S4  | P6  | J7  | London |
++-----+-----+-----+--------+
+*/
+
+
+/* 
+   2. Get all pairs of city names such that a supplier in the first city supplies a project in the second city.
+*/
+
+/* selecting City columns from S & J tables & renaming them */
+SELECT DISTINCT S.City AS S_City, J.City AS J_city
+
+/* joining SPJ & S tables on supplier-no. column */
+FROM SPJ JOIN S ON SPJ.SNo = S.SNo
+
+/* joining SPJ & J tables on project-no. column */
+JOIN J ON SPJ.JNo = J.JNo;
+
+/*
++--------+--------+
+| S_City | J_City |
++--------+--------+
+| London | Paris  |
+| Paris  | Paris  |
+| Paris  | Rome   |
+| Athens | Rome   |
+| Paris  | Athens |
+| London | Athens |
+| Athens | Athens |
+| Paris  | London |
+| Athens | London |
+| Paris  | Oslo   |
+| London | London |
++--------+--------+
+*/
+
+
+/* 
+   3. Get project numbers for projects supplied by at least one supplier not in the same city as the project.
+*/
+
+/* selecting project no. from SPJ table & city columns from S & J table & renaming City columns */
+SELECT DISTINCT SPJ.JNO, J.City AS J_City, S.City AS S_City
+
+/* joining SPJ, J & S tables using their common columns */
+FROM (SPJ JOIN  J USING(JNo)) JOIN S USING(SNo)
+
+/* selecting the rows where the city names are different for the two tables*/
+WHERE J.City != S.City;
+
+/*
++-----+--------+--------+
+| jno | J_city | S_city |                  
++-----+--------+--------+
+| J1  | Paris  | London |
+| J2  | Rome   | Paris  |
+| J2  | Rome   | Athens |
+| J3  | Athens | Paris  | 
+| J3  | Athens | London |
+| J4  | Athens | London |
+| J4  | Athens | Paris  |
+| J5  | London | Paris  |
+| J5  | London | Athens |
+| J6  | Oslo   | Paris  |
+| J7  | London | Paris  |
+| J7  | London | Athens |
++-----+--------+--------+
+*/
+
+
+/* 
+   4. Get the total number of projects supplied by supplier S1.
+*/
+
+/* getting the supplier-no. column & counting the project-nos */
+SELECT SNo, COUNT(JNo)
+
+/* getting the columns from SPJ table */
+FROM SPJ
+
+/* getting the rows where the projects are only supplied by supplier S1 */
+WHERE SNo = 'S1';
+
+/*
++-----+------------+
+| SNo | COUNT(JNo) |
++-----+------------+
+| S1  |          2 |
++-----+------------+
+*/
+
+
+/* 
+   5. Get the total quantity of part P1 supplied by supplier S1.
+*/
+
+/* selecting part-no., supplier-no. & summing their total quantities */
+SELECT PNo, SNo, SUM(Qty)
+
+/* getting the columns from SPJ table */
+FROM SPJ
+
+/* getting the rows where the quantities of part P1 are only supplied by supplier S1 */
+WHERE SNo = 'S1' AND PNo ='P1';
+
+/*
++-----+-----+----------+
+| PNo | SNo | SUM(Qty) |
++-----+-----+----------+
+| P1  | S1  |      900 |
++-----+-----+----------+
+*/
+
+
+/* 
+   6. Get the total quantity of each part supplied by supplier S1.
+*/
+
+/* selecting part-no. & supplier-no. columns & summing their quantities */
+SELECT PNo, SNo, SUM(Qty)
+
+/* getting the columns from SPJ table */
+FROM SPJ
+
+/* selecting parts supplied by supplier S1 */
+WHERE SNo = 'S1'
+
+/* grouping the table by part-no. */
+GROUP BY PNo;
+
+/*
++-----+-----+----------+
+| pno | sno | sum(qty) |
++-----+-----+----------+
+| P1  | S1  |      900 |
++-----+-----+----------+
+*/
+
+
+/* 
+   7. Get the total quantity of each part supplied by each supplier.
+*/
+
+/* selecting part-no. & supplier-no. columns & summing their total quantities */
+SELECT SNo, PNo, SUM(Qty)
+
+/* getting the columns from SPJ table */
+FROM SPJ
+
+/* grouping the table by part-no & supplier-no */
+GROUP BY SNo, PNo;
+
+/*
++-----+-----+----------+
+| SNo | PNo | SUM(Qty) |
++-----+-----+----------+
+| S1  | P1  |      900 |
+| S2  | P3  |     3100 |
+| S2  | P5  |      100 |
+| S3  | P3  |      200 |
+| S3  | P4  |      500 |
+| S4  | P6  |      600 |
+| S5  | P1  |      100 |
+| S5  | P2  |      300 |
+| S5  | P3  |      200 |
+| S5  | P4  |      800 |
+| S5  | P5  |     1000 |
+| S5  | P6  |      700 |
++-----+-----+----------+
+*/
+
+
+/* 
+   8. Get the total weight of each part supplied to each project. 
+*/
+
+/* selecting part-no. & project-no. columns */
+SELECT DISTINCT PNo, JNo, 
+	SUM(Qty)*SUM(Weight) as total_weight /* summing the total quantities & weights for each part-no. & project-no. 
+							     multiplying and saving the results in a new column */
+
+/* joining P and SPJ tables on part-no. */
+FROM P JOIN SPJ USING(PNo)
+
+/* grouping the table by part-no. & project-no. */
+GROUP BY PNo, JNo;
+
+/*
++-----+-----+--------------+
+| PNo | JNo | total_weight |
++-----+-----+--------------+
+| P1  | J1  |         2400 |
+| P1  | J4  |        19200 |
+| P2  | J2  |         3400 |
+| P2  | J4  |         1700 |
+| P3  | J1  |        20400 |
+| P3  | J2  |         3400 |
+| P3  | J3  |         3400 |
+| P3  | J4  |        23800 |
+| P3  | J5  |        10200 |
+| P3  | J6  |         6800 |
+| P3  | J7  |        13600 |
+| P4  | J2  |         7000 |
+| P4  | J4  |        11200 |
+| P5  | J2  |         1200 |
+| P5  | J4  |         4800 |
+| P5  | J5  |         6000 |
+| P5  | J7  |         1200 |
+| P6  | J2  |         3800 |
+| P6  | J3  |         5700 |
+| P6  | J4  |         9500 |
+| P6  | J7  |         5700 |
++-----+-----+--------------+
+*/
+
+
+/* 
+   9. Get all pairs of supplier numbers and project numbers such that the supplier in the pair does not supply any part to the project in the pair.
+*/
+
+/* selecting supplier-no. & project-no. from S & J tables */
+SELECT DISTINCT J.JNO, S.SNO
+FROM S INNER JOIN J
+
+/* checking if the supplier-no. & project-no. pairs supply any parts */
+WHERE NOT EXISTS
+(SELECT * FROM SPJ WHERE SPJ.JNo = J.JNo AND SPJ.SNo = S.SNo);
+
+/*
++-----+-----+
+| JNO | SNO |
++-----+-----+
+| J1  | S4  |
+| J1  | S5  |
+| J2  | S1  |
+| J2  | S4  |
+| J3  | S1  |
+| J3  | S3  |
+| J3  | S5  |
+| J4  | S3  |
+| J4  | S4  |
+| J5  | S1  |
+| J5  | S3  |
+| J5  | S4  |
+| J6  | S1  |
+| J6  | S3  |
+| J6  | S4  |
+| J6  | S5  |
+| J7  | S1  |
+| J7  | S3  |
++-----+-----+
+*/
