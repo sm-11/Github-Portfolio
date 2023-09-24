@@ -1,2 +1,5 @@
 # Descriptive Analytics
-Investigating Roanoke College's student retention rates and exploring the dynamics of home sale pricing in Salem, Virginia. [Report link](https://raw.githack.com/sm-11/Github-Portfolio/780aaf453dbfe9b67caca58a20ce37548e68ebec/R-Projects/Statistical%20Analysis%20Project/Final-STAT-304-23.html?token=GHSAT0AAAAAACHYA3VQYWZ6W6W4UW2VFYQOZIPVLHA)
+Investigating Roanoke College's student retention rates and exploring the dynamics of home sale pricing in Salem, Virginia. 
+![snapshot1](https://github.com/sm-11/Github-Portfolio/assets/117120122/a1915ba9-d5e6-4b2d-aecf-cabf81a73f9f)
+![snapshot3](https://github.com/sm-11/Github-Portfolio/assets/117120122/78943467-fdf3-4de8-b4be-d975d28a9236)
+
