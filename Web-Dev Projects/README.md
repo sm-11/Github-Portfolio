@@ -1,2 +1,4 @@
 # Calendar Design 
-Designed a simple calendar using HTML, CSS, and JavaScript. [Result](https://raw.githack.com/sm-11/Github-Portfolio/main/Web-Dev%20Projects/index.html?token=GHSAT0AAAAAACHYA3VR7HOGVGSAYXJ2CECAZIPYZKA)
+Designed an interactive calendar with HTML, CSS, and JavaScript 
+![calendar_snapshot](https://github.com/sm-11/Github-Portfolio/assets/117120122/7defffa3-5c63-4e2c-95ad-99c817cd92cd)
+
