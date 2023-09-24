@@ -1,5 +1,5 @@
 # Research in Psychology
-### Exploring Pluralistic Ignorance (PI): A Journey into Qualitative Research
+### Exploring Pluralistic Ignorance (PI): A Qualitative Research Journey 
 
 In the realm of psychology, I embarked on an independent research project, utilizing my data analysis skills to delve into the intriguing concept of PI. This project emerged from a desire to unravel the complexities of this subject matter in terms of analysis. 
 
