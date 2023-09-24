@@ -1,0 +1,531 @@
+---
+title: <span style="color:blue">Results for Pluralistic Ignorance (PI) & Sexist Attitudes</span>
+author: "Selam Mekonnen"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+## upload useful packages 
+knitr::opts_chunk$set(echo = TRUE)
+
+require(ggpattern)
+library(tidyverse)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(emmeans)
+library(ggpubr)
+library(gtable)
+library(gridExtra)
+library(cowplot)
+library(grid)
+
+## UPLOADING DATA TO USE
+## this df consists of all participant ratings without any significant changes
+cleanedRaw_df = read_csv("C:/Users/selam/Desktop/Pluralistic Ig_Data/overallViews.csv")
+# this df consists of the aggregated results of the scenarios & is useful for PI section
+aggregated_df = read_csv("C:/Users/selam/Desktop/Pluralistic Ig_Data/grouped_scenarios.csv")
+# this df consists of participants own perceptions only & is useful for sexist attitudes section
+ownViews_df = read_csv("C:/Users/selam/Desktop/Pluralistic Ig_Data/ownViews_df.csv")
+```
+
+**Filtering and Correcting Data Formats**
+
+```{r warning=FALSE}
+#checking & correcting data formats
+#str(cleanedRaw_df) # 'gender' has num format
+
+cleanedRaw_df$gender <- as.character(cleanedRaw_df$gender)
+aggregated_df$gender <- as.character(aggregated_df$gender)
+ownViews_df$gender <- as.character(ownViews_df$gender)
+#str(cleanedRaw_df) # format changed from num to chr
+
+# excluding non-binary participants
+#unique(aggregated_df$gender) # 'gender' has non-binary participants
+
+cleanedRaw_df <- cleanedRaw_df[!cleanedRaw_df$gender == "5",]
+aggregated_df <- aggregated_df[!aggregated_df$gender == "5",]
+ownViews_df <- ownViews_df[!ownViews_df$gender == "5",]
+
+#unique(aggregated_df$gender) # filtered to include only male & female participants
+```
+
+```{r}
+# renaming columns
+cleanedRaw_df$Target <- ifelse(cleanedRaw_df$Target == "own views","own_views",
+                    ifelse (cleanedRaw_df$Target == "avg MV",
+                            "avg_mv", "avg_fv"))
+
+#head(cleanedRaw_df)
+#head(aggregated_df)
+```
+
+```{r}
+## descriptive stats
+#
+# no of male participants
+m <- count(ownViews_df[ownViews_df$gender == "1",])
+# no of female participants
+f <- count(ownViews_df[ownViews_df$gender == "2",])
+# no of overall participants
+n <- length(ownViews_df$gender)
+```
+
+### DATA ANALYSIS
+**Comparing self to perception of others**
+
+```{r}
+aggregated_df.aov <- aov(scenario_avg ~ Target + Error(ResponseId), data = cleanedRaw_df)
+summary(aggregated_df.aov)
+```
+
+<p style="color:blue">**The results show a statistically significant evidence that there is a difference between participants views in respect to the three groups (average male, average female, & self perception groups). In other words, the perception ratings for gender bias are different for participants own perceptions, the average male and female.**</p>
+
+**Post hoc tests for self perception vs others**
+
+```{r}
+aggregated_df.em <- emmeans(aggregated_df.aov, specs = pairwise~Target)
+aggregated_df.em$emmeans      
+aggregated_df.em$contrasts    
+```
+
+<p style="color:blue">**The results show a statistically significant evidence that there is a difference between average female and male perceptions. Meaning, participants think that the average males' and females' views on gender bias are different (i.e., participants estimated the average female's acceptance of the sexist scenarios to be less than that of the average male's). There is also a difference between participant's own perceptions and that of the average male (i.e., participants estimated the average male's comfortably of the sexist scenarios to be higher than their own views). However, there is no significant difference between participants own perceptions and that of the average female.**</p>
+
+```{r}
+all_v <- aggregated_df.em$emmeans %>% 
+	as_tibble() %>%
+  
+	ggplot(aes(x = Target, y = emmean)) + 
+	coord_cartesian(ylim = c(1, 4)) +
+  #geom_text(aes(label = round(emmean, 2)), 
+  #          size = 5, position = position_stack(vjust = 1.16))+
+	geom_col(fill="#b5838d", col="black", width=c(.5,.5,.5), lwd=0.7) + 
+	geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), width = 0.15, lwd=0.7)+
+  theme_bw()+
+  ggtitle("Perception Ratings of All Participants")+
+      theme(plot.title = element_text(size=25, hjust = 0.5, face = "bold"),
+       axis.ticks.y=element_blank(), axis.text.x=element_text(size=20, colour = "black"),
+        axis.ticks.x=element_blank(), axis.text.y=element_text(size=20, colour = "black"),
+        axis.title=element_text(size=22), legend.position = "none",
+        legend.key.size = unit(0.5, "cm"))+
+  ylab('Marginal means')+
+  xlab('Perceived perceptions')
+all_v
+
+ggsave("ov_perceptions.pdf", all_v, device = "pdf")
+```
+
+**Comparing the perceptions of male and female participants**
+
+```{r}
+overall_gend.aov <- aov(scenario_avg ~ Target*gender + Error(ResponseId), data = cleanedRaw_df)
+summary(overall_gend.aov)
+```
+
+<p style="color:blue">**The results show a statistically significant evidence that there is a difference between the perceptions of male and female participants. Meaning, male and female participants have different perceptions of gender bias.**</p>
+
+**Post hoc tests for perceptions across gender**
+
+```{r}
+overall_gend.em <- emmeans(overall_gend.aov, specs = pairwise~Target|gender)
+overall_gend.em$emmeans
+overall_gend.em$contrasts
+```
+
+<p style="color:blue">**When gender is included as a factor, there is a statistically significant difference between male and female participant's perception of the average male and female's views. Meaning, both genders have different views of how the average male and the average female would perceive the sexist scenarios in the survey (i.e., both genders assumed that the average female would find the scenarios less acceptable than the average male. In addition, females overestimated the average male's acceptance of the scenarios much more than male's did). On the other hand, there is a significant difference between female participant's own perceptions and that of the average male but no significant difference for male participants. Thus, female participants believe they perceive the scenarios differently than the average male would (i.e., females think the average male would find the scenarios much more acceptable than they would), however, male participants think the average male would perceive the scenarios similar to them. However, there is no difference between male and female participants own perceptions and that of the average female. Meaning, both male and female participants believe they perceive the scenarios similarly to how the average female would. And since the mean of the average females' views is the lowest compared to the other groups, this might suggest that participants in general hold less sexist attitudes and rated the scenarios less as less appropriate.**</p>
+
+
+```{r}
+mf_v <- overall_gend.em$emmeans %>% 
+	as_tibble() %>%
+	ggplot(aes(x = Target, y = emmean, fill = gender)) + 
+	coord_cartesian(ylim = c(1, 4)) +
+	geom_col(position = position_dodge() , width=c(.5,.5,.5)) + 
+	geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), 
+								position = position_dodge(0.5),
+								width = 0.15, lwd=0.7) +
+  theme_bw()+
+  scale_fill_manual(values = c("#2b2d42", "#B71E42"), 
+                     name = "Participants\nGender", labels = c("Male", "Female")) +
+  ggtitle("Perception Ratings by Gender")+
+      theme(plot.title = element_text(size=25, hjust = 0.5, colour = "black", face = "bold"),
+       axis.ticks.y=element_blank(), axis.text.x=element_text(size=20, colour = "black"),
+        axis.ticks.x=element_blank(), axis.text.y=element_text(size=20, colour = "black"),
+        axis.title=element_text(size=22), legend.position = "right",
+        legend.key.size = unit(0.3, "cm"), legend.title = element_text(size = 18, face="bold"), legend.text = element_text(size=15, colour = "black"))+
+  ylab('Marginal means')+
+  xlab('Perceived perceptions')
+mf_v
+```
+
+
+
+...................
+
+### **MALE PERCEPTIONS**
+
+**Filtering the data frame by males only**
+
+```{r}
+m_percep <- cleanedRaw_df %>% filter(gender==1)
+head(m_percep)
+```
+
+```{r}
+male.aov <- aov(scenario_avg ~ Target + Error(ResponseId), data = m_percep)
+summary(male.aov)
+```
+
+<p style="color:blue">**The results show a statistically significant difference between male participants rating of the three groups (average male, average female, & self perceptions). **</p>
+
+**Post hoc tests for perceptions of males**
+
+```{r}
+male.em <- emmeans(male.aov, specs = pairwise~Target)
+male.em$emmeans
+male.em$contrasts
+```
+
+<p style="color:blue">**The results indicates a significant difference between male participants perception of the average female and average male's view. Meaning, male participants believe that females and males have different perceptions of the sexist scenarios (i.e., male participants estimated the average female's acceptance of the scenarios to be less than the average male's). However, there is no significant difference between male participants own perceptions and that of the average female (i.e., male participants believe they perceive the scenarios similarly to females). There is also no significant difference between male participants own perceptions and that of the average male. In other words, male participants believe that other males have similar views to their own regarding the scenarios.**</p>
+
+
+```{r}
+
+#emmip(male.aov, scenario_avg ~ Target | gender)
+```
+
+
+```{r}
+mv <- male.em$emmeans %>% 
+	as_tibble() %>%
+	ggplot(aes(x = Target, y = emmean)) + 
+	coord_cartesian(ylim = c(1, 4)) +
+  geom_text(aes(label = round(emmean, 2)), 
+            size = 2, position = position_stack(vjust = 1.2))+
+	geom_col(fill="#2166AC", col="black", width=c(.4,.4,.4)) + 
+	geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), width = 0.15)+
+  ggtitle("Male Participants Perceptions")+
+  theme(plot.title = element_text(size=7, hjust = 0.5, colour = "#2166AC", face = "bold"),
+        axis.ticks.y=element_blank(),
+        axis.ticks.x=element_blank(),axis.text.x=element_text(size=7, colour ="black"),
+        axis.title=element_text(size=7))+
+  ylab('Marginal means')+
+  xlab('Target groups')
+mv
+```
+
+........................
+
+
+### **FEMALE PERCEPTIONS** 
+
+**Filtering the data frame by females only**
+
+```{r}
+f_percep <- cleanedRaw_df %>% filter(gender==2)
+head(f_percep)
+```
+
+```{r}
+female.aov <- aov(scenario_avg ~ Target + Error(ResponseId), data = f_percep)
+summary(female.aov)
+```
+
+<p style="color:blue">**The results show a statistically significant difference between female participant's perception of the different scenarios in respect to the different groups (average male, average female, & self perceptions).**</p>
+
+**Post hoc tests for perceptions of females**
+
+```{r}
+female.em <- emmeans(female.aov, specs = pairwise~Target)
+female.em$emmeans
+female.em$contrasts
+```
+
+<p style="color:blue">**The results indicate there is a difference between female participants perception of the average female's and male's view on the sexist scenarios. In other words, female participants believe that females and males have different views on gender bias (i.e., female participants tended to overestimate the level of acceptance of the scenarios for the average male). There is also significant difference between female participants own perceptions and that of the average male. Meaning, female participants perceive that their views on gender bias are different from the average male (i.e., female participants think the average male would find the scenarios more acceptable than they would). However, there is no significant difference between female participants own perceptions and that of the average female. Put differently, female participants believe their views on gender bias are similar to other females views.**</p>
+
+
+```{r}
+fv <- female.em$emmeans %>% 
+	as_tibble() %>%
+	ggplot(aes(x = Target, y = emmean)) + 
+	coord_cartesian(ylim = c(1, 4)) +
+    geom_text(aes(label = round(emmean, 2)), 
+            size = 2, position = position_stack(vjust = 1.13))+
+	geom_col(fill="#B71E42", col="black", width=c(.4,.4,.4)) + 
+	geom_errorbar(aes(ymin = emmean - SE, ymax = emmean + SE), width = 0.15)+
+  ggtitle("Female Participants Perceptions")+
+  theme(plot.title = element_text(size=7, hjust = 0.5, colour = "#B71E42", face = "bold"),
+        axis.text.y=element_blank(), axis.ticks.y=element_blank(),
+        axis.ticks.x=element_blank(),axis.text.x=element_text(size=7, colour ="black"),
+        axis.title=element_text(size=7))+
+  ylab('')+
+  xlab('Target groups')
+fv
+```
+
+
+..........................................................................................
+
+### **PI** 
+
+**PLURALISTIC IGNORANCE: comparing perception of others to reality**
+
+```{r}
+# filtering the data to get participants self-perceptions
+pl_wide <- spread(cleanedRaw_df, key = Target, value = scenario_avg)
+head(pl_wide)
+
+# calculating means for "actual" perceptions
+male_actual <- mean(filter(pl_wide, gender == 1)$own_views)
+male_actual
+
+female_actual <- mean(filter(pl_wide, gender == 2)$own_views)
+female_actual
+```
+
+**MALE PARTICIPANTS:**
+**Comparing male participants' perceptions of male views to male participants' actual views**
+
+```{r}
+t.test(avg_mv~1, mu = male_actual, data=filter(pl_wide, gender == 1))
+```
+
+<p style="color:blue">**The results indicate a statistically significant difference between male participants' actual perception and the perception of the average male regarding the sexist scenarios. Therefore, men display pluralistic ignorance regarding male's perception of gender bias (i.e., male participants tend to overestimate other mens' level of acceptance of gender bias).**</p>
+
+
+**Comparing male participants' perceptions of female views to female participants' actual views**
+
+```{r}
+pl_m = t.test(avg_fv~1, mu = female_actual, data=filter(pl_wide, gender == 1))
+pl_m
+```
+
+<p style="color:blue">**The results indicate no significant difference between male participants' perception of females' actual views versus the perception of the average female's view on the scenarios. Therefore, we can conclude that men do not exhibit pluralistic ignorance on their perception of womens' views on gender bias (i.e., male students are better at accurately estimating women's views' on gender bias).**</p>
+
+**Plots for Male Participants' Actual Beliefs versus Perceived** 
+
+```{r}
+male_wide <- spread(m_percep, key = Target, value = scenario_avg)
+male_wide
+
+female_wide <- spread(f_percep, key = Target, value = scenario_avg)
+head(male_wide)
+```
+
+# PI for male perceptions
+
+```{r}
+pi_mv <- pl_wide %>% 
+  group_by(gender) %>%
+  summarize(M = mean(avg_mv),
+            SE = sd(avg_mv)/sqrt(n()))%>%
+
+  ggplot(aes(x = gender, y = M, fill = gender)) +
+    geom_bar(position='dodge', 
+             stat='identity', 
+             width=c(.3,.3)
+             )+
+    coord_cartesian(ylim = c(1, 4)) +
+  
+    geom_hline(yintercept = male_actual, linetype=2, col='#f8961e', lwd=1)+
+      annotate(
+        "text", x = 1.5, y = 2.34, 
+        label = "Actual Male Percep.", 
+        vjust = -0.5, size=5, col='#f8961e'
+        ) +
+    geom_errorbar(
+      aes(ymin = M - SE, ymax = M + SE), width = 0.15, lwd=0.8
+      ) +
+    scale_fill_manual(
+      values = c("#2b2d42", "#B71E42"),
+      name = "Participants'\n Gender", 
+      labels = c("Males", "Females")
+      ) +
+  
+    ggtitle("PI for Male Perceptions\nby Gender") +
+      theme(
+       plot.title = element_text(size=25, hjust = 0.5, face = "bold"),
+       axis.text.x=element_text(size=20, colour = c("#2b2d42", "#B71E42")),
+       axis.ticks.x=element_blank(),
+       axis.text.y=element_text(size=15),
+       axis.ticks.y=element_blank(), 
+       axis.title=element_text(size=22),
+       legend.position = "none"
+       )+
+  ylab('Perceived male percep.') +
+  xlab('Participants\' gender') +
+  scale_x_discrete(labels = c("Males", "Females")) 
+
+pi_mv 
+```
+
+
+**FEMALE PARTICIPANTS: **
+**Comparing female participants' perceptions of male views to male participants' actual views**
+
+```{r}
+t.test(avg_mv~1, mu = male_actual, data=filter(pl_wide, gender == 2))
+```
+
+<p style="color:blue">**The results show a statistically significant difference between female participants' perception of males' actual views and the perception of average males' views on the sexist scenarios. Therefore, women display pluralistic ignorance regarding male's perception of gender bias (i.e., female participants tend to overestimate other male's level of acceptance of gender bias).**</p>
+
+
+**Comparing female participants' perceptions of female views to female participants' actual views**
+
+```{r}
+t.test(avg_fv~1, mu = female_actual, data=filter(pl_wide, gender == 2))
+```
+
+<p style="color:blue">**The results show no statistically significant difference between female participants' perception of female's actual views versus the perception of the average females' view on the sexist scenarios. Therefore, we can conclude that women do not exhibit pluralistic ignorance on their perception of other women's views on gender bias (i.e., females are good at accurately estimating other womens' perceptions of gender bias).**</p>
+
+# PI for the perceptions of females
+
+```{r}
+pi_fv <- pl_wide %>% 
+  group_by(gender) %>%
+  summarize(M = mean(avg_fv),
+            SE = sd(avg_fv)/sqrt(n()))%>%
+
+  ggplot(aes(x = gender, y = M, fill = gender)) +
+    geom_bar(position='dodge', 
+             stat='identity', 
+             width=c(.3,.3)
+             )+
+    coord_cartesian(ylim = c(1, 4)) +
+  
+    geom_hline(yintercept = female_actual, linetype=2, col='#f8961e', lwd=1)+
+      annotate(
+        "text", x = 1.5, y = 2.0, 
+        label = "Actual Female Percep.", 
+        vjust = -0.5, size=5, col='#f8961e'
+        ) +
+    geom_errorbar(
+      aes(ymin = M - SE, ymax = M + SE), width = 0.15, lwd=0.8
+      ) +
+    scale_fill_manual(
+      values = c("#2b2d42", "#B71E42"),
+      name = "Participants'\n Gender", 
+      labels = c("Males", "Females")
+      ) +
+  
+    ggtitle("PI for Female Perceptions\nby Gender") +
+      theme(
+       plot.title = element_text(size=25, hjust = 0.5, face = "bold"),
+       axis.text.x=element_text(size=20, colour = c("#2b2d42", "#B71E42")),
+       axis.ticks.x=element_blank(),
+       axis.text.y=element_text(size=15),
+       axis.ticks.y=element_blank(), 
+       axis.title=element_text(size=22),
+       legend.position = "none"
+       )+
+  ylab('Perceived female percep.') +
+  xlab('Participants\' gender') +
+  scale_x_discrete(labels = c("Males", "Females")) 
+
+pi_fv
+```
+
+
+### 
+
+```{r}
+ggarrange(pi_mv, pi_fv, ncol = 2, nrow = 1)
+#ggsave("perceptions.pdf", figure, device = "pdf")
+```
+
+
+
+## **SEXIST ATTITUDES**
+
+**Displaying uploaded file for sexist attitudes (file contains rating for own views only)**
+
+```{r}
+head(ownViews_df)
+```
+
+**Sexist attitudes by gender**
+
+```{r}
+#label=c("Man", "Woman", "Non-binary")
+
+#boxplot(scenario_avg~gender, data=ownViews_df, col=c("blue", "red", "lightblue"),
+#        main="Sexist Attitudes by Gender", xlab="Gender", ylab="Responses", names=label)
+```
+
+**Sexist attitudes by race**
+
+```{r}
+#label_r=c("Asian", "Black", "Black&White", "Hispanic", "White", "White&Hispanic")
+
+boxplot(scenario_avg~race, data=ownViews_df,
+        main="Sexist Attitudes by Race", xlab="Race", ylab="Responses")
+```
+
+..................
+
+**Filtering to exclude non-binary participants**
+
+```{r}
+s_attitudes <- ownViews_df[!ownViews_df$gender == "5",]
+```
+
+**Filtering by female participants only**
+
+```{r}
+f_satt <- s_attitudes %>% filter(gender==2)
+head(f_satt)
+```
+
+**RELATIONSHIP BETWEEN PI & SEXIST ATTITUDES**
+**estimating male participants PI to their tendency to exhibit SA**
+
+```{r}
+male_diff <- male_wide$avg_mv - male_actual
+female_diff <- female_wide$avg_fv - female_actual
+
+cor(male_wide$own_views, male_diff)
+```
+
+<p style="color:blue">**The result indicates a moderately high, positive correlation between sexist attitudes and pluralistic ignorance for male participants. Therefore, men who hold pluralistically ignorant views regarding gender bias tend to exhibit sexist attitudes.**</p>
+
+
+########################
+CORRELATION
+
+```{r}
+#
+df_combined <- 
+  data.frame(
+  own_views = c(male_wide$own_views, 
+                female_wide$own_views),
+  own_viewsDF = c(rep("male_wide", nrow(male_wide)), 
+                  rep("female_wide", nrow(female_wide)))
+  )
+head(df_combined)
+
+
+ggplot(aes(x = male_diff, y = own_views), data = male_wide) + 
+  geom_point() +
+  geom_smooth(method = "lm", 
+              se = FALSE, 
+              color = "#B71E42"
+              ) +
+  theme_bw()+
+  ggtitle("Relationship Between PI & \nSexist Attitudes")+
+      theme(plot.title = element_text(size=25, hjust = 0.5, face = "bold", color = "#B71E42"),
+       axis.ticks.y=element_blank(), axis.text.x=element_text(size=20, colour = "black"),
+        axis.ticks.x=element_blank(), axis.text.y=element_text(size=20, colour = "black"),
+        axis.title=element_text(size=22), legend.position = "none",
+        legend.key.size = unit(0.5, "cm"))+
+  ylab('PI')+
+  xlab('Own views')
+```
+
+..................
+
+**estimating female participants PI to their tendency to exhibit SA**
+
+```{r}
+cor(female_wide$own_views, female_diff)
+````
+<p style="color:blue">**The result indicates a moderately high positive correlation between sexist attitudes and pluralistic ignorance for female participants. Thus, women who hold pluralistically ignorant views on gender bias tend to exhibit more sexist attitudes.**</p>
