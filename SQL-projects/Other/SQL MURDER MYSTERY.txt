@@ -1,0 +1,102 @@
+			SQL MURDER MYSTERY
+--------------------------------------------------------------------------
+
+PART I: THE MURDERER
+
+SELECT DISTINCT id, name, address_street_name, address_number
+FROM person
+WHERE id = '14887' OR id = '16371'
+------------------------------------------------------------------------
+
+SELECT DISTINCT person_id, event_name, date
+FROM facebook_event_checkin
+WHERE person_id = '16371' OR person_id = '14887'
+------------------------------------------------------------------------
+
+SELECT DISTINCT person_id, event_name, date
+FROM facebook_event_checkin
+WHERE date = '20180115' AND event_name = 'The Funky Grooves Tour'
+------------------------------------------------------------------------
+
+SELECT DISTINCT id, name, address_street_name, address_number
+FROM person
+WHERE id = '67318'
+
+-------------------------------------------------------
+id	name	address_street_name	address_number
+14887	Morty Schapiro	Northwestern Dr	4919
+16371	Annabel Miller	Franklin Ave	103
+67318	Jeremy Bowers	Washington Pl, Apt 3A	530
+-------------------------------------------------------
+----------------------------------------------------------------------------
+
+ANSWER: Jermey Bowers is the murder
+------
+------
+
+
+
+PART II: The criminal mastermind
+
+
+SELECT DISTINCT person_id, transcript
+FROM interview
+WHERE person_id = '67318'
+-------------------------------------------------------------------------------
+
+SELECT DISTINCT id, name, license_id, ssn
+FROM person
+WHERE id = '67318' 
+-------------------------------------------------------------------------------
+
+SELECT DISTINCT id, height, hair_color, gender, car_make, car_model
+FROM drivers_license
+WHERE hair_color = 'red' AND height >= 65 
+AND gender = 'female' AND car_make = 'Tesla' AND car_model = 'Model S'
+
+------------------------------------------------------------------------
+id	height	hair_color	gender	car_make	car_model
+202298	66	red	female	Tesla	Model S
+291182	66	red	female	Tesla	Model S
+918773	65	red	female	Tesla	Model S
+------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+SELECT person_id, event_name, date, COUNT(person_id)
+FROM facebook_event_checkin
+WHERE event_name = 'SQL Symphony Concert' AND date LIKE '201712%'
+GROUP BY person_id
+Having COUNT(person_id) = 3
+
+----------------------------------------------------------
+person_id	event_name	date	COUNT(person_id)
+24556	SQL Symphony Concert	20171224	3
+99716	SQL Symphony Concert	20171229	3
+----------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+SELECT DISTINCT id, height, hair_color, gender, car_make, car_model
+FROM drivers_license
+WHERE id = '101191' OR id = '202298' 
+
+----------------------------------------------------------------------
+id	height	hair_color	gender	car_make	car_model
+202298	66	red	female	Tesla	Model S
+----------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+SELECT DISTINCT id, name, license_id, ssn
+FROM person
+WHERE license_id = '202298'
+
+--------------------------------------------------------
+id	name	license_id	ssn
+99716	Miranda Priestly	202298	987756388
+--------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+ANSWER: Miranda Priestly
+------
+------
+
+--------------------------------------- / ---------------------------------------------
