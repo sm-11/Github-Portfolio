@@ -1,4 +1,4 @@
 # Calendar Design 
-Designed an interactive calendar with HTML, CSS, and JavaScript 
+Designed an interactive office hours calendar with HTML, CSS, and JavaScript 
 
 
