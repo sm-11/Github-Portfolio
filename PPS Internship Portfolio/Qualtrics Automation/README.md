@@ -1,1 +1,4 @@
+# Qualtrics Automation Project
+## Research
 
+The purpose of this project is centered on automating Qualtrics data retrieval and optimizing data management. The primary objective involves automating the extraction of response data from Qualtrics, systematically storing it in designated folders, and establishing integration with existing databases. Simultaneously, the secondary objective focuses on utilizing the stored data for efficient analysis through a designated program, aiming to streamline and expedite analytical processes. This approach is designed to alleviate the time-consuming nature of repetitive tasks. Additionally, a supplementary aspect of the project includes configuring Qualtrics settings to automate report generation, enhancing the overall efficiency of data-driven processes.
